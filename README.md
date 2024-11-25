@@ -5,5 +5,5 @@
 - No-code / AI tools I use / recommend
 
 Quick Links:
-- [My Tech Journal](https://github.com/chongtinghoivan/dots/wiki/My-Tech-Journal)
+- [My Tech Journal](https://github.com/chongtinghoivan/dots/blob/main/TechJournal.md)
 - [Beyond Tech](https://linktr.ee/ivan.chong)
