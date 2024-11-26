@@ -1,3 +1,7 @@
+## 26 Nov 2024
+- [Extended a 30-second harmonica playing excerpt to 3 min using Suno](https://www.linkedin.com/posts/chongtingho_suno-ai-aisong-activity-7267007210025574400-Hyaq?utm_source=share&utm_medium=member_desktop)
+- [Used Suno to create a full version Happy Birthday song](https://www.linkedin.com/posts/chongtingho_suno-ai-lyrics-activity-7267019773090127872-gMVx?utm_source=share&utm_medium=member_desktop) 
+
 ## 25 Nov 2024
 - [Backtested 𝗕𝗶𝘁𝗰𝗼𝗶𝗻 𝗦𝗵𝗮𝗿𝗽𝗲 𝗦𝗶𝗴𝗻𝗮𝗹 on Glassnode towards BTC, ETH and SOL](https://www.linkedin.com/posts/chongtingho_quantresearch-backtest-quant-activity-7266817958193094656-7IyD?utm_source=share&utm_medium=member_desktop)
 - [Added 10min param to signal generation. Ran another half day of CrewAI quant execution flow](https://www.linkedin.com/posts/chongtingho_quant-stratgyexecution-cryptoquant-activity-7266802919222460416-qbFF?utm_source=share&utm_medium=member_desktop)
