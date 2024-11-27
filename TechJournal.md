@@ -1,3 +1,6 @@
+## 27 Nov 2024
+- [Created all three 𝗕𝗶𝘁𝗰𝗼𝗶𝗻 𝗦𝗵𝗮𝗿𝗽𝗲 𝗦𝗶𝗴𝗻𝗮𝗹 (Glassnode) strategies for BTC, ETH and SOL, and ran all 3 using 3 CrewAI flows](https://www.linkedin.com/posts/chongtingho_quant-algotrade-activity-7267332568499257345-oHFF?utm_source=share&utm_medium=member_desktop)
+
 ## 26 Nov 2024
 - [Successful deployment of CrewAI flow on a free cloud-based integrated development environment (IDE), set up for overnight test](https://www.linkedin.com/posts/chongtingho_ai-crewai-quant-activity-7267166859580309504-0JjE?utm_source=share&utm_medium=member_desktop)
 - [2nd algotrade CrewAI flow created. Successfully ran locally](https://www.linkedin.com/posts/chongtingho_ai-crewai-cursorai-activity-7267099249375350784-Idp9?utm_source=share&utm_medium=member_desktop)
