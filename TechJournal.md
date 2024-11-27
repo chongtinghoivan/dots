@@ -1,4 +1,5 @@
 ## 27 Nov 2024
+- [Understood the commission fee difference between SPOT and Contract on Binance (SPOT is 5x the fee), and when to use which](https://www.binance.com/en/fee/trading)
 - [Created all three 𝗕𝗶𝘁𝗰𝗼𝗶𝗻 𝗦𝗵𝗮𝗿𝗽𝗲 𝗦𝗶𝗴𝗻𝗮𝗹 (Glassnode) strategies for BTC, ETH and SOL, and ran all 3 using 3 CrewAI flows](https://www.linkedin.com/posts/chongtingho_quant-algotrade-activity-7267332568499257345-oHFF?utm_source=share&utm_medium=member_desktop)
 
 ## 26 Nov 2024
