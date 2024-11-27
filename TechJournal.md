@@ -1,4 +1,5 @@
 ## 27 Nov 2024
+- [Successful deployment of CrewAI flow for ETHUSDT SPOT](https://www.linkedin.com/posts/chongtingho_quant-ai-crewai-activity-7267476042758402048-t8V4?utm_source=share&utm_medium=member_desktop)
 - [Successful deployment of CrewAI flow for BTCUSDT SPOT](https://www.linkedin.com/posts/chongtingho_quant-ai-crewai-activity-7267457279468167168-OtaK?utm_source=share&utm_medium=member_desktop)
 - [Successful deployment of 1st CrewAI flow for SOLUSDT SPOT](https://www.linkedin.com/posts/chongtingho_quant-ai-crewai-activity-7267424863445741568-bbMF?utm_source=share&utm_medium=member_desktop)
 - [Understood the commission fee difference between SPOT and Contract on Binance (SPOT is 5x the fee), and when to use which](https://www.binance.com/en/fee/trading)
