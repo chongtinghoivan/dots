@@ -1,4 +1,5 @@
 ## 28 Nov 2024
+- [Debugged the position reduction flow for BSS-BTC and BSS-ETH](https://www.linkedin.com/posts/chongtingho_quant-ai-quantdeveloper-activity-7267768124983111680-sLkv?utm_source=share&utm_medium=member_desktop)
 - Debugged the existing quant execution CrewAI flow files, mainly fixed "Get Data" and "Telegram Message" issues
 
 ## 27 Nov 2024
