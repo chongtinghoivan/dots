@@ -1,4 +1,5 @@
 ## 28 Nov 2024
+- [Another trial of Suno music "Extend" function, with the excerpt of 青春告別式](https://www.linkedin.com/posts/chongtingho_suno-oqyjithyyhovizz-hinscheung-activity-7267909008089374720-Qc6w?utm_source=share&utm_medium=member_desktop)
 - [Successfully run the quant trading flow on AWS](https://www.linkedin.com/posts/chongtingho_quant-ai-quantdeveloper-activity-7267874967663337473-A2cG?utm_source=share&utm_medium=member_desktop)
 - [Debugged the position reduction flow for BSS-BTC and BSS-ETH](https://www.linkedin.com/posts/chongtingho_quant-ai-quantdeveloper-activity-7267768124983111680-sLkv?utm_source=share&utm_medium=member_desktop)
 - Debugged the existing quant execution CrewAI flow files, mainly fixed "Get Data" and "Telegram Message" issues
