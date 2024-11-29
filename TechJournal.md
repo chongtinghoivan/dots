@@ -1,3 +1,6 @@
+## 29 Nov 2024
+- [Building my first TypeScript web app](https://www.linkedin.com/posts/chongtingho_quant-ai-quantdeveloper-activity-7268279977056321536-02YQ?utm_source=share&utm_medium=member_desktop)
+
 ## 28 Nov 2024
 - [Version 2 of Extended music by Suno for the excerpt of 青春告別式](https://www.linkedin.com/posts/chongtingho_suno-harmonica-cover-activity-7267919572920340481-KyPQ?utm_source=share&utm_medium=member_desktop)
 - [Another trial of Suno music "Extend" function, with the excerpt of 青春告別式](https://www.linkedin.com/posts/chongtingho_suno-oqyjithyyhovizz-hinscheung-activity-7267909008089374720-Qc6w?utm_source=share&utm_medium=member_desktop)
