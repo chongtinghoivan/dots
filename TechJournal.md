@@ -1,3 +1,6 @@
+## 2 Dec 2024
+- ["𝗤𝘂𝗮𝗻𝘁 𝗔𝗹𝗽𝗵𝗮 𝗦𝗶𝗴𝗻𝗮𝗹𝘀" App updated. Added BSS-ETH-Spot signal. Amended time display format 👨🏻‍💻](https://www.linkedin.com/posts/chongtingho_quant-ai-quantdeveloper-activity-7269020502411620353-5YRZ?utm_source=share&utm_medium=member_desktop)
+
 ## 30 Nov 2024
 - ["𝗤𝘂𝗮𝗻𝘁 𝗔𝗹𝗽𝗵𝗮 𝗦𝗶𝗴𝗻𝗮𝗹𝘀" App building in progress 👨🏻‍💻](https://www.linkedin.com/posts/chongtingho_quant-ai-quantdeveloper-activity-7268295407443550208-8-YD?utm_source=share&utm_medium=member_desktop)
 
