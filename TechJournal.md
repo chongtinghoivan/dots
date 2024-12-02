@@ -1,5 +1,5 @@
 ## 2 Dec 2024
-- [Bought domain quantalphasignal.com, set up social media accounts and website](https://www.linkedin.com/posts/chongtingho_quant-quantdeveloper-algotrade-activity-7269379138119966721-oCou?utm_source=share&utm_medium=member_desktop)
+- [Bought domain 𝗤𝘂𝗮𝗻𝘁𝗔𝗹𝗽𝗵𝗮𝗦𝗶𝗴𝗻𝗮𝗹.𝗰𝗼𝗺, set up social media accounts and website](https://www.linkedin.com/posts/chongtingho_quant-quantdeveloper-algotrade-activity-7269379138119966721-oCou?utm_source=share&utm_medium=member_desktop)
 - [Added BSS-SOL-Spot signal to "𝗤𝘂𝗮𝗻𝘁 𝗔𝗹𝗽𝗵𝗮 𝗦𝗶𝗴𝗻𝗮𝗹𝘀" App. Widened the central pane and further amended time display format](https://www.linkedin.com/posts/chongtingho_quant-ai-quantdeveloper-activity-7269145691816366080-yBFT?utm_source=share&utm_medium=member_desktop)
 - ["𝗤𝘂𝗮𝗻𝘁 𝗔𝗹𝗽𝗵𝗮 𝗦𝗶𝗴𝗻𝗮𝗹𝘀" App updated. Added BSS-ETH-Spot signal. Amended time display format 👨🏻‍💻](https://www.linkedin.com/posts/chongtingho_quant-ai-quantdeveloper-activity-7269020502411620353-5YRZ?utm_source=share&utm_medium=member_desktop)
 
