@@ -1,4 +1,5 @@
 ## 6 Dec 2024
+- [Gathered my harmonica-related testimonials from my Facebook using the Google Chrome extension I developed](https://www.linkedin.com/posts/chongtingho_ai-personalizedtool-aitool-activity-7270820965092061184-YkO8?utm_source=share&utm_medium=member_desktop)
 - Learnt a new tool called [BISHENG](https://github.com/dataelement/bisheng)
 - Learnt about the potential integration of flowise with n8n
 
