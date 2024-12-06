@@ -1,3 +1,13 @@
+## 6 Dec 2024
+- Learnt a new tool called [BISHENG](https://github.com/dataelement/bisheng)
+- Learnt about the potential integration of flowise with n8n
+
+## 5 Dec 2024
+- Watched a couple of videos about using Xano as backend. Went through the demo setting up a database
+
+## 4 Dec 2024
+- Continued trying different use cases of Automa
+
 ## 3 Dec 2024
 - [Learning how to use an automation tool called Automa](https://www.linkedin.com/posts/chongtingho_tool-automation-nocode-activity-7269742069722611714-Iksl?utm_source=share&utm_medium=member_desktop)
 
