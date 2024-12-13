@@ -1,3 +1,35 @@
+## 13 Dec 2024
+- Registered social media accounts for TimeMyFlow (Instagram, Facebook Page, Linktree, Spotify, Pinterest, YouTube
+- Edited the ad-placement / sponsor section; Added Co-op Digital Consulting as sponsor of the month 
+- Launched on LinkedIn
+- Posted 3 social media posts to Instagram, Facebook Page, Pinterest, LinkedIn
+
+## 12 Dec 2024
+- Registered domain for "TimeMyFlow" using Cloudflare
+- Registered business email using Lark
+- Continued to test and debug to make all translated terms of different languages work
+- Added "Privacy Policy", "Terms of Services" to the web app
+- Created business emails for ad placement and enquiry
+- Basically decided the business model of the "TimeMyFlow" web app
+- Connected the "Buy Me A Coffee" button to Airwallex payment link
+
+## 11 Dec 2024
+- Added the support of multiple languages so as to allow the "TimeMyFlow" web app serves more potential users
+
+## 10 Dec 2024
+- Performed lots of testing and debugging to ensure all the features of the "TimeMyFlow" web app work as desired
+
+## 9 Dec 2024
+- Continued to develop the "TimeMyFlow" web app so that it also works using mobile phones
+
+## 8 Dec 2024
+- Completed the development of the desktop and laptop version of "TimeMyFlow" web app using Cursor
+
+## 7 Dec 2024
+- Created a Google Chrome extension using Codeium Windsurf to allow myself entering the flow state more easily
+- Found that a google chrome extension cannot achieve what I intended to achieve when switching tabs; thus decided to try creating a web app instead
+- Performed a domain searche on Cloudflare and check the availability of social media channels using BrandSnag, finally decided to pick "TimeMyFlow.com" as my target domain to build the web app
+
 ## 6 Dec 2024
 - [Gathered my harmonica-related testimonials from my Facebook using the Google Chrome extension I developed](https://www.linkedin.com/posts/chongtingho_ai-personalizedtool-aitool-activity-7270820965092061184-YkO8?utm_source=share&utm_medium=member_desktop)
 - Learnt a new tool called [BISHENG](https://github.com/dataelement/bisheng)
