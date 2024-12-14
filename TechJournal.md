@@ -1,3 +1,7 @@
+## 14 Dec 2024
+- [Created a testimonial page for TimeMyFlow using systeme.io](https://testimonials.timemyflow.com/)
+- Scheduled web app launch using Product Hunt
+
 ## 13 Dec 2024
 - Registered social media accounts for TimeMyFlow (Instagram, Facebook Page, Linktree, Spotify, Pinterest, YouTube
 - Edited the ad-placement / sponsor section; Added Co-op Digital Consulting as sponsor of the month 
