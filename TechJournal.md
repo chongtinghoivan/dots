@@ -1,3 +1,7 @@
+## 15 Dec 2024
+- Continued to post to social media channels introducing the "flow state" in different languages
+- [TimeMyFlow having 500+ visitors](https://www.linkedin.com/posts/chongtingho_some-stat-of-timemyflow-looking-forward-activity-7274088498750496769-_AP-?utm_source=share&utm_medium=member_desktop) 
+
 ## 14 Dec 2024
 - [Created a testimonial page for TimeMyFlow using systeme.io](https://testimonials.timemyflow.com/)
 - [Scheduled web app launch using Product Hunt](https://www.producthunt.com/posts/timemyflow)
