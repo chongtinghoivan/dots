@@ -1,6 +1,6 @@
 ## 14 Dec 2024
 - [Created a testimonial page for TimeMyFlow using systeme.io](https://testimonials.timemyflow.com/)
-- Scheduled web app launch using Product Hunt
+- [Scheduled web app launch using Product Hunt](https://www.producthunt.com/posts/timemyflow)
 
 ## 13 Dec 2024
 - Registered social media accounts for TimeMyFlow (Instagram, Facebook Page, Linktree, Spotify, Pinterest, YouTube
