@@ -1,3 +1,6 @@
+## 16 Dec 2024
+- [Completed the first phase of social media marketing promotion of TimeMyFlow, introducing the concept of "flow state" in 25 different languages](https://www.linkedin.com/posts/chongtingho_flow-flowstate-webapp-activity-7274328258911834112-PzWo?utm_source=share&utm_medium=member_desktop) 
+
 ## 15 Dec 2024
 - Continued to post to social media channels introducing the "flow state" in different languages
 - [TimeMyFlow having 500+ visitors](https://www.linkedin.com/posts/chongtingho_some-stat-of-timemyflow-looking-forward-activity-7274088498750496769-_AP-?utm_source=share&utm_medium=member_desktop) 
