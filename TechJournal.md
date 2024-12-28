@@ -1,3 +1,6 @@
+## 28 Dec 2024
+- [Launched Text Formatter](https://www.linkedin.com/posts/chongtingho_im-happy-to-share-that-im-starting-a-new-activity-7278672661612830720-Dr1J?utm_source=share&utm_medium=member_desktop)
+
 ## 16 Dec 2024
 - [Completed the first phase of social media marketing promotion of TimeMyFlow, introducing the concept of "flow state" in 25 different languages](https://www.linkedin.com/posts/chongtingho_flow-flowstate-webapp-activity-7274328258911834112-PzWo?utm_source=share&utm_medium=member_desktop) 
 
