@@ -1,3 +1,10 @@
+## 1 Jan 2025
+- Failed the application of Adsense for TimeMyFlow. Learnt the other alternatives of Adsense.
+- Tested HilltopAds for TimeMyFlow.
+- [Test TimeMyFlow using RichAds on Telegram Mini App.](https://t.me/timemyflowbot/app)
+- [Added the game 2048 to TimeMyFlow subdomain to test RichAds on Telegram Mini App.](https://t.me/timemyflowbot/Game2048)
+- [Added the game Skip 7 to TimeMyFlow subdomain to test RichAds on Telegram Mini App.](https://t.me/timemyflowbot/skip7)
+
 ## 28 Dec 2024
 - [Launched Text Formatter](https://www.linkedin.com/posts/chongtingho_im-happy-to-share-that-im-starting-a-new-activity-7278672661612830720-Dr1J?utm_source=share&utm_medium=member_desktop)
 
