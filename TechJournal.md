@@ -1,3 +1,9 @@
+## 2 Jan 2025
+- Removed the HilltopAds for TimeMyFlow due to UX
+- Tried using Cursor to give student marks for their concert reports referencing a marking benchmark. Good to see it works with csv.
+- Spent quite a lot of time in dealing with the hallucination problem by the LLM and cross-checking generated results, which is undesirable.
+- Also experimented only generating marks without asking for the output of "feedback" and rationale for giving each mark. The process is much faster. 
+
 ## 1 Jan 2025
 - Failed the application of Adsense for TimeMyFlow. Learnt the other alternatives of Adsense.
 - Tested HilltopAds for TimeMyFlow.
