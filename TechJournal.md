@@ -1,5 +1,15 @@
+## 8 Jan 2025
+- Explored Bisheng to locally create workflow and agents.
+
+## 7 Jan 2025
+- Shared access of whiteboard to others using Canva Team.
+
+## 6 Jan 2025
+- Learnt how to create Wix form and payment setup.
+- Learnt how to create whiteboard using Canva.
+
 ## 2 Jan 2025
-- Removed the HilltopAds for TimeMyFlow due to UX
+- Removed the HilltopAds for TimeMyFlow due to UX concern.
 - Tried using Cursor to give student marks for their concert reports referencing a marking benchmark. Good to see it works with csv.
 - Spent quite a lot of time in dealing with the hallucination problem by the LLM and cross-checking generated results, which is undesirable.
 - Also experimented only generating marks without asking for the output of "feedback" and rationale for giving each mark. The process is much faster. 
