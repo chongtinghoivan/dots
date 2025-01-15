@@ -1,5 +1,15 @@
+## 15 Jan 2025
+- Used the transition and animation effects of Canva to create a morphing effect switching from one logo to another.
+- Downloaded ComfiyUI workflow and planning to create a logo morphing video using AnimateDiff.
+- Installed 影刀 and started learning its basics from official training videos.
+- Learnt the marketing strategies and tools used by Momen via the sharing of its CMO. 
+
+## 14 Jan 2025
+- Learnt the basics of Affinity Designer 2 to create vector logo.
+- Used Canva to apply the logo to products to visualize the effect on different products.
+
 ## 8 Jan 2025
-- Explored Bisheng to locally create workflow and agents.
+- Explored Bisheng to locally create workflow and agents. Need to solve the docker container access issue for the local LLM.
 
 ## 7 Jan 2025
 - Shared access of whiteboard to others using Canva Team.
