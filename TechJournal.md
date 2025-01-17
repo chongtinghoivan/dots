@@ -1,5 +1,10 @@
 ## 17 Jan 2025
-- Built an AI Chatbot for SPCC Summer Portal 2025 using voiceflow
+- Built an AI Chatbot for SPCC Summer Portal 2025 using voiceflow.
+- Refreshed how to do mail merge to labels using Microsoft Word and Excel
+
+## 16 Jan 2025
+- [Attended the Gen AI workshop hosted by Time Auction Co'asis Programme.](https://www.linkedin.com/posts/chongtingho_thank-you-andrew-h-chen-for-his-sharing-activity-7285578899365810176-y9nP?utm_source=share&utm_medium=member_desktop)
+- Learnt how to apply Gen AI knowledge on grant proposal writing.
 
 ## 15 Jan 2025
 - Used the transition and animation effects of Canva to create a morphing effect switching from one logo to another.
