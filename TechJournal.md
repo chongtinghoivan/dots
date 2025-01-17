@@ -1,6 +1,7 @@
 ## 17 Jan 2025
 - Built an AI Chatbot for SPCC Summer Portal 2025 using voiceflow.
-- Refreshed how to do mail merge to labels using Microsoft Word and Excel
+- Refreshed how to do mail merge to labels using Microsoft Word and Excel.
+- [Used ComfyUI Animatediff to create video with morphing effects from input of 4 photos](https://www.youtube.com/watch?v=AUKQfJZX-78&t=582s&ab_channel=MDMZ). 
 
 ## 16 Jan 2025
 - [Attended the Gen AI workshop hosted by Time Auction Co'asis Programme.](https://www.linkedin.com/posts/chongtingho_thank-you-andrew-h-chen-for-his-sharing-activity-7285578899365810176-y9nP?utm_source=share&utm_medium=member_desktop)
