@@ -1,3 +1,6 @@
+## 17 Jan 2025
+- Built an AI Chatbot for SPCC Summer Portal 2025 using voiceflow
+
 ## 15 Jan 2025
 - Used the transition and animation effects of Canva to create a morphing effect switching from one logo to another.
 - Downloaded ComfiyUI workflow and planning to create a logo morphing video using AnimateDiff.
