@@ -1,3 +1,6 @@
+## 18 Jan 2025
+- [Used krea.ai to test image morphing to video](https://www.linkedin.com/posts/chongtingho_animation-imagemorphing-ai-activity-7286196822111371264-9c11?utm_source=share&utm_medium=member_desktop)
+
 ## 17 Jan 2025
 - Built an AI Chatbot for SPCC Summer Portal 2025 using voiceflow.
 - Refreshed how to do mail merge to labels using Microsoft Word and Excel.
