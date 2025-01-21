@@ -1,3 +1,6 @@
+## 20 Jan 2025
+- Visited 深圳市人工智能与机器人研究院（Shenzhen Institute of Artificial Intelligence and Robotics for Society，简称AIRS）and got deeply impressed by the AI x Robotics applications shared by Associate Director Dr. Long HAN
+
 ## 18 Jan 2025
 - [Used krea.ai to test image morphing to video](https://www.linkedin.com/posts/chongtingho_animation-imagemorphing-ai-activity-7286196822111371264-9c11?utm_source=share&utm_medium=member_desktop)
 
