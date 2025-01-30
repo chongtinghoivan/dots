@@ -1,3 +1,9 @@
+## 30 Jan 2025
+- Learnt 影刀 RPA via its online learning course
+
+## 28 Jan 2025
+- [Downloaded and tested DeepSeek R1 locally](https://www.linkedin.com/posts/chongtingho_on-this-very-last-day-of-the-year-of-the-activity-7290017826130538496-X1nc?utm_source=share&utm_medium=member_desktop)
+
 ## 20 Jan 2025
 - Visited 深圳市人工智能与机器人研究院（Shenzhen Institute of Artificial Intelligence and Robotics for Society，简称AIRS）and got deeply impressed by the AI x Robotics applications shared by Associate Director Dr. Long HAN
 
