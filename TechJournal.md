@@ -1,3 +1,6 @@
+## 2 Feb 2025
+- [Passed the first exam of 影刀 RPA and got the 影刀初级RPA技能证书](https://www.linkedin.com/posts/chongtingho_passed-the-first-certification-exam-of-%E5%BD%B1%E5%88%80-activity-7291809543800401921-CauH?utm_source=share&utm_medium=member_desktop)
+
 ## 30 Jan 2025
 - Learnt 影刀 RPA via its online learning course
 
