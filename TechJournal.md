@@ -1,3 +1,21 @@
+## 8 Feb 2025
+- Communicated with Wix support to reconfirm the domain connection status for the St. Paul's Co-ed Summer Portal 2025 website.
+- Prepared and sent the test email of the Brevo campaign to Portal Director.
+
+## 7 Feb 2025
+- Walked through Oncehub, Voiceflow, Brevo and Mailerlite with Portal Director, synced up with him on the current setting and configuration, as well as all the testing being done so far.
+- Gave advice to my harmonica student Melody on her final year capstone project for a research on harmonica grading system. Suggested her to use Perplexity and DeepSeek R1 to better find references and created the framework of her research.
+
+## 6 Feb 2025
+- Accomplished the first cloning of AI Chatbot using Voiceflow for the St. Paul's Co-ed Summer Portal 2025 project, as the original one is linked to my personal Google email.
+
+## 5 Feb 2025
+- Set up Brevo account for St. Paul's Co-ed Summer Portal 2025, for sending emails to past Summer Portal participants
+- Set up Mailerlite account for St. Paul's Co-ed Summer Portal 2025, for sending emails to local primary and secondary schools.
+
+## 4 Feb 2025
+- Set up Oncehub for St. Paul's Co-ed Summer Portal 2025, for online interview scheduling by applicants with the Portal Director.
+
 ## 2 Feb 2025
 - [Passed the first exam of 影刀 RPA and got the 影刀初级RPA技能证书](https://www.linkedin.com/posts/chongtingho_passed-the-first-certification-exam-of-%E5%BD%B1%E5%88%80-activity-7291809543800401921-CauH?utm_source=share&utm_medium=member_desktop)
 
