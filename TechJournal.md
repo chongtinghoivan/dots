@@ -3,6 +3,7 @@
 - Prepared and sent the test email of the Brevo campaign to Portal Director.
 - Advised the Portal Director to follow up on preparing an Impressum, for Facebook Page as well as link of "Inprint" in Brevo.
 - Advised the Portal Director to apply for YouTube handle, so as to make the link of the YouTube channel more concise and enhance the overall branding of the Summer Portal.
+- [Updated case blog post of Co-op Digital Consulting ](https://digital.co-op.group/ai-tools-sharing-2024)
 
 ## 7 Feb 2025
 - Walked through Oncehub, Voiceflow, Brevo and Mailerlite with Portal Director, synced up with him on the current setting and configuration, as well as all the testing being done so far.
