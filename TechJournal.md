@@ -1,3 +1,9 @@
+## 11 Feb 2025
+- Learnt how to use custom font for Mailchimp email campaign.
+
+## 10 Feb 2025
+- Rebuilt the Summer Portal 2025 email campaign using Mailchimp.
+
 ## 8 Feb 2025
 - Communicated with Wix support to reconfirm the domain connection status for the St. Paul's Co-ed Summer Portal 2025 website.
 - Prepared and sent the test email of the Brevo campaign to Portal Director.
