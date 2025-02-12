@@ -1,3 +1,6 @@
+## 12 Feb 2025
+- Learnt how to handle data validations of Wix form using functions. 
+
 ## 11 Feb 2025
 - Learnt how to use custom font for Mailchimp email campaign.
 
