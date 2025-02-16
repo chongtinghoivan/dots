@@ -1,5 +1,6 @@
 ## 16 Feb 2025
 - [Invited to Deliver AI Workshop "Free AI Tools to Unleash Creativity and Maximize Learning Potentials"](https://www.linkedin.com/posts/chongtingho_ai-aitools-workshop-activity-7296827352750178305-9pvg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
+- [Learnt how to adjust the preview of Instagram post](https://www.youtube.com/watch?v=J9W5zpbIc5E&ab_channel=AppTutor)
 
 ## 15 Feb 2025
 - Created name cards for all the directors of Hong Kong Harmonica Association using Adobe Illustrator
