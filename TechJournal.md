@@ -1,3 +1,6 @@
+## 17 Feb 2025
+- Tested how to use DeepSeek + Suno to create AI-generated songs with reference to the music style of a singer. Used Eason Chan as an example in this test case, the [Poe prompt + DeepSeek generated outcome](https://poe.com/s/WE9o4YiIHIPTjhkPhMca) and sample [outcome 1](https://suno.com/song/632cea1d-06ad-49e1-9e73-514935740c49) and [outcome 2](https://suno.com/song/aeb29f2c-c745-4fbd-92d4-885948793ba4) from Suno are generated in 30 minutes.
+
 ## 16 Feb 2025
 - [Invited to Deliver AI Workshop "Free AI Tools to Unleash Creativity and Maximize Learning Potentials"](https://www.linkedin.com/posts/chongtingho_ai-aitools-workshop-activity-7296827352750178305-9pvg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
 - [Learnt how to adjust the preview of Instagram post](https://www.youtube.com/watch?v=J9W5zpbIc5E&ab_channel=AppTutor)
