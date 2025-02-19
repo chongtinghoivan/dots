@@ -1,5 +1,12 @@
+## 19 Feb 2025
+- Attended ConsensusHK 2025
+
+## 18 Feb 2025
+- Hosted the 3rd Board of Directors meeting of Hong Kong Harmonica Association in the format of online + onsite.
+
 ## 17 Feb 2025
 - Tested how to use DeepSeek + Suno to create AI-generated songs with reference to the music style of a singer. Used Eason Chan as an example in this test case, the [Poe prompt + DeepSeek generated outcome](https://poe.com/s/WE9o4YiIHIPTjhkPhMca) and sample [outcome 1](https://suno.com/song/632cea1d-06ad-49e1-9e73-514935740c49) and [outcome 2](https://suno.com/song/aeb29f2c-c745-4fbd-92d4-885948793ba4) from Suno are generated in 30 minutes.
+- Attended the event "Crypto 2025:解码AI、MEME、ETF重塑下的数字经济新纪元" at Bytedance office at IFC
 
 ## 16 Feb 2025
 - [Invited to Deliver AI Workshop "Free AI Tools to Unleash Creativity and Maximize Learning Potentials"](https://www.linkedin.com/posts/chongtingho_ai-aitools-workshop-activity-7296827352750178305-9pvg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
