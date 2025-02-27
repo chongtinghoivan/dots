@@ -1,3 +1,14 @@
+## 26 Feb 2025
+- Used Snapchat Lens Studio to create photo frame filter, as an alternative solution for Meta Spark Studio
+- Created KC Annual Open Days 2025 Board design using Adobe Illustrator
+- [Launched CAS Finale Concert email campaign for Hong Kong Harmonica Association using Mailchimp](https://mailchi.mp/890c87b3a880/cas-closingceremony-2025)
+
+## 24 Feb 2025
+- Back to quant backtesting. Got good results for US Spot ETF Net Flows on BTC and ETH.
+
+## 22 Feb 2025
+- Started learning more on AirTable
+
 ## 19 Feb 2025
 - Attended ConsensusHK 2025
 
