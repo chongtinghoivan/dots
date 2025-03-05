@@ -1,3 +1,11 @@
+## 5 Mar 2025
+- [Get certified as Airtable Certified Builder](https://www.linkedin.com/posts/chongtingho_airtable-builder-activity-7303081113130803200-WMHY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
+- Successfully tested how to colourize a black and white photo using AI tools
+- Successfully tested how to turn a colourized photo into animated video using AI tools
+
+## 1 Mar 2025
+- Attended event “Pitch Your Way into Web3” at PolyU
+
 ## 26 Feb 2025
 - Used Snapchat Lens Studio to create photo frame filter, as an alternative solution for Meta Spark Studio
 - Created KC Annual Open Days 2025 Board design using Adobe Illustrator
