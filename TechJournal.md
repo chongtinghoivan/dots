@@ -1,5 +1,9 @@
+## 7 Mar 2025
+- Sent another email campaign using Brevo for Hong Kong Harmonica Association
+
 ## 6 Mar 2025
 - [Used Suno to generate space-themed music for client's selection.](https://www.linkedin.com/posts/chongtingho_ai-consulting-aimusic-activity-7303225546342076416-loKH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
+- Sent an email campaign using Brevo for Hong Kong Harmonica Association
 
 ## 5 Mar 2025
 - [Get certified as Airtable Certified Builder](https://www.linkedin.com/posts/chongtingho_airtable-builder-activity-7303081113130803200-WMHY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
