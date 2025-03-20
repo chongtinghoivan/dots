@@ -1,3 +1,13 @@
+## 19 Mar 2025
+- Created a WhatsApp Community for World Harmonica Festival 2025 - Hong Kong Harmonica Association Delegation
+
+## 17 Mar 2025
+- Explored a more economical alternative of Softr, called pory.io. Developed a prototype connecting it with Airtable.
+- Got a problem not yet resolved on user syncing at pory's portal. 
+
+## 10-16 Mar 2025
+- Developed PoD (People of Differences) Talent Job Search Portal using Airtable and Softr 
+
 ## 7 Mar 2025
 - Sent another email campaign using Brevo for Hong Kong Harmonica Association
 
