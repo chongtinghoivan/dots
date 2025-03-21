@@ -1,3 +1,6 @@
+## 21 Mar 2025
+- [Created AI Chatbot to automatically generate hashtags from video descriptions for YouTube Videos](https://www.linkedin.com/posts/chongtingho_ai-problemsolver-techtool-activity-7308861733517856769-neiL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
+
 ## 19 Mar 2025
 - Created a WhatsApp Community for World Harmonica Festival 2025 - Hong Kong Harmonica Association Delegation
 
