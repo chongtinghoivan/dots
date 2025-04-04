@@ -1,3 +1,9 @@
+## 1-4 Apr 2025
+- Created registration form on Wix for St. Paul's Co-ed Summer Portal 2025. Configured the automation steps, including sending notification emails, updating Google Sheet.
+- Used mail merge in Microsoft Word to prepare offer letters; Used "PDF Expert" to extract individual letters.
+- Used Mergo to send personalized emails.
+- [Learnt how to make Matchstick Men animations using Canva and Clipchamp](https://www.youtube.com/watch?v=t3ERWe51dgU&t=910s&ab_channel=%E5%B0%8F%E7%99%BC%E5%AD%B8%E5%A7%90)
+
 ## 21 Mar 2025
 - [Created AI Chatbot to automatically generate hashtags from video descriptions for YouTube Videos](https://www.linkedin.com/posts/chongtingho_ai-problemsolver-techtool-activity-7308861733517856769-neiL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
 
