@@ -1,3 +1,14 @@
+## 15 Apr 2025
+- Set up social media channels for ESG Extravaganza, including a [Linktree](https://linktr.ee/esgextravaganza), Facebook Page, LinkedIn Page and Instagram.
+
+## 14 Apr 2025
+- Installed the latest version of Cursor and completed the set up of configurations.
+- Scheduled a meeting for Project 2nd Life and went through the advisory of all tech tools needed by the platform.
+- Learnt more about MCP via different Youtube KOLs
+
+## 13 Apr 2025
+- Learnt and tried Canva new AI features
+
 ## 1-4 Apr 2025
 - Created registration form on Wix for St. Paul's Co-ed Summer Portal 2025. Configured the automation steps, including sending notification emails, updating Google Sheet.
 - Used mail merge in Microsoft Word to prepare 44 offer letters; Used "PDF Expert" to extract individual letters.
