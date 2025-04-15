@@ -1,5 +1,6 @@
 ## 15 Apr 2025
 - Set up social media channels for ESG Extravaganza, including a [Linktree](https://linktr.ee/esgextravaganza), Facebook Page, LinkedIn Page and Instagram.
+- Created an email campaign for KCOBA for [Annual Dinner 2025](https://mailchi.mp/da4df63a38d1/kcoba-annual-dinner2025).
 
 ## 14 Apr 2025
 - Installed the latest version of Cursor and completed the set up of configurations.
