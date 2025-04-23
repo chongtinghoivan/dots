@@ -1,3 +1,14 @@
+## 23 Apr 2025
+- Used PDFgear to perform PDF editing and found its page splitting function working very nicely. Before trying this tool, I have been using "PDF Expert" for long to edit PDF.
+- Helped Unleash Foundation to follow up on QEF application; Gained some experience using the QEF system to upload project summary and project details.
+- Scheduled a call with Project 2nd Life core team to go through the expected cost incurred integrating different tech tools to make it a functional platform to deliver the service to the targeted groups.
+- Updated Trae to the latest version which supported web search. Not yet have the time to try it out.
+
+## 22 Apr 2025
+- Helped a client to search for a suitable PDF tool that can perform OCR and can be run on-premise and can be run offline. After hours of research, found PDFgear to be a very nice free tool. You may use this [video tutorial](https://www.youtube.com/watch?v=BHBoLRR42-A&t=76s&ab_channel=KevinStratvert) to get some concept of the tool.
+- In addition, I found an open source tool called [MinerU](https://mineru.net/), which is also very powerful. Yet it can only be used with internet connection.
+- Compiled the 2nd batch of offer and reject letters for St. Paul's Co-ed Summer Portal 2025. Got more experience using the tool Mergo for mass-mailing, as well as using Microsoft Word + Google Sheet (exported as csv) for mail-merging PDF.
+
 ## 15 Apr 2025
 - Set up social media channels for ESG Extravaganza, including a [Linktree](https://linktr.ee/esgextravaganza), Facebook Page, LinkedIn Page and Instagram.
 - Created an email campaign for KCOBA for [Annual Dinner 2025](https://mailchi.mp/da4df63a38d1/kcoba-annual-dinner2025).
@@ -8,7 +19,7 @@
 - Learnt more about MCP via different Youtube KOLs
 
 ## 13 Apr 2025
-- Learnt and tried Canva new AI features
+- Learnt and tried Canva new AI features. Impressed by its database feature and bulk photo processing ability.
 
 ## 1-4 Apr 2025
 - Created registration form on Wix for St. Paul's Co-ed Summer Portal 2025. Configured the automation steps, including sending notification emails, updating Google Sheet.
