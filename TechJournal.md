@@ -1,3 +1,6 @@
+## 25 Apr 2025
+- Learnt how to registered for a "dpdns.org" domain for free using this [tutorial](https://www.youtube.com/watch?v=K_cqWsHQaGI&ab_channel=Seven%E7%A7%91%E6%8A%80%E7%94%9F%E6%B4%BB). Followed the steps and register a domain "aitoolbox.dpdns.org"
+
 ## 23 Apr 2025
 - Used PDFgear to perform PDF editing and found its page splitting function working very nicely. Before trying this tool, I have been using "PDF Expert" for long to edit PDF.
 - Helped Unleash Foundation to follow up on QEF application; Gained some experience using the QEF system to upload project summary and project details.
