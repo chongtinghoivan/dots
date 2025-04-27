@@ -1,3 +1,7 @@
+## 27 Apr 2025
+- Downloaded [Supercut](https://supercut.video/) and tested it. Impressed by various features from background removal, branding, CTA buttons, automatic caption generations, AI summary and instant sharing. Currently the video editing part is not yet supported. However, the video can be downloaded to other video editing softwares for further editing if needed. The beta version is free to use with a video length limit of 30 minutes, which is very generous.
+- Downloaded [Loom](https://www.loom.com/) and tested it. Impressed by its features including notes and Canvas.
+
 ## 25 Apr 2025
 - Learnt how to registered for a "dpdns.org" domain for free using this [tutorial](https://www.youtube.com/watch?v=K_cqWsHQaGI&ab_channel=Seven%E7%A7%91%E6%8A%80%E7%94%9F%E6%B4%BB). Followed the steps and register a domain "aitoolbox.dpdns.org"
 
