@@ -1,3 +1,7 @@
+## 28 Apr 2025
+- Handled an inpainting demand from client to remove object from video. Used Runway to tackled the problem.
+- Looked for a solution for St. Paul's Co-ed Summer Portal 2025 that can be used for free for polling of availability by volunteers. Found that Doodle and most tools alike can only support up to 20 scheduled time slots for the free tier. Finally used the tool [WhenAvailable](https://whenavailable.com/) to tackle the problem.
+
 ## 27 Apr 2025
 - Downloaded [Supercut](https://supercut.video/) and tested it. Impressed by various features from background removal, branding, CTA buttons, automatic caption generations, AI summary and instant sharing. Currently the video editing part is not yet supported. However, the video can be downloaded to other video editing softwares for further editing if needed. The beta version is free to use with a video length limit of 30 minutes, which is very generous.
 - Downloaded [Loom](https://www.loom.com/) and tested it. Impressed by its features including notes and Canvas.
