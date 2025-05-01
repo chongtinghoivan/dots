@@ -1,3 +1,9 @@
+## 30 Apr 2025
+- Downloaded Qwen3 30B A3B MLX and Qwen3 8B MLX to LM Studio
+- Tried adding GitHub to Trae via MCP.
+- Tried using Trae to deploy a Cloudflare Workers project on Quant Alpha Factor signal generation. Experienced heavy usage and long queues and switched back to Cursor to continue the development
+- Tried using Cursor to clone the Screen Studio macOS app, using a "Product Requirement Documentation" + "Task List" approach.
+
 ## 28 Apr 2025
 - Handled an inpainting demand from client to remove object from video. Used Runway to tackled the problem.
 - Looked for a solution for St. Paul's Co-ed Summer Portal 2025 that can be used for free for polling of availability by volunteers. Found that Doodle and most tools alike can only support up to 20 scheduled time slots for the free tier. Finally used the tool [WhenAvailable](https://whenavailable.com/) to tackle the problem.
