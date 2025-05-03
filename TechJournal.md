@@ -1,5 +1,6 @@
 ## 3 May 2025
-- Successfully cleaned and reinstored the operation system of an idle and unused Macbook Air (2015, 13-inch, A1466) first to OS X Yosemite, and then upgraded to macOS Monterey. Planned to use this computer to generate position signals for crypto quant alpha factors. 
+- Successfully cleaned and reinstored the operation system of an idle and unused Macbook Air (2015, 13-inch, A1466) first to OS X Yosemite, and then upgraded to macOS Monterey. Planned to use this computer to generate position signals for crypto quant alpha factors.
+- Published a [post to LinkedIn](https://www.linkedin.com/posts/chongtingho_technical-troubleshoot-logging-in-app-activity-7324231221142528000-igZ1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) to share the YouTube video that helped solving the problem logging in to App Store 
 - Tech-stack to be tested: Tencent Cloud Studio + 影刀 RPA + crewAI
 
 ## 2 May 2025
