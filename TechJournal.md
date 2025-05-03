@@ -1,8 +1,15 @@
+## 3 May 2025
+- Successfully cleaned and reinstored the operation system of an idle and unused Macbook Air (2015, 13-inch, A1466) first to OS X Yosemite, and then upgraded to macOS Monterey. Planned to use this computer to generate position signals for crypto quant alpha factors. 
+- Tech-stack to be tested: Tencent Cloud Studio + 影刀 RPA + crewAI
+
+## 2 May 2025
+- Used Qwen3 30B A3B MLX (installed using LM Studio) as a learning tool to troubleshoot tech problems as well as providing advice on writting proposals
+
 ## 30 Apr 2025
 - Downloaded Qwen3 30B A3B MLX and Qwen3 8B MLX to LM Studio
 - Tried adding GitHub to Trae via MCP.
 - Tried using Trae to deploy a Cloudflare Workers project on Quant Alpha Factor signal generation. Experienced heavy usage and long queues and switched back to Cursor to continue the development
-- Tried using Cursor to clone the Screen Studio macOS app, using a "Product Requirement Documentation" + "Task List" approach.
+- Tried using Cursor to clone the Screen Studio macOS app, using a "Product Requirement Documentation" + "Task List" approach, failed but got some good experience using this approach. Also learnt from other iOS app developers on YouTube how they developed apps with the help of AI. Will try starting with simplier iOS apps 
 
 ## 28 Apr 2025
 - Handled an inpainting demand from client to remove object from video. Used Runway to tackled the problem.
