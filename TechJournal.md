@@ -1,3 +1,6 @@
+## 13 May 2025
+- Learnt how to registered for a "qzz.io" domain for free using this [tutorial](https://www.youtube.com/watch?v=K_cqWsHQaGI&ab_channel=Seven%E7%A7%91%E6%8A%80%E7%94%9F%E6%B4%BB). Followed the steps and register a domain "lai.qzz.io"
+
 ## 12 May 2025
 - Used Microsoft Word and Excel to mail merge and prepare name badges for 60+ dinner participants of King's College Old Boys' Association 90th Anniversary Dinner
 
