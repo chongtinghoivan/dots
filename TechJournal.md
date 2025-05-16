@@ -3,6 +3,10 @@
 - 1st time tried linking a cell from other Google Sheets to a central Google Sheet, for registration status monitoring of private masterclasses of St. Paul's Co-ed Summer Portal 2025 and easier reporting to Portal Director.
 - Created Voiceflow AI chatbot for Hong Kong Harmonica Association and got it embedded to the [website](https://www.hkharmonica.org/) of the association.
 
+## 15 May 2025
+- Used Adobe Illustrator to create 5 event posters for 18 dART project of Hong Kong Harmonica Association (HKHA). 
+- Posted the poster and event info of the 1st harmonica crash course to social media channels of HKHA, including [website](https://www.hkharmonica.org/cas2025-26-harmonica-crash-course-1/), Instagram, Facebook Page and LinkedIn.
+
 ## 13 May 2025
 - Learnt how to registered for a "qzz.io" domain for free using this [tutorial](https://www.youtube.com/watch?v=K_cqWsHQaGI&ab_channel=Seven%E7%A7%91%E6%8A%80%E7%94%9F%E6%B4%BB). Followed the steps and register a domain "lai.qzz.io"
 
