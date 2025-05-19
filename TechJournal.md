@@ -1,3 +1,15 @@
+## 19 May 2025
+- Created a [Privacy Policy](https://www.hkharmonica.org/privacy-policy/) for Hong Kong Harmonica Association using Grok 3.
+- Mocked up an app for Hong Kong Harmonica Association by showing the [Linktree](https://linktr.ee/hkharmonica) page using MIT App Inventor; Went through the steps on Google Play Console to publish the app to Google Play Store. Currently in review.
+Tool used: Canva for screenshots of apps
+
+## 18 May 2025
+- Made amendments to the Voiceflow app of Hong Kong Harmonica Association.
+- Reviewed the pricing of Voiceflow and learnt that it has changed to a credit-based mode, which the free tier no longer supports monthly recharge of credits. This means after the 100 credits are used up, a paid subscription is needed.
+
+## 17 May 2025
+- Updated the [Linktree](https://linktr.ee/kcoba) page of KCOBA to let alumni download the KCOBA 90 Anniversary Booklet
+
 ## 16 May 2025
 - Registered extra "qzz.io" domains; Did some Google keyword search and Google Trend research before making the decisions.
 - 1st time tried linking a cell from other Google Sheets to a central Google Sheet, for registration status monitoring of private masterclasses of St. Paul's Co-ed Summer Portal 2025 and easier reporting to Portal Director.
