@@ -1,3 +1,6 @@
+## 26 May 2025
+- Applied a free domain using [ClouDNS](https://www.cloudns.net/), and configured it to be hosted under CloudFlare.
+
 ## 19 May 2025
 - Created a [Privacy Policy](https://www.hkharmonica.org/privacy-policy/) for Hong Kong Harmonica Association using Grok 3.
 - Mocked up an app for Hong Kong Harmonica Association by showing the [Linktree](https://linktr.ee/hkharmonica) page using MIT App Inventor; Went through the steps on Google Play Console to publish the app to Google Play Store. Currently in review.
