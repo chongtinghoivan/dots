@@ -1,3 +1,9 @@
+## 27 May 2025
+- Vibe-coded a [prototype](https://9000-firebase-studio-1748333852127.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev/
+) illustrating some of the features of "Project 2nd Life" using Google Firebase Studio, screen-recorded a [video](https://drive.google.com/file/d/13MUm0xPAVbAFxwGRXuDbfuXYKRSAN5An/view) as demo.
+- Applied a Gemini API key that allows free usage via Google AI Studio, and added a feature in the prototype to let user create an "AI Cover Letter" by pasting the job description. 
+- Added GitHub's Contribution Graph to the prototype following this [repo](https://github.com/2016rshah/githubchart-api).
+
 ## 26 May 2025
 - Applied a free domain using [ClouDNS](https://www.cloudns.net/), and configured it to be hosted under CloudFlare.
 
