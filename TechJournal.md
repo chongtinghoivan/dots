@@ -1,3 +1,6 @@
+## 3 Jun 2025
+- The [mobile app](https://play.google.com/store/apps/details?id=appinventor.ai_chongtingho.HKHA) of Hong Kong Harmonica Association has been published successfully to Google Play Store
+
 ## 27 May 2025
 - Vibe-coded a [prototype](https://9000-firebase-studio-1748333852127.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev/
 ) illustrating some of the features of "Project 2nd Life" using Google Firebase Studio, screen-recorded a [video](https://drive.google.com/file/d/13MUm0xPAVbAFxwGRXuDbfuXYKRSAN5An/view) as demo.
