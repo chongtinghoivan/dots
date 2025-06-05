@@ -1,3 +1,7 @@
+## 5 Jun 2025
+- Use Xcode and Cursor to develop the iOS app of Hong Kong Harmonica Association
+- Sent for review on App Store Connect
+
 ## 3 Jun 2025
 - The [mobile app](https://play.google.com/store/apps/details?id=appinventor.ai_chongtingho.HKHA) of Hong Kong Harmonica Association has been published successfully to Google Play Store
 - Used Cursor to help mark students' concert report in tsv format with a marking benchmark in txt format. Marked over 300 students' concert reports in 30 minutes
