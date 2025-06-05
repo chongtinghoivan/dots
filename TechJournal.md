@@ -1,6 +1,7 @@
 ## 5 Jun 2025
-- Use Xcode and Cursor to develop the iOS app of Hong Kong Harmonica Association
-- Sent for review on App Store Connect
+- Used Xcode and Cursor to develop the iOS app of Hong Kong Harmonica Association.
+- Prepared all screenshots and app logos of different mode (light, dark and tinted) using Canva.
+- Sent for review on App Store Connect.
 
 ## 3 Jun 2025
 - The [mobile app](https://play.google.com/store/apps/details?id=appinventor.ai_chongtingho.HKHA) of Hong Kong Harmonica Association has been published successfully to Google Play Store
