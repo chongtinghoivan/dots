@@ -1,3 +1,6 @@
+## 6 Jun 2025
+- Learnt a tool called Coda and completed its [Coda 101](https://coda.io/resources/courses/coda-101) video training course.
+
 ## 5 Jun 2025
 - Used Xcode and Cursor to develop the iOS app of Hong Kong Harmonica Association.
 - Prepared all screenshots and app logos of different mode (light, dark and tinted) using Canva.
