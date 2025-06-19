@@ -1,3 +1,16 @@
+## 19 Jun 2025
+- Created a LinkedIn group named [L&D Community @ Hong Kong](https://www.linkedin.com/groups/14716619/) hoping to have a space to connect with local L&D professionals.
+- Followed up on RSVP email sending to parents and students for St. Paul's Co-ed Summer Portal 2025
+- Created a Lark Base to facilitate project management of AI Tool Box Academy project
+
+## 18 Jun 2025
+- Set up aitoolbox.qzz.io using Hostry.com to manage the DNS
+- Set up business emails and group mailbox of aitoolbox.qzz.io using Lark
+- Scheduled a meeting with AI Tool Box Academy team (Nelson and Asset) and aligned the tech stack as well as a list of to-dos
+- Attended the ["Deconstructing Offbeat Sparks HK 2025: What's Behind an Inspiring Learning Event"](https://lu.ma/wmk5bhph) 
+- Followed up on RSVP email sending for St. Paul's Co-ed Summer Portal 2025
+- Followed up on "Test Buy" and event launching on art-mate for St. Paul's Co-ed Summer Portal 2025
+
 ## 6 Jun 2025
 - Learnt a tool called Coda and completed its [Coda 101](https://coda.io/resources/courses/coda-101) video training course.
 
