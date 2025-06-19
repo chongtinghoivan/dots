@@ -1,12 +1,15 @@
 ## 19 Jun 2025
 - Created a LinkedIn group named [L&D Community @ Hong Kong](https://www.linkedin.com/groups/14716619/) hoping to have a space to connect with local L&D professionals.
 - Followed up on RSVP email sending to parents and students for St. Paul's Co-ed Summer Portal 2025
-- Created a Lark Base to facilitate project management of AI Tool Box Academy project
+- Created a Lark Base to facilitate project management of AI Toolbox Academy project
+- Configured email auto-forwarding from Lark to gmail (Also an extra copy forwarded to another Lark business email) for email archival purpose.
+- Mocked up [brand logo](https://nsgxsoc6vdpc.sg.larksuite.com/file/FfxabvTtWo0AWwxmjjfl3ppPg0d?from=from_copylink) of AI Toolbox Academy using Canva
+- Got idea of [brand colours](https://nsgxsoc6vdpc.sg.larksuite.com/wiki/Wz02wt1nOiRhwwkuyeNlqoXxg2e?from=from_copylink) using Qwen 3 via LM Studio
 
 ## 18 Jun 2025
 - Set up aitoolbox.qzz.io using Hostry.com to manage the DNS
 - Set up business emails and group mailbox of aitoolbox.qzz.io using Lark
-- Scheduled a meeting with AI Tool Box Academy team (Nelson and Asset) and aligned the tech stack as well as a list of to-dos
+- Scheduled a meeting with AI Toolbox Academy team (Nelson and Asset) and aligned the tech stack as well as a list of to-dos
 - Attended the ["Deconstructing Offbeat Sparks HK 2025: What's Behind an Inspiring Learning Event"](https://lu.ma/wmk5bhph) 
 - Followed up on RSVP email sending for St. Paul's Co-ed Summer Portal 2025
 - Followed up on "Test Buy" and event launching on art-mate for St. Paul's Co-ed Summer Portal 2025
