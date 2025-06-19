@@ -12,6 +12,7 @@
 - Set up [Instagram](https://www.instagram.com/aitoolboxacademy) account for AI Toolbox Academy
 - Set up [Youtube channel](https://www.youtube.com/@AIToolboxAcademy) for AI Toolbox Academy
 - Set up [Patreon](https://www.patreon.com/AIToolboxAcademy) for AI Toolbox Academy
+- Set up Meta Business Suite for AI Toolbox Academy to allow posting to both Facebook Page and Instagram
 
 ## 18 Jun 2025
 - Set up aitoolbox.qzz.io using Hostry.com to manage the DNS
