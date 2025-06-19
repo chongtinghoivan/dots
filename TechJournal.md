@@ -5,6 +5,10 @@
 - Configured email auto-forwarding from Lark to gmail (Also an extra copy forwarded to another Lark business email) for email archival purpose.
 - Mocked up [brand logo](https://nsgxsoc6vdpc.sg.larksuite.com/file/FfxabvTtWo0AWwxmjjfl3ppPg0d?from=from_copylink) of AI Toolbox Academy using Canva
 - Got idea of [brand colours](https://nsgxsoc6vdpc.sg.larksuite.com/wiki/Wz02wt1nOiRhwwkuyeNlqoXxg2e?from=from_copylink) using Qwen 3 via LM Studio
+- Configured [custom domain](https://www.aitoolbox.qzz.io/) using Systeme.io for AI Toolbox Academy
+- Set up [LinkedIn Company page](http://linkedin.com/company/aitoolboxacademy) for AI Toolbox Academy
+- Set up [Facebook Page](https://www.facebook.com/aitoolboxacademy) for AI Toolbox Academy
+- Set up [Linktree Page](https://linktr.ee/aitoolboxacademy) for AI Toolbox Academy
 
 ## 18 Jun 2025
 - Set up aitoolbox.qzz.io using Hostry.com to manage the DNS
