@@ -1,3 +1,7 @@
+## 20 Jun 2025
+- Added categories to [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
+- Added brand logo and connect the social media platform links to [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
+
 ## 19 Jun 2025
 - Created a LinkedIn group named [L&D Community @ Hong Kong](https://www.linkedin.com/groups/14716619/) hoping to have a space to connect with local L&D professionals.
 - Followed up on RSVP email sending to parents and students for St. Paul's Co-ed Summer Portal 2025
