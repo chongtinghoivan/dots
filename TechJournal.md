@@ -9,6 +9,9 @@
 - Set up [LinkedIn Company page](http://linkedin.com/company/aitoolboxacademy) for AI Toolbox Academy
 - Set up [Facebook Page](https://www.facebook.com/aitoolboxacademy) for AI Toolbox Academy
 - Set up [Linktree Page](https://linktr.ee/aitoolboxacademy) for AI Toolbox Academy
+- Set up [Instagram](https://www.instagram.com/aitoolboxacademy) account for AI Toolbox Academy
+- Set up [Youtube channel](https://www.youtube.com/@AIToolboxAcademy) for AI Toolbox Academy
+- Set up [Patreon](https://www.patreon.com/AIToolboxAcademy) for AI Toolbox Academy
 
 ## 18 Jun 2025
 - Set up aitoolbox.qzz.io using Hostry.com to manage the DNS
