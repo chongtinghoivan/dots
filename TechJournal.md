@@ -6,6 +6,8 @@
 - Edited the [About](https://www.aitoolbox.qzz.io/about#) page of the [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
 - Created and uploaded favicon of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
 - Created the [Calendly](https://calendly.com/aitoolboxacademy) page for appointment scheduling for [AI Toolbox Academy](https://www.aitoolbox.qzz.io/)
+- Set up Brevo and created sign-up form, got it embedded to [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website for newsletter sign-up.
+- Created the [Email Confirmation](https://www.aitoolbox.qzz.io/email-confirmation) page to redirect newsletter subscribers upon their sign-up. 
 
 ## 19 Jun 2025
 - Created a LinkedIn group named [L&D Community @ Hong Kong](https://www.linkedin.com/groups/14716619/) hoping to have a space to connect with local L&D professionals.
