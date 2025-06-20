@@ -1,3 +1,8 @@
+## 21 Jun 2025
+- Configured Brevo's domain authenticate (Brevo code, DKIM, DMARC)
+- Set up reCAPTCHA on Google for the Brevo's newsletter sign-up form to prevent spamming by bots 
+
+
 ## 20 Jun 2025
 - Added categories to [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
 - Added brand logo and connect the social media platform links to [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
