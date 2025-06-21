@@ -4,7 +4,7 @@
 - Uploaded the images and school names of the 7 supporting schools to the [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
 - Added navigation to the [Supporting Schools](https://www.aitoolbox.qzz.io/about#headline-5cedfdf0) section
 - Configured top navigation bar of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
-
+- Created and published info of [1st course](https://www.aitoolbox.qzz.io/ai-photo-generation-course-leonardo-ai) 
 
 ## 20 Jun 2025
 - Added categories to [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
