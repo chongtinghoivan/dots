@@ -1,3 +1,12 @@
+## 23 Jun 2025
+- Created and published info of [2nd course](https://www.aitoolbox.qzz.io/ai-photo-generation-course-ideogram)
+- Created and published info of [3rd course](https://www.aitoolbox.qzz.io/ai-music-generation-course-suno)
+- Created and published info of [4th course](https://www.aitoolbox.qzz.io/ai-content-generation-course-poe)
+
+## 22 Jun 2025
+- Created master block using Systeme.io for course listing
+- Prepared prompt text to be used with Qwen 3 via LM Studio for course information standardization
+
 ## 21 Jun 2025
 - Configured Brevo's domain authenticate (Brevo code, DKIM, DMARC)
 - Set up reCAPTCHA on Google for the Brevo's newsletter sign-up form to prevent spamming by bots
