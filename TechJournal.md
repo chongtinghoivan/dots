@@ -2,6 +2,8 @@
 - Created and published info of [2nd course](https://www.aitoolbox.qzz.io/ai-photo-generation-course-ideogram)
 - Created and published info of [3rd course](https://www.aitoolbox.qzz.io/ai-music-generation-course-suno)
 - Created and published info of [4th course](https://www.aitoolbox.qzz.io/ai-content-generation-course-poe)
+- Created and published info of [5th course](https://www.aitoolbox.qzz.io/ai-research-and-podcast-course-perplexity-notebooklm)
+- Created and published info of [6th course](https://www.aitoolbox.qzz.io/ai-vibe-coding-course)
 
 ## 22 Jun 2025
 - Created master block using Systeme.io for course listing
