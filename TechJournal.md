@@ -1,9 +1,10 @@
 ## 25 Jun 2025
-- Edited and enhanced the Linktree profile, added links to "[Supporting Schools](https://www.aitoolbox.qzz.io/about#headline-5cedfdf0)", "[About Us](https://www.aitoolbox.qzz.io/about)" and "[Founding Team](https://www.aitoolbox.qzz.io/about#headline-f6605d9a)"
+- Edited and enhanced the [Linktree](https://linktr.ee/aitoolboxacademy) profile, added links to "[Supporting Schools](https://www.aitoolbox.qzz.io/about#headline-5cedfdf0)", "[About Us](https://www.aitoolbox.qzz.io/about)" and "[Founding Team](https://www.aitoolbox.qzz.io/about#headline-f6605d9a)"
 - Added customized thumbnail photos for the above three links on Linktree, created using Canva
 - Used my Poe and Coze bots to add emojis and hashtags for social media post creation
 - Scheduled 1st course post to Facebook Page and Instagram of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) 
-- Posted [1st course post](https://www.linkedin.com/feed/update/urn:li:activity:7343415044057067521) to LinkedIn Page of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) 
+- Posted [1st course post](https://www.linkedin.com/feed/update/urn:li:activity:7343415044057067521) to LinkedIn Page of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/)
+- Added "Contact Us" link to [Linktree](https://linktr.ee/aitoolboxacademy)
 
 ## 24 Jun 2025
 - Debugged the category filtering button of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
