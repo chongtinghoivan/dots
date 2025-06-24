@@ -2,6 +2,7 @@
 - Debugged the category filtering button of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
 - Watched a [YouTube](https://youtu.be/X11sOh1cU3A?si=4Fb-R5QlDGDZV3pu) tutorial and learnt the workflow to better use Felo.ai for AI presentation generation
 - Built a pitch deck targeting secondary schools using [Felo.ai](https://felo.ai/)
+- Modified and tested the master block for newsletter sign-up appeared at the side of blog post shown at desktop view
 
 ## 23 Jun 2025
 - Created and published info of [2nd course](https://www.aitoolbox.qzz.io/ai-photo-generation-course-ideogram)
