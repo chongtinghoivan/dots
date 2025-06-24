@@ -1,3 +1,7 @@
+## 25 Jun 2025
+- Edited and enhanced the Linktree profile, added links to "[Supporting Schools](https://www.aitoolbox.qzz.io/about#headline-5cedfdf0)", "[About Us](https://www.aitoolbox.qzz.io/about)" and "[Founding Team](https://www.aitoolbox.qzz.io/about#headline-f6605d9a)"
+- Added customized thumbnail photos for the above three links on Linktree, created using Canva
+
 ## 24 Jun 2025
 - Debugged the category filtering button of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
 - Watched a [YouTube](https://youtu.be/X11sOh1cU3A?si=4Fb-R5QlDGDZV3pu) tutorial and learnt the workflow to better use Felo.ai for AI presentation generation
