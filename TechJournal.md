@@ -21,6 +21,9 @@
 - Posted to Instagram Story of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy) and created the relevant collection of "AI Courses"
 - Scheduled 6th course post (7pm) to Facebook Page and Instagram of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
 - Posted [6th course post](https://www.linkedin.com/feed/update/urn:li:activity:7343480848026910720) to LinkedIn Page of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
+- Coached one member of the board of directors of Hong Kong Harmonica Association (HKHA) to use Mergo to send mass mails for the upcoming audition of HKHA Orchestra
+- Installed Dia browser
+- Tried Perplexity Pro in terms of its translation capability of uploaded PDF. It works quite well!
 
 ## 24 Jun 2025
 - Debugged the category filtering button of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
