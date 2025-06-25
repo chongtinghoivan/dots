@@ -19,6 +19,8 @@
 - Scheduled 5th course post (4pm) to Facebook Page and Instagram of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
 - Posted [5th course post](https://www.linkedin.com/feed/update/urn:li:activity:7343472418335707136) to LinkedIn Page of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
 - Posted to Instagram Story of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy) and created the relevant collection of "AI Courses"
+- Scheduled 6th course post (7pm) to Facebook Page and Instagram of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
+- Posted [6th course post](https://www.linkedin.com/feed/update/urn:li:activity:7343480848026910720) to LinkedIn Page of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
 
 ## 24 Jun 2025
 - Debugged the category filtering button of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
