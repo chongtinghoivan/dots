@@ -8,6 +8,8 @@
 - Scheduled 2nd course post (10am) to Facebook Page and Instagram of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
 - Posted [2nd course post](https://www.linkedin.com/posts/aitoolboxacademy_aikmpkqflefjoo-hpxjjrnenndc-jfrihjjxulyq-activity-7343423290759135233-Dcvy) to LinkedIn Page of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
 - Added link to "[AI courses](https://www.aitoolbox.qzz.io/category/course)" to the [Linktree](https://linktr.ee/aitoolboxacademy) with thumbnail photo made with Canva
+- Scheduled 3rd course post (12nn) to Facebook Page and Instagram of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
+- Posted [3rd course post](https://www.linkedin.com/feed/update/urn:li:activity:7343433309168746498) to LinkedIn Page of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
 
 ## 24 Jun 2025
 - Debugged the category filtering button of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
