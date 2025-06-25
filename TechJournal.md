@@ -10,6 +10,9 @@
 - Added link to "[AI courses](https://www.aitoolbox.qzz.io/category/course)" to the [Linktree](https://linktr.ee/aitoolboxacademy) with thumbnail photo made with Canva
 - Scheduled 3rd course post (12nn) to Facebook Page and Instagram of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
 - Posted [3rd course post](https://www.linkedin.com/feed/update/urn:li:activity:7343433309168746498) to LinkedIn Page of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
+- Activated the 1 year free trial of Perplexity Pro offered by HKT
+- Consumed all of my daily Poe and Coze credits; Looked for a local solution to build AI agents and recalled sometimes ago I installed AnythingLLM
+- Watched a [YouTube video](https://www.youtube.com/watch?v=Z6kK4DXqCOI) about AnythingLLM's AI Agent support; Downloaded the latest desktop version to test building local AI agents
 
 ## 24 Jun 2025
 - Debugged the category filtering button of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
