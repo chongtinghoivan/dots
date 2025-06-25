@@ -13,6 +13,7 @@
 - Activated the 1 year free trial of Perplexity Pro offered by HKT
 - Consumed all of my daily Poe and Coze credits; Looked for a local solution to build AI agents and recalled sometimes ago I installed AnythingLLM
 - Watched a [YouTube video](https://www.youtube.com/watch?v=Z6kK4DXqCOI) about AnythingLLM's AI Agent support; Downloaded the latest desktop version to test building local AI agents
+- Created two AI Agents "Add Emojis" and "Add Hashtags" using "Build an agent flow" function of AnythingLLM. Successfully ran and called the two AI agents locally!
 
 ## 24 Jun 2025
 - Debugged the category filtering button of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
