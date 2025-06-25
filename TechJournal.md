@@ -14,8 +14,11 @@
 - Consumed all of my daily Poe and Coze credits; Looked for a local solution to build AI agents and recalled sometimes ago I installed AnythingLLM
 - Watched a [YouTube video](https://www.youtube.com/watch?v=Z6kK4DXqCOI) about AnythingLLM's AI Agent support; Downloaded the latest desktop version to test building local AI agents
 - Created two AI Agents "Add Emojis" and "Add Hashtags" using "Build an agent flow" function of AnythingLLM. Successfully ran and called the two AI agents locally!
-- Scheduled 4th course post (8am 26 Jun) to Facebook Page and Instagram of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
+- Scheduled 4th course post (2pm) to Facebook Page and Instagram of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
 - Posted [4th course post](https://www.linkedin.com/feed/update/urn:li:activity:7343459506468569089) to LinkedIn Page of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
+- Scheduled 5th course post (4pm) to Facebook Page and Instagram of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
+- Posted [5th course post](https://www.linkedin.com/feed/update/urn:li:activity:7343472418335707136) to LinkedIn Page of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
+- Posted to Instagram Story of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy) and created the relevant collection of "AI Courses"
 
 ## 24 Jun 2025
 - Debugged the category filtering button of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
