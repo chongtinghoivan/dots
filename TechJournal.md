@@ -2,9 +2,12 @@
 - Edited and enhanced the [Linktree](https://linktr.ee/aitoolboxacademy) profile, added links to "[Supporting Schools](https://www.aitoolbox.qzz.io/about#headline-5cedfdf0)", "[About Us](https://www.aitoolbox.qzz.io/about)" and "[Founding Team](https://www.aitoolbox.qzz.io/about#headline-f6605d9a)"
 - Added customized thumbnail photos for the above three links on Linktree, created using Canva
 - Used my Poe and Coze bots to add emojis and hashtags for social media post creation
-- Scheduled 1st course post to Facebook Page and Instagram of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) 
-- Posted [1st course post](https://www.linkedin.com/feed/update/urn:li:activity:7343415044057067521) to LinkedIn Page of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/)
+- Scheduled 1st course post (8am) to Facebook Page and Instagram of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy) 
+- Posted [1st course post](https://www.linkedin.com/feed/update/urn:li:activity:7343415044057067521) to LinkedIn Page of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy) 
 - Added "Contact Us" link to [Linktree](https://linktr.ee/aitoolboxacademy)
+- Scheduled 2nd course post (10am) to Facebook Page and Instagram of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
+- Posted [2nd course post](https://www.linkedin.com/posts/aitoolboxacademy_aikmpkqflefjoo-hpxjjrnenndc-jfrihjjxulyq-activity-7343423290759135233-Dcvy) to LinkedIn Page of [AI Toolbox Academy](https://linktr.ee/aitoolboxacademy)
+- Added link to "[AI courses](https://www.aitoolbox.qzz.io/category/course)" to the [Linktree](https://linktr.ee/aitoolboxacademy) with thumbnail photo made with Canva
 
 ## 24 Jun 2025
 - Debugged the category filtering button of [AI Toolbox Academy](https://www.aitoolbox.qzz.io/) website
