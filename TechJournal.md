@@ -5,6 +5,8 @@
 - Tried Mistral AI and built two AI agents with it. The results are very good and impressive.
 - Started to get adapted to switch from using Google to Perplexity Pro for enquiry search.
 - Prepared a [list](https://nsgxsoc6vdpc.sg.larksuite.com/base/N34GbCBImaBy9QsndhvldOhog9A?from=from_copylink) of 100+ AI tools and 30+ AI YouTube KOLs using Lark Base.
+- Tested "bulk create" feature of Canva for future social media posting of features of different AI tools.
+- Tested publishing to softr to see if it can be a better platform to showcase the AI tool directory.
 
 ## 25 Jun 2025
 - Edited and enhanced the [Linktree](https://linktr.ee/aitoolboxacademy) profile, added links to "[Supporting Schools](https://www.aitoolbox.qzz.io/about#headline-5cedfdf0)", "[About Us](https://www.aitoolbox.qzz.io/about)" and "[Founding Team](https://www.aitoolbox.qzz.io/about#headline-f6605d9a)"
