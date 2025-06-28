@@ -1,3 +1,7 @@
+## 28 Jun 2025
+- Published the 100+ AI tool [directory](https://directory.aitoolbox.qzz.io/) using Softr
+- Added the link of directory to [Linktree](https://linktr.ee/aitoolboxacademy) profile
+
 ## 27 Jun 2025
 - Completed a voluntary IT consulting session on AI tools for [CareER Association](https://www.linkedin.com/posts/chongtingho_itconsulting-aitools-localdeployment-activity-7344206569041010690-cFGM) under the Time Auction programme.
 - Published post-event photo sharing of 1st CAS talk to [Facebook Page](https://www.facebook.com/hkharmonica/posts/pfbid02Bt49zF7Sx68Wm4HAQnLit27JQvqe8dN3osZe1jiJWAjYfAS8kvgJx6zLgCydY35sl) and [Instagram](https://www.instagram.com/p/DLY9Izds6UY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) of Hong Kong Harmonica Association
