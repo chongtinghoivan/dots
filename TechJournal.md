@@ -1,6 +1,7 @@
 ## 28 Jun 2025
-- Published the 100+ AI tool [directory](https://directory.aitoolbox.qzz.io/) using Softr
+- Published 100+ AI tool to the [directory](https://directory.aitoolbox.qzz.io/) using Softr
 - Added the link of directory to [Linktree](https://linktr.ee/aitoolboxacademy) profile
+- Published 30+ AI YouTube KOLs to the [directory](https://directory.aitoolbox.qzz.io/) using Softr
 
 ## 27 Jun 2025
 - Completed a voluntary IT consulting session on AI tools for [CareER Association](https://www.linkedin.com/posts/chongtingho_itconsulting-aitools-localdeployment-activity-7344206569041010690-cFGM) under the Time Auction programme.
