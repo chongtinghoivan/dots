@@ -1,5 +1,6 @@
 ## 29 Jun 2025
 - Revised the desktop and mobile view presentation of the 100+ AI tools and 30+ AI YouTube KOL directory.
+- Subscribed Google AI Pro and tried video creation from still image using Veo 2 - Fast, the [results](https://www.linkedin.com/posts/chongtingho_ai-veo-google-activity-7345112184961585153-Slj7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) are quite impressive!
 
 ## 28 Jun 2025
 - Published 100+ AI tool to the [directory](https://directory.aitoolbox.qzz.io/) using Softr
