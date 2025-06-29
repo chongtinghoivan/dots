@@ -1,3 +1,6 @@
+## 29 Jun 2025
+- Revised the desktop and mobile view presentation of the 100+ AI tools and 30+ AI YouTube KOL directory.
+
 ## 28 Jun 2025
 - Published 100+ AI tool to the [directory](https://directory.aitoolbox.qzz.io/) using Softr
 - Added the link of directory to [Linktree](https://linktr.ee/aitoolboxacademy) profile
