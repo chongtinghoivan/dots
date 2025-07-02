@@ -1,5 +1,5 @@
 ## 2 Jul 2025
-- Joined a panel discussion with other guests sharing with around 100 secondary school students at Preface's event, followed up two 25-minute [small group interactive sessions](https://www.linkedin.com/posts/chongtingho_%E8%AC%9D%E8%AC%9D-preface-%E5%9F%B9%E8%A8%93%E7%B8%BD%E7%9B%A3-ellen-%E7%9A%84%E9%82%80%E8%AB%8B%E8%AE%93%E6%88%91%E6%9C%89%E6%A9%9F%E6%9C%83%E8%88%87%E5%85%B6%E4%BB%96%E5%B9%BE%E4%BD%8D%E5%88%86%E4%BA%AB%E5%98%89%E8%B3%93%E4%B8%80%E8%B5%B7-activity-7346148372514226176-CrpU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) with 8-10 students.  
+- Joined a panel discussion with other guests sharing with around 100 secondary school students at Preface's event, followed by two 25-minute [small group interactive sessions](https://www.linkedin.com/posts/chongtingho_%E8%AC%9D%E8%AC%9D-preface-%E5%9F%B9%E8%A8%93%E7%B8%BD%E7%9B%A3-ellen-%E7%9A%84%E9%82%80%E8%AB%8B%E8%AE%93%E6%88%91%E6%9C%89%E6%A9%9F%E6%9C%83%E8%88%87%E5%85%B6%E4%BB%96%E5%B9%BE%E4%BD%8D%E5%88%86%E4%BA%AB%E5%98%89%E8%B3%93%E4%B8%80%E8%B5%B7-activity-7346148372514226176-CrpU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) with 8-10 students.  
 
 ## 29 Jun 2025
 - Revised the desktop and mobile view presentation of the 100+ AI tools and 30+ AI YouTube KOL directory.
