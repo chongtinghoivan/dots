@@ -4,6 +4,7 @@
 - Learnt that [Kit](https://kit.com/pricing) also has a powerful free tier that supports upto 10000 subscribers.
 - Learnt more about the features and some use cases of Perplexity Labs from a [tutorial](https://www.youtube.com/watch?v=J9NAAj-qODI) on YouTube.
 - Watched a Youtube tutorial on [Perplexity Labs + Claude = The AI Combo You Need to Try](https://www.youtube.com/watch?v=9-t7DWk67so)
+- Watched a Youtube tutorial on how to better make use of [GEM](https://www.youtube.com/watch?v=G72t8gJqKGs) of Google gemini.
 
 ## 3 Jul 2025
 - Gave a [try](https://www.linkedin.com/posts/chongtingho_ai-aiimage-modeltraining-activity-7346353737814155265-ZI1H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) on Alipay's Tbox for its model training capability. Used 36 low poly 3D animal images generated from Leonardo.Ai as training images. 
