@@ -1,3 +1,8 @@
+## 7 Jul 2025
+- Successfully installed Gemini CLI and Gemini Code Assist to Visual Studio Code
+- Created my first GEMS using Google Gemini, named "CV & Cover Letter Career Assistant".
+- Created an application for better grading contestants of Malaysia Harmonica Festival using Canva AI 
+
 ## 6 Jul 2025
 - Installed Roo Code to Visual Studio Code. Watched a YouTube video for [tutorial](https://www.youtube.com/watch?v=_Rs1kmaUlIQ).
 - Added Gemini API free tier key to Roo Code; Added different models to process perform different roles (Ask, Debug, Architect, Orchestrator, Code).
