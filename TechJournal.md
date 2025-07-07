@@ -1,5 +1,5 @@
 ## 7 Jul 2025
-- Successfully installed Gemini CLI and Gemini Code Assist to Visual Studio Code
+- Successfully installed Gemini CLI and Gemini Code Assist to Visual Studio Code, after watching this [YouTube video](https://youtu.be/OFvujFZJ-9k?si=XwxdHu72iRtsBA-a)
 - Created my first GEMS using Google Gemini, named "CV & Cover Letter Career Assistant".
 - Created an application for better grading contestants of Malaysia Harmonica Festival using Canva AI 
 
