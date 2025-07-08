@@ -1,6 +1,7 @@
 ## 8 Jul 2025
 - Successfully used ClawCloud to set up [Gemini Balance](https://gb-docs.snaily.top/guide/introduction.html), which allows me to run gemini-2.5-pro and gemini-2.5-flash modes using Roo Code in Visual Studio Code without the need of VPN.
 - Created two more templates for Google Gemini GEMS, following a framework of context engineering.
+- Created a [LinkedIn post](https://www.linkedin.com/posts/chongtingho_%E5%8D%81%E5%87%A0%E4%B8%AA%E5%9C%BA%E6%99%AF%E6%A6%A8%E5%B9%B2ai%E5%96%84%E4%BA%BAgemini-25-pro-api%E5%8F%88%E5%85%8D%E8%B4%B9%E4%BA%86-ai-activity-7348378043725303808-_H3b?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) using the newly created "The AI Edge" GEMS
 
 ## 7 Jul 2025
 - Successfully installed Gemini CLI and Gemini Code Assist to Visual Studio Code, after watching this [YouTube video](https://youtu.be/OFvujFZJ-9k?si=XwxdHu72iRtsBA-a)
