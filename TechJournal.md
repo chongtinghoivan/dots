@@ -1,3 +1,7 @@
+## 8 Jul 2025
+- Successfully used ClawCloud to set up [Gemini Balance](https://gb-docs.snaily.top/guide/introduction.html), which allows me to run gemini-2.5-pro and gemini-2.5-flash modes using Roo Code in Visual Studio Code without the need of VPN.
+- Created two more templates for Google Gemini GEMS, following a framework of context engineering.
+
 ## 7 Jul 2025
 - Successfully installed Gemini CLI and Gemini Code Assist to Visual Studio Code, after watching this [YouTube video](https://youtu.be/OFvujFZJ-9k?si=XwxdHu72iRtsBA-a)
 - Created my first GEMS using Google Gemini, named "CV & Cover Letter Career Assistant".
