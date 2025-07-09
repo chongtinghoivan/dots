@@ -1,3 +1,7 @@
+## 9 Jul 2025
+- Created a Google Gemini Gems facilitating creation of engaging contents on LinkedIn, tested with this [post](https://www.facebook.com/kcoba.hk/posts/pfbid02A6CnmjsbBapwH7bxJmgxNpoWHYwms4pCCBDmobZAGSgiz5qj5BH6Fkg4wthDCxwcl) (also posted to FB and IG)
+- Learnt differnt ways to create more Veo 3 videos under the existing limit, with this YouTube [tutorial](https://www.youtube.com/watch?v=W5ISIrAExWo) video
+
 ## 8 Jul 2025
 - Successfully used ClawCloud to set up [Gemini Balance](https://gb-docs.snaily.top/guide/introduction.html), which allows me to run gemini-2.5-pro and gemini-2.5-flash modes using Roo Code in Visual Studio Code without the need of VPN.
 - Created two more templates for Google Gemini GEMS, following a framework of context engineering.
