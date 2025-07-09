@@ -1,3 +1,7 @@
+## 10 July 2025
+- Used Perplexity to help researching for [prompt enhancement solution](https://www.perplexity.ai/search/any-methods-or-tips-to-generat-0OYazjfZSfaGedPf6gPuhw) for accurate text generation using Veo 3
+- Successfully created the last scene of the video with accurate text! Published the [revised clip](https://www.linkedin.com/posts/chongtingho_aivideo-googleveo-aichallenges-activity-7348851175376506882-sUhH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) and shared on LinkedIn 
+
 ## 9 Jul 2025
 - Created a Google Gemini Gems facilitating creation of engaging contents on LinkedIn, tested with this [post](https://www.facebook.com/kcoba.hk/posts/pfbid02A6CnmjsbBapwH7bxJmgxNpoWHYwms4pCCBDmobZAGSgiz5qj5BH6Fkg4wthDCxwcl) (also posted to FB and IG)
 - Learnt differnt ways to create more Veo 3 videos under the existing limit, with this YouTube [tutorial](https://www.youtube.com/watch?v=W5ISIrAExWo) video.
