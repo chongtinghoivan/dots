@@ -1,3 +1,11 @@
+## 30 July 2025
+- Installed Coment browser of Perplexity
+- Designed three leaflets for CAS 2025-26 of Hong Kong Harmonica Association using Adobe Illustrators
+
+## 14-30 July 2025
+- Engaged by the 10-day St. Paul's Co-ed Summer Portal between 16 July and 25 July, covering different roles from project management, event management, arts administration to IT solutions implementation and support.
+- Thanks Warren for the [letter of commendation](https://ivanchong.com/letter-of-commendation-by-warren-lee)
+
 ## 10 July 2025
 - Used Perplexity to help researching for [prompt enhancement solution](https://www.perplexity.ai/search/any-methods-or-tips-to-generat-0OYazjfZSfaGedPf6gPuhw) for accurate text generation using Veo 3
 - Successfully created the last scene of the video with accurate text! Published the [revised clip](https://www.linkedin.com/posts/chongtingho_aivideo-googleveo-aichallenges-activity-7348851175376506882-sUhH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) and shared on LinkedIn.
