@@ -1,3 +1,7 @@
+## 4 Aug 2025
+- Deployed the MoonTv project using Cloudflare with reference to this [tutorial](https://www.youtube.com/watch?v=vAlccqxwNjY&t=13s)
+- Tried creating [videos](https://www.linkedin.com/posts/chongtingho_videomarketing-contentcreation-veo3-activity-7358041209803591680-UsZV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) using Veo 3; two unboxing videos in the style of Chip N Dale and Pikachu; three brand reveal videos using Sabon, Mövenpick and Coca-Cola. ([Reference YouTube tutorial link](https://www.youtube.com/watch?v=afzbZYC6fCM))
+
 ## 30 July 2025
 - Installed Coment browser of Perplexity
 - Designed three leaflets for CAS 2025-26 of Hong Kong Harmonica Association using Adobe Illustrators
