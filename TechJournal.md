@@ -1,3 +1,13 @@
+## 5 Aug 2025 - 12 Aug 2025
+- Helped my friend Chris Li to set up a Shopify store called Top Whisky. Impressed by the powerful 3rd party app support of Shopify.
+- The Top Whisky Shopify store supports three languages (English, Traditional Chinese and Simplified Chinese). (App: Translate & Adapt)
+- The Top Whisky Shopify store supports bulk volume purchase discount. (App: Dealeasy)
+- The Top Whisky Shopify store supports star ratings and review. (App: EasyReviews)
+- The Top Whisky Shopify store supports email subscription and automation. (Apps: Email + Flow)
+- The Top Whisky Shopify store supports customers to create their own accounts and login to view their order and saved delivery address.
+- Custom CSS has been applied to The Top Whisky Shopify store so that it can attract viewers to click into a particular product to check the discount offered. 
+- Other related service coverage for this digital consulting project includes domain selection and purchase, business email set up using Lark, product photo size optimization before uploading to Shopify store, product description enhancement for better SEO, etc.
+
 ## 4 Aug 2025
 - Deployed the MoonTv project using Cloudflare with reference to this [tutorial](https://www.youtube.com/watch?v=vAlccqxwNjY&t=13s)
 - Tried creating [videos](https://www.linkedin.com/posts/chongtingho_videomarketing-contentcreation-veo3-activity-7358041209803591680-UsZV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) using Veo 3; two unboxing videos in the style of Chip N Dale and Pikachu; three brand reveal videos using Sabon, Mövenpick and Coca-Cola. ([Reference YouTube tutorial link](https://www.youtube.com/watch?v=afzbZYC6fCM))
