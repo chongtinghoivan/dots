@@ -1,12 +1,14 @@
 ## 5 Aug 2025 - 12 Aug 2025
-- Helped my friend Chris Li to set up a Shopify store called Top Whisky. Impressed by the powerful 3rd party app support of Shopify.
+- Helped my friend Chris Li to set up a Shopify store called [Top Whisky](https://topwhisky.shop/). Impressed by the powerful 3rd party app support of Shopify.
 - The Top Whisky Shopify store supports three languages (English, Traditional Chinese and Simplified Chinese). (App: Translate & Adapt)
 - The Top Whisky Shopify store supports bulk volume purchase discount. (App: Dealeasy)
 - The Top Whisky Shopify store supports star ratings and review. (App: EasyReviews)
 - The Top Whisky Shopify store supports email subscription and automation. (Apps: Email + Flow)
 - The Top Whisky Shopify store supports customers to create their own accounts and login to view their order and saved delivery address.
 - Custom CSS has been applied to The Top Whisky Shopify store so that it can attract viewers to click into a particular product to check the discount offered. 
-- Other related service coverage for this digital consulting project includes domain selection and purchase, business email set up using Lark, product photo size optimization before uploading to Shopify store, product description enhancement for better SEO, etc.
+- Other related service coverage for this digital consulting project includes domain selection and purchase, business email set up using Lark, product photo size optimization before uploading to Shopify store, product description enhancement for better SEO, social media channels set up ([Facebook Page](https://www.facebook.com/topwhisky), [Instagram](https://www.instagram.com/topwhiskyhk/), [Linktree](https://linktr.ee/topwhisky), [LinkedIn Company Page](https://www.linkedin.com/company/topwhiskyhk), etc.)
+
+[Relevant LinkedIn post](https://www.linkedin.com/posts/chongtingho_shopifyileija-oppidqljklfx-luqlgpizemds-activity-7360949638423597056-Xf5t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
 
 ## 4 Aug 2025
 - Deployed the MoonTv project using Cloudflare with reference to this [tutorial](https://www.youtube.com/watch?v=vAlccqxwNjY&t=13s)
