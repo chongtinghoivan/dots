@@ -1,3 +1,9 @@
+## 16 Aug 2025
+- Completed an [ad placement design](https://drive.google.com/drive/folders/1VckORVHjUzk1E2NAhi6YY50SYN7dLyw2?usp=drive_link) for KEPLER Instruments.
+
+## 15 Aug 2025
+- Invited by Nelson Yip and China Hong Kong Culture Exchange Association for a [20-min Educational Technology presentation](https://www.linkedin.com/posts/chongtingho_thank-you-for-the-invitation-from-nelson-activity-7361914261930958848-27F8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) in the Community Shaper 2025 project.
+
 ## 5 Aug 2025 - 12 Aug 2025
 - Helped my friend Chris Li to set up a Shopify store called [Top Whisky](https://topwhisky.shop/). Impressed by the powerful 3rd party app support of Shopify.
 - The Top Whisky Shopify store supports three languages (English, Traditional Chinese and Simplified Chinese). (App: Translate & Adapt)
