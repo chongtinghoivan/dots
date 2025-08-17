@@ -1,3 +1,7 @@
+## 17 Aug 2025
+- Tried how to do [image style transformation](https://www.linkedin.com/posts/chongtingho_ai-imagestyletransformation-aitools-activity-7362667883950215168-FG4w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) using Cherry Studio + Grok, and posted a brief tutorial on LinkedIn. 
+- Tried the Comet browser for its YouTube video summary feature
+
 ## 16 Aug 2025
 - Completed an [ad placement design](https://drive.google.com/drive/folders/1VckORVHjUzk1E2NAhi6YY50SYN7dLyw2?usp=drive_link) for KEPLER Instruments.
 
