@@ -1,3 +1,9 @@
+## 21 Aug 2025
+- Learnt the new tool nano banana for image edit, which can be accessed via [LMARENA](https://lmarena.ai/). Tried nano-banana for image editing and style transfer using the image of a [crystal harmonica](https://www.linkedin.com/posts/chongtingho_imageedit-ai-imagestyletransfer-activity-7364080598941921281-Da79?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
+
+## 18 Aug 2025
+- Tried Microsoft Copilot 3D to create 3D object from image. Shared a [tutorial on LinkedIn](https://www.linkedin.com/posts/chongtingho_microsoft-copilot3d-activity-7363059000298389506-Jqq1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) to solve the problem of download button not easily been shown.   
+
 ## 17 Aug 2025
 - Tried how to do [image style transformation](https://www.linkedin.com/posts/chongtingho_ai-imagestyletransformation-aitools-activity-7362667883950215168-FG4w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) using Cherry Studio + Grok, and posted a brief tutorial on LinkedIn. 
 - Tried the Comet browser for its YouTube video summary feature
@@ -6,7 +12,7 @@
 - Completed an [ad placement design](https://drive.google.com/drive/folders/1VckORVHjUzk1E2NAhi6YY50SYN7dLyw2?usp=drive_link) for KEPLER Instruments.
 
 ## 15 Aug 2025
-- Invited by Nelson Yip and China Hong Kong Culture Exchange Association for a [20-min Educational Technology presentation](https://www.linkedin.com/posts/chongtingho_thank-you-for-the-invitation-from-nelson-activity-7361914261930958848-27F8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) in the Community Shaper 2025 project.
+- Invited by Nelson Yip and China Hong Kong Culture Exchange Association for a [20-min Educational Technology presentation](https://www.linkedin.com/posts/chongtingho_thank-you-for-the-invitation-from-nelson-activity-7361914261930958848-27F8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) in the Community Shaper 2025 project, received positive feedbacks from audience.
 
 ## 5 Aug 2025 - 12 Aug 2025
 - Helped my friend Chris Li to set up a Shopify store called [Top Whisky](https://topwhisky.shop/). Impressed by the powerful 3rd party app support of Shopify.
