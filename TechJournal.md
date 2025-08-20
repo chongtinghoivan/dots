@@ -1,6 +1,9 @@
 ## 21 Aug 2025
 - Learnt the new tool nano banana for image edit, which can be accessed via [LMARENA](https://lmarena.ai/). Tried nano-banana for image editing and style transfer using the image of a [crystal harmonica](https://www.linkedin.com/posts/chongtingho_imageedit-ai-imagestyletransfer-activity-7364080598941921281-Da79?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
 
+## 20 Aug 2025
+- Used Perplexity Space to create different AI agents. One of the created AI agents helps to generate prompts to better create AI agents.
+
 ## 18 Aug 2025
 - Tried Microsoft Copilot 3D to create 3D object from image. Shared a [tutorial on LinkedIn](https://www.linkedin.com/posts/chongtingho_microsoft-copilot3d-activity-7363059000298389506-Jqq1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) to solve the problem of download button not easily been shown.   
 
