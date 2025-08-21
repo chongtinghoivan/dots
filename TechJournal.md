@@ -1,5 +1,7 @@
 ## 21 Aug 2025
 - Learnt the new tool nano banana for image edit, which can be accessed via [LMARENA](https://lmarena.ai/). Tried nano-banana for image editing and style transfer using the image of a [crystal harmonica](https://www.linkedin.com/posts/chongtingho_imageedit-ai-imagestyletransfer-activity-7364080598941921281-Da79?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
+- Learnt from a [YouTube video by Shek](https://www.youtube.com/watch?v=l6x133_2XTE&pp=0gcJCa0JAYcqIYzv) that Google Gemini (in AI Studio) can freely generate video time stamps, suggest video title and description. It can support video of length upto 1 hour long.
+- Tried Airbrush to apply clothing to avatar. Shared the generated results applied on a [Samoyed avatar](https://www.linkedin.com/posts/chongtingho_aiavatars-airbrush-clotheschanger-activity-7364105336900759553-2a7c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) on Linkedin. 
 
 ## 20 Aug 2025
 - Used Perplexity Space to create different AI agents. One of the created AI agents helps to generate prompts to better create AI agents.
