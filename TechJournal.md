@@ -1,3 +1,7 @@
+## 22 Aug 2025
+- Done a research for low-cost tool that can help YMCA of Hong Kong to build its enterprise knowledge management system. Found the XWiki may be a good tool.
+- Tried using 智谱清言 to create PPT. Super impressed by its capability and high quality of output.
+
 ## 21 Aug 2025
 - Learnt the new tool nano banana for image edit, which can be accessed via [LMARENA](https://lmarena.ai/). Tried nano-banana for image editing and style transfer using the image of a [crystal harmonica](https://www.linkedin.com/posts/chongtingho_imageedit-ai-imagestyletransfer-activity-7364080598941921281-Da79?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
 - Learnt from a [YouTube video by Shek](https://www.youtube.com/watch?v=l6x133_2XTE&pp=0gcJCa0JAYcqIYzv) that Google Gemini (in AI Studio) can freely generate video time stamps, suggest video title and description. It can support video of length upto 1 hour long.
@@ -7,7 +11,8 @@
 - Used Perplexity Space to create different AI agents. One of the created AI agents helps to generate prompts to better create AI agents.
 
 ## 18 Aug 2025
-- Tried Microsoft Copilot 3D to create 3D object from image. Shared a [tutorial on LinkedIn](https://www.linkedin.com/posts/chongtingho_microsoft-copilot3d-activity-7363059000298389506-Jqq1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) to solve the problem of download button not easily been shown.   
+- Tried Microsoft Copilot 3D to create 3D object from image. Shared a [tutorial on LinkedIn](https://www.linkedin.com/posts/chongtingho_microsoft-copilot3d-activity-7363059000298389506-Jqq1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) to solve the problem of download button not easily been shown.
+- Started the 1st day of work as part-time solutions architect role at YMCA of Hong Kong.
 
 ## 17 Aug 2025
 - Tried how to do [image style transformation](https://www.linkedin.com/posts/chongtingho_ai-imagestyletransformation-aitools-activity-7362667883950215168-FG4w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) using Cherry Studio + Grok, and posted a brief tutorial on LinkedIn. 
