@@ -1,3 +1,13 @@
+## 27 Aug 2025
+- Created an interactive online survey using [Mentimeter](https://www.mentimeter.com/plans) for YMCA of Hong Kong. 
+- Researched for a free HRM tool for self-appraisal that can serve an organization with the scale of 750+ employees. Explored the features of [OrangeHRM](https://starterhelp.orangehrm.com/hc/en-us/articles/360018658059-How-to-Create-Performance-Reviews).
+
+## 26 Aug 2025
+- Learnt more about [Coda](https://coda.io/welcome), and tried to evaluate if it will be a suitable tool to tackle some of the data flow scenarios for YMCA of Hong Kong.   
+
+## 25 Aug 2025
+- Had a meeting with 鲍总, founder of 版信未来 at Guangzhou, together with Nelson, Simon and Yu, about the details of organizing a 黑马营 related to AI training.
+
 ## 22 Aug 2025
 - Done a research for low-cost tool that can help YMCA of Hong Kong to build its enterprise knowledge management system. Found the XWiki may be a good tool.
 - Tried using 智谱清言 to create PPT. Super impressed by its capability and high quality of output.
