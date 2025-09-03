@@ -1,3 +1,11 @@
+## 2 Sep 2025
+- Used Tally.so + Airtable to build an online survey which can allow immediate visual presentation upon form fillers' submissions.
+- Leart how to deploy n8n for free using Huggingface and Supabase with a [tutorial video](https://youtu.be/ucCamELP8UY?si=4L-eKf5j1xsOgA-B)
+
+## 1 Sep 2025
+- Researched membership management and event management tools that are suitable for NGOs
+- Had a digital consulting call with Christy and Shermain from [Rise Wise Foundation](https://www.linkedin.com/posts/chongtingho_risewisefoundation-nonprofitorganizations-activity-7368632517232390144-ed2U?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
+
 ## 27 Aug 2025
 - Created an interactive online survey using [Mentimeter](https://www.mentimeter.com/plans) for YMCA of Hong Kong. 
 - Researched for a free HRM tool for self-appraisal that can serve an organization with the scale of 750+ employees. Explored the features of [OrangeHRM](https://starterhelp.orangehrm.com/hc/en-us/articles/360018658059-How-to-Create-Performance-Reviews).
