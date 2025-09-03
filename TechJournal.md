@@ -1,3 +1,6 @@
+## 3 Sep 2025
+- Learnt the different potential applications of Nano Banana in image editing via this [YouTube video](https://www.youtube.com/watch?v=exWEkRHmhKU).
+
 ## 2 Sep 2025
 - Used Tally.so + Airtable to build an online survey which can allow immediate visual presentation upon form fillers' submissions.
 - Leart how to deploy n8n for free using Huggingface and Supabase with a [tutorial video](https://youtu.be/ucCamELP8UY?si=4L-eKf5j1xsOgA-B)
