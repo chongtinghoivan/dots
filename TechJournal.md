@@ -1,5 +1,6 @@
 ## 3 Sep 2025
 - Learnt the different potential applications of Nano Banana in image editing via this [YouTube video](https://www.youtube.com/watch?v=exWEkRHmhKU).
+- Learnt how to use Notion Calendar with this [video](https://www.youtube.com/watch?v=lNs-gqLJ6UU)
 
 ## 2 Sep 2025
 - Used Tally.so + Airtable to build an online survey which can allow immediate visual presentation upon form fillers' submissions.
