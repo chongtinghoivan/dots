@@ -1,5 +1,6 @@
 ## 4 Sep 2025
 - Tested the tool [Poll Everywhere](https://www.linkedin.com/posts/chongtingho_edtech-pollingtools-productivity-activity-7369205203058774017-Vuax?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) as an alternative to Mentimeter which supports export of data under its free tier
+- Explored the features of Coda and studying whether it can be used as a HRM solution for NGO.
 
 ## 3 Sep 2025
 - Learnt the different potential applications of Nano Banana in image editing via this [YouTube video](https://www.youtube.com/watch?v=exWEkRHmhKU).
