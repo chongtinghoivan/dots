@@ -1,3 +1,6 @@
+## 4 Sep 2025
+- Tested the tool "Poll Everywhere" as an alternative to Mentimeter which supports export of data under its free tier
+
 ## 3 Sep 2025
 - Learnt the different potential applications of Nano Banana in image editing via this [YouTube video](https://www.youtube.com/watch?v=exWEkRHmhKU).
 - Learnt how to use Notion Calendar with this [video](https://www.youtube.com/watch?v=lNs-gqLJ6UU)
