@@ -1,3 +1,27 @@
+## 17 Sep 2025
+- Get to know the tool Genspark, Genspark Browser as well as its on-device free AI. 
+
+## 16 Sep 2025
+- Tested n8n form and successfully triggered email sending upon form submission.
+- Imported some more n8n workflows from other YouTube KOLs.
+
+## 15 Sep 2025
+- Used Gemini to create AI Avatars of two School Principals in pixar style.
+- Researched into AI Voice Cloning and AI lip-syncing tools for the next phase of implementation of a video project.
+- Used Kimi to prepare AI PPT, which got excellent support in terms of downloading in PPT format for further edits. Better than Chatglm.cn.
+
+## 12 Sep 2025
+- Tested n8n implementation and successfully connected outlook to send emails upon event triggering.
+- Implemented n8n using the Hugging Face + Supabase + Upstash tech stack, following this [tutorial](https://www.youtube.com/watch?v=ucCamELP8UY).
+- Completed a NGO digital consulting session with Steven and Tasha from [Yang Memorial Methodist Social Service](https://yang.org.hk/en/methodist-study-trust/)
+
+## 9-11 Sep 2025
+- Developed a presentation deck using Mentimeter for secondary students related to preventing Suspected Scam / Cyber Pitfall.
+- Scheduled a meeting and confirmed the flow of presentation related to a workshop on AI Tool enablement + entrepreneurship which is scheduled on 28 Sep 2025.
+
+## 8 Sep 2025
+- Scheduled a meeting to confirm the details and flow of an upcoming event 
+
 ## 4 Sep 2025
 - Tested the tool [Poll Everywhere](https://www.linkedin.com/posts/chongtingho_edtech-pollingtools-productivity-activity-7369205203058774017-Vuax?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) as an alternative to Mentimeter which supports export of data under its free tier
 - Explored the features of Coda and studying whether it can be used as a HRM solution for NGO.
