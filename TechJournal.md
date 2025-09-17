@@ -1,5 +1,7 @@
 ## 17 Sep 2025
-- Get to know the tool Genspark, Genspark Browser as well as its on-device free AI. 
+- Get to know the tool Genspark, Genspark Browser as well as its on-device free AI.
+- Impressed by the minutes taking capability of [Fathom](https://www.fathom.ai/).
+- Had a meeting with Lisa of Preface, exchanging thoughts on structuring a 2-hr AI training session.
 
 ## 16 Sep 2025
 - Tested n8n form and successfully triggered email sending upon form submission.
