@@ -4,6 +4,7 @@
 ## 16 Sep 2025
 - Tested n8n form and successfully triggered email sending upon form submission.
 - Imported some more n8n workflows from other YouTube KOLs.
+- Start exploring how to use Power Apps and Power Automates on HR workflow re-engineering.
 
 ## 15 Sep 2025
 - Used Gemini to create AI Avatars of two School Principals in pixar style.
