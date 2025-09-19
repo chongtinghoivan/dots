@@ -1,3 +1,10 @@
+## 19 Sep 2025
+- First trial of Notion AI in minutes taking. The result is quite impressive!
+
+## 18 Sep 2025
+- Delivered the 1st AI training to colleagues of YMCA of Hong Kong, with the topic "AI Tools Unleashing Creativity and Productivity"
+- Explored Canva Education and its features for students
+
 ## 17 Sep 2025
 - Get to know the tool Genspark, Genspark Browser as well as its on-device free AI.
 - Impressed by the minutes taking capability of [Fathom](https://www.fathom.ai/).
