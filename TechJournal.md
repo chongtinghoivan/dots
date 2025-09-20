@@ -1,3 +1,7 @@
+## 20 Sep 2025
+- Website eshop update (Squarespace) for KEPLER Instruments for its new product launch of KEPLER Z
+- Created a bilingual social media post for KEPLER Z
+
 ## 19 Sep 2025
 - First trial of Notion AI in minutes taking. The result is quite impressive!
 
