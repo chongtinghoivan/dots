@@ -1,6 +1,7 @@
 ## 22 Sep 2025
 - Used Cherry Studio (Prompt for video scene) + Veo 3 (AI Video) + Canva (Video Editing) + Suno (AI Music) to create a video for KEPLER's product launch.
 - Learnt that Dreamina AI can support AI lip-sync videos and have free videos generation quota per day.
+- Learnt an alternative way of doing AI avatar video is to create video using Google Veo 3, and then change the voice using another platform like ElevenLabs.
 
 ## 21 Sep 2025
 - Learnt the capabilities of 豆包 AI in video creation (Daily limit on video creation: 快速: 5; 高品質: 2)
