@@ -1,3 +1,11 @@
+## 22 Sep 2025
+- Used Cherry Studio (Prompt for video scene) + Veo 3 (AI Video) + Canva (Video Editing) + Suno (AI Music) to create a video for KEPLER's product launch.
+- Learnt that Dreamina AI can support AI lip-sync videos and have free videos generation quota per day.
+
+## 21 Sep 2025
+- Learnt the capabilities of 豆包 AI in video creation (Daily limit on video creation: 快速: 5; 高品質: 2)
+- For video generation, it also allows upload of reference image, but limited to only one. Comparing with Veo 3 which supports 2 (or nore) images, this is not as powerful
+
 ## 20 Sep 2025
 - Website eshop update (Squarespace) for KEPLER Instruments for its new product launch of KEPLER Z
 - Created a bilingual social media post for KEPLER Z
