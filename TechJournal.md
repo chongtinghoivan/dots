@@ -1,3 +1,11 @@
+## 25 Sep 2025
+- Continued to explore the functionalities of Coda AI on HR
+- First trial of Perplexity Comet to add events to Google Calendar based on a PDF of event schedule (World Harmonica Event Schedule)
+
+## 23 Sep 2025
+- Self vibe-coded two tools using Qoder: Watermark Remover, Video Upscaler
+- Created 3D Avatar videos with lip-syncing with reference to audio files. Tech Stack: DreamFace AI (Lip-sync), Self vibe-coded tool (watermark removal), Self vibe-coded tool (Video Upscaling), Capcut & Canva (Video-editing)
+
 ## 22 Sep 2025
 - Used Cherry Studio (Prompt for video scene) + Veo 3 (AI Video) + Canva (Video Editing) + Suno (AI Music) to create a video for KEPLER's product launch.
 - Learnt that Dreamina AI can support AI lip-sync videos and have free videos generation quota per day.
