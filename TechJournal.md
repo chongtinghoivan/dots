@@ -1,3 +1,13 @@
+## 29 Sep 2025
+- Coda AI development using the Enterprise Trial
+
+## 28 Sep 2025
+- Delivered AI tools training at 黑馬營, co-organized by Unleash Foundation, CNHK and Proactive Think Tank Limited.
+- Used Google's Mixboard to create different postures of charachters (like showing full body, waving hands, running, putting hands down)
+- Used Google Veo 2 First Frame and Last Frame feature to create videos for video scene change of 3D characters.
+- Gained more experience using Canva's "Animate" feature.
+- Learnt that Grok can research information from the mainland China.
+
 ## 25 Sep 2025
 - Continued to explore the functionalities of Coda AI on HR
 - First trial of Perplexity Comet to add events to Google Calendar based on a PDF of event schedule (World Harmonica Event Schedule)
