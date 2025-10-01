@@ -1,8 +1,11 @@
+## 30 Sep 2025
+- Demo of Coda for HR and IT colleagues regarding its capabilities serving the HR colleagues in HR system digitization and data flow automation. Also covered the concern on license cost and security of the platform.
+
 ## 29 Sep 2025
 - Coda AI development using the Enterprise Trial
 
 ## 28 Sep 2025
-- Delivered AI tools training at 黑馬營, co-organized by Unleash Foundation, CNHK and Proactive Think Tank Limited.
+- Delivered AI tools training at [黑馬營](https://www.linkedin.com/posts/chongtingho_%E5%89%9B%E9%81%8E%E5%8E%BB%E7%9A%84%E5%91%A8%E6%97%A5%E6%9C%89%E5%B9%B8%E7%8D%B2%E9%82%80%E6%93%94%E4%BB%BB%E9%BB%91%E9%A6%AC%E7%87%9F%E7%9A%84%E5%85%B6%E4%B8%AD%E4%B8%80%E4%BD%8D%E5%B0%8E%E5%B8%AB%E5%90%91%E5%8F%83%E8%88%87%E8%80%85%E5%88%86%E4%BA%AB%E4%B8%8D%E5%90%8Cai%E5%B7%A5%E5%85%B7%E5%8C%85%E6%8B%AC%E5%9C%96%E7%89%87%E7%94%9F%E6%88%90-activity-7378802399030910976-25Uj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE), co-organized by Unleash Foundation, CNHK and Proactive Think Tank Limited. [(Event Poster)](https://www.linkedin.com/posts/chongtingho_%E8%AA%A0%E9%82%80%E5%90%84%E4%BD%8D%E5%B8%8C%E6%9C%9B%E6%9B%B4%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%E5%A6%82%E4%BD%95%E9%80%9A%E9%81%8Eai%E5%B7%A5%E5%85%B7%E5%89%B5%E5%BB%BA%E8%87%AA%E5%B7%B1%E5%93%81%E7%89%8C%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%8F%83%E8%88%879%E6%9C%8828%E6%97%A5ai-%E5%B7%A5%E5%85%B7%E5%A6%82%E4%BD%95%E5%8A%A9%E5%8A%9B%E5%80%8B%E4%BA%BA%E5%89%B5%E6%A5%AD%E8%88%87%E6%80%9D%E8%80%83%E8%BD%89%E8%AE%8A-activity-7374816950490873856-M0x-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
 - Used Google's Mixboard to create different postures of charachters (like showing full body, waving hands, running, putting hands down)
 - Used Google Veo 2 First Frame and Last Frame feature to create videos for video scene change of 3D characters.
 - Gained more experience using Canva's "Animate" feature.
