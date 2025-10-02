@@ -1,3 +1,7 @@
+## 2 Oct 2025
+- Deployed Gemini Balance via Vercel using the [tutorial](https://www.youtube.com/watch?v=SnNDCgfKHyA)
+- Experienced Clawcloud's deployed Gemini Balance not working at the Singapore region (Public Address kept showing at "Pending" state)
+
 ## 30 Sep 2025
 - Demo of Coda for HR and IT colleagues regarding its capabilities serving the HR colleagues in HR system digitization and data flow automation. Also covered the concern on license cost and security of the platform.
 
