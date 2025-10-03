@@ -1,5 +1,9 @@
+## 3 Oct 2025
+- Gained more experience using Google Veo 3 to generate suitable elements (animations, removing unwanted objects, first and last frame control) for video editing.
+- Attended the Inno4life at HKCEC, and connected with other exhibitors at the booth of CNHK.
+
 ## 2 Oct 2025
-- Deployed Gemini Balance via Vercel using the [tutorial](https://www.youtube.com/watch?v=SnNDCgfKHyA)
+- Deployed Gemini Balance via Vercel using the [YouTube tutorial](https://www.youtube.com/watch?v=SnNDCgfKHyA)
 - Experienced Clawcloud's deployed Gemini Balance not working at the Singapore region (Public Address kept showing at "Pending" state)
 
 ## 30 Sep 2025
