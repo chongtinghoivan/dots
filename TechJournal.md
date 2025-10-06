@@ -1,3 +1,10 @@
+## 6 Oct 2025
+- Deployed AI Agent using n8n connecting Google's Gemini model.
+
+## 5 Oct 2025
+- Invited as one of the speakers in the panel discussion "AI and Student Development: Finding the Balance" of the Ed Tech forum organized by Unleash Foundation at the HKCEC
+- Tried using Qoder to build a Saas-based video watermark removal web app.
+
 ## 3 Oct 2025
 - Gained more experience using Google Veo 3 to generate suitable elements (animations, removing unwanted objects, first and last frame control) for video editing.
 - Attended the Inno4life at HKCEC, and connected with other exhibitors at the booth of CNHK.
