@@ -1,5 +1,7 @@
 ## 6 Oct 2025
 - Deployed AI Agent using n8n connecting Google's Gemini model.
+- Tried using Tencent's EdgeOne Pages to deploy Saas web app.
+- Downloaded CodeBuddy IDE.
 
 ## 5 Oct 2025
 - Invited as one of the speakers in the panel discussion "AI and Student Development: Finding the Balance" of the Ed Tech forum organized by Unleash Foundation at the HKCEC
