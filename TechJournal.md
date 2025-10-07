@@ -1,3 +1,7 @@
+## 7 Oct 2025
+- Continued building the watermark remover Saas web app, gained lots of experience using the GitHub and EdgeOne Pages tech stack.
+- Used Qoder to vibe code in this process. Other tools include Supabase and Stripe.
+
 ## 6 Oct 2025
 - Deployed AI Agent using n8n connecting Google's Gemini model.
 - Tried using Tencent's EdgeOne Pages to deploy Saas web app.
