@@ -1,3 +1,10 @@
+## 9 Oct 2025
+- Use DaVinci Resolve Studio to upscale 3D Avatar videos to 4X resolution for 4K output.
+
+## 8 Oct 2025
+- Purchased the license of DaVinci Resolve Studio and got impressed by its AI Super Scale and AI Magic Mask features!
+- Tried a free tool called [Vocal Remover](https://vocalremover.org/) for changing pitch (key) of a mp3, impressed by it.
+
 ## 7 Oct 2025
 - Continued building the watermark remover Saas web app, gained lots of experience using the GitHub and EdgeOne Pages tech stack.
 - Used Qoder to vibe code in this process. Other tools include Supabase and Stripe.
