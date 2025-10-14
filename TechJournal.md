@@ -1,3 +1,9 @@
+## 13 Oct 2025
+- Used Doubao to transfer style of photo (harmonica reed).
+- Used Doubao to generate poster background image with desired elements and colours (zone, wave, black and white) according to uploaded reference image.
+- Used Canva to complete the draft of the poster. 
+- Learnt how to use Notion to manage projects and tasks.
+
 ## 9 Oct 2025
 - Used DaVinci Resolve Studio to upscale 3D Avatar videos to 4X resolution for 4K output.
 
