@@ -1,3 +1,21 @@
+## 4 Dec 2025
+- Started preparing for AZ-305 exam.
+
+## 3 Dec 2025
+- Passed AZ-104 exam. 
+
+## 2 Dec 2025
+- Used NotebookLM to create flashcards for AZ-104 preparation.
+
+## 1 Dec 2025
+- Delivered a workshop themed “Practical Walkthrough of AI & No-Code Tools” for 20+ NPO leaders and colleagues joining the Jockey Club Broadening Outreach Scheme.
+
+## 18 Nov - 2 Dec 2025
+- Prepared for AZ-104 exam.
+
+## 10 Nov
+- Started part-time Cloud Support Engineer role at Synnex.
+
 ## 13 Oct 2025
 - Used Doubao to transfer style of photo (harmonica reed).
 - Used Doubao to generate poster background image with desired elements and colours (zone, wave, black and white) according to uploaded reference image.
