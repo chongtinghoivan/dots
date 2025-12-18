@@ -1,8 +1,20 @@
+## 18 Dec 2025
+Used Comet browser to extract info from a contact list (PDF) and insert the details to Google Sheet. Although not perfect, it's quite accurate and did save me some time on copy & paste. Instead the time is spent on cross-checking the accuracy.
+
+## 12 Dec 2025
+Passed AZ-305 exam and got the Microsoft Certified: Azure Solutions Architect Expert credential.
+
+## 11 Dec 2025
+Delivered an AI tool sharing session with 80+ teachers at EDB.
+
+## 10 Dec 2025
+Got my Google Antigravity working!
+
 ## 4 Dec 2025
 - Started preparing for AZ-305 exam.
 
 ## 3 Dec 2025
-- Passed AZ-104 exam. 
+- Passed AZ-104 exam and got the Microsoft Certified: Azure Administrator Associate crendential. 
 
 ## 2 Dec 2025
 - Used NotebookLM to create flashcards for AZ-104 preparation.
