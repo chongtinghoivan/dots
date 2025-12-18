@@ -1,19 +1,13 @@
 ## 19 Dec 2025
 Tried using Perplexity to create chinese article that can 押韻, with seven words per sentence. Impressed by the result!
-籌款齊行興致旺，  
-歡聲笑語滿海港。
-二月七號齊起行，  
-沿途幸福照人情。  
-北角碼頭迎海風，  
-東岸踏步夢相融。
-著上 House 衫精神盛，  
-同學並肩熱火凝。  
-重建真光心有願，  
-同氣連枝愛永存。
-報名快手莫遲疑，  
-四社齊心最得意。  
-愛心化作千重浪，  
-力量無窮照校光。
+
+籌款齊行興致旺，歡聲笑語滿海港。
+二月七號齊起行，沿途幸福照人情。  
+北角碼頭迎海風，東岸踏步夢相融。
+著上 House 衫精神盛，同學並肩熱火凝。  
+重建真光心有願，同氣連枝愛永存。
+報名快手莫遲疑，四社齊心最得意。  
+愛心化作千重浪，力量無窮照校光。
 
 ## 18 Dec 2025
 Used Comet browser to extract info from a contact list (PDF) and insert the details to Google Sheet. Although not perfect, it's quite accurate and did save me some time on copy & paste. Instead the time is spent on cross-checking the accuracy.
