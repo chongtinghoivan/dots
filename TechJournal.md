@@ -8,7 +8,7 @@ Passed AZ-305 exam and got the Microsoft Certified: Azure Solutions Architect Ex
 Delivered an AI tool sharing session with 80+ teachers at EDB.
 
 ## 10 Dec 2025
-Got my Google Antigravity working!
+Got my Google Antigravity account working!
 
 ## 4 Dec 2025
 - Started preparing for AZ-305 exam.
