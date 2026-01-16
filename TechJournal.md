@@ -1,3 +1,15 @@
+## 16 Jan 2026
+Published my 1st vibe-coded memory-training web game (mobile-friendly) project ["Tidal Recall"](https://tidal-recall.ivanchong.com).
+Added tip feature using [Ko-fi](https://ko-fi.com/ivanchongth).
+Tools used: Google AI Studio, Qoder, Cloudflare
+Completed 1st session of Freedom Startup Academy.
+
+## 10 Jan 2026
+Start preparing for AI-102 AI Engineer exam.
+
+## 13 Dec 2025 - 2 Jan 2026
+Prepared for AZ-400 exam and got Microsoft Certified: DevOps Engineer Expert in my second attempt of the exam. 
+
 ## 19 Dec 2025
 Tried using Perplexity to create chinese article that can 押韻, with seven words per sentence. Impressed by the result!
 
