@@ -1,3 +1,6 @@
+## 29 Jan 2026
+Passed AI-102 and got certified as [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/THCHONG/5D3E517660A3F36B?sharingId=DA5CF3D7151D4CD1)
+
 ## 16 Jan 2026
 Published my 1st vibe-coded memory-training web game (mobile-friendly) project ["Tidal Recall"](https://tidal-recall.ivanchong.com).
 Added tip feature using [Ko-fi](https://ko-fi.com/ivanchongth).
