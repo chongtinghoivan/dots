@@ -1,3 +1,6 @@
+## 9 Feb 2026
+Connected OpenCode to GitHub Copilot Pro. Installed oh-my-opencode.
+
 ## 29 Jan 2026
 Passed AI-102 and got certified as [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/THCHONG/5D3E517660A3F36B?sharingId=DA5CF3D7151D4CD1)
 
