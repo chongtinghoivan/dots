@@ -1,3 +1,9 @@
+## 11 Feb 2026
+Got the credential [Gemini Certified Educator](https://edu.google.accredible.com/c0bb12e1-ab08-4795-a67b-a46afebd6e60#acc.mPgs2lSD)
+
+## 10 Feb 2026
+Vibe-coded [PDF Splitter Pro](https://pdfsplitter.ivanchong.com/) for NGO's certification preparation for volunteers 
+
 ## 9 Feb 2026
 Connected OpenCode to GitHub Copilot Pro. Installed oh-my-opencode.
 
