@@ -1,3 +1,8 @@
+## 12 Feb 2026
+- Created a [Chinese Name Sugguestion AI chatbot](https://doubao.com/bot/RVvWGU6w) using Doubao, with the prompt text being enhanced using M365 Copilot "Prompt Coach"
+- First experience using Google Antigravity
+- Got the digital badge after completing the [Copilot Chat and AI Agents Skilling Series](https://www.linkedin.com/posts/chongtingho_copilot-chat-and-ai-agents-skilling-series-activity-7427523233840824322-0AK_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
+
 ## 11 Feb 2026
 Got the credential [Gemini Certified Educator](https://edu.google.accredible.com/c0bb12e1-ab08-4795-a67b-a46afebd6e60#acc.mPgs2lSD)
 
