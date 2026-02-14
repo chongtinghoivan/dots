@@ -1,3 +1,7 @@
+## 13 Feb 2026
+- First time using [Qwen](https://chat.qwen.ai/) to vibe-code web app prototype, and got impressive results.
+- Joined as part of the panel of the [Jockey Club Broadening Outreach Scheme](https://jcbroadeningoutreach.hk/en) to provide AI & IT consultation to Foodlink Foundation. Happy to have an exchange with Executive Director Robin, Director Kendall and Heads of Operations Aurea.
+
 ## 12 Feb 2026
 - Created a [Chinese Name Sugguestion AI chatbot](https://doubao.com/bot/RVvWGU6w) using Doubao, with the prompt text being enhanced using M365 Copilot "Prompt Coach"
 - First experience using Google Antigravity
