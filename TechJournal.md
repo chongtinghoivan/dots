@@ -1,3 +1,15 @@
+## 20 Feb 2026
+- Enhanced the [Tianjin Majong mark calculation web app](https://tjmj.ivanchong.com/) to support more winning options and mark adjustment capability. [LinkedIn Post](https://www.linkedin.com/posts/chongtingho_vibecoding-ai-webapp-ugcPost-7430963208473018368-e4rK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
+Tech stack: Qwen, Antigravity, Cloudflare
+
+## 19 Feb 2026
+- Vibe-coded a [Tianjin Majong mark calculation web app](https://tjmajong.ivanchong.com/) so as to reduce the effort manually calculating the marks each round.
+- [Link to LinkedIn Post](https://www.linkedin.com/posts/chongtingho_vibecoding-webapp-webapp-activity-7430806926843674624-iHtt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
+Tech stack: Qwen, Antigravity, Cloudflare
+
+## 14 Feb 2026
+- Rebuilt a free cloud-based n8n using Hugging Face, Supabase and Upstash following [Youtube tutorial](https://www.youtube.com/watch?v=ucCamELP8UY&pp=ygUVaHVnZ2luZyBmYWNlIG44biBmcmVl)
+
 ## 13 Feb 2026
 - First time using [Qwen](https://chat.qwen.ai/) to vibe-code web app prototype, and got impressive results.
 - Joined as part of the panel of the [Jockey Club Broadening Outreach Scheme](https://jcbroadeningoutreach.hk/en) to provide AI & IT consultation to Foodlink Foundation. Happy to have an exchange with Executive Director Robin, Director Kendall and Heads of Operations Aurea.
