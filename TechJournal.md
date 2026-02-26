@@ -1,3 +1,8 @@
+## 26 Feb 2026
+- Cleaned my old MacBook Pro to prepare for OpenClaw installation
+- 1st time using [Skill Scanner](https://ai.gendigital.com/skill-scanner)
+- 1st time using [ClawHub](https://clawhub.ai/)
+
 ## 20 Feb 2026
 - Enhanced the [Tianjin Majong mark calculation web app](https://tjmj.ivanchong.com/) to support more winning options and mark adjustment capability. [LinkedIn Post](https://www.linkedin.com/posts/chongtingho_vibecoding-ai-webapp-ugcPost-7430963208473018368-e4rK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
 Tech stack: Qwen, Antigravity, Cloudflare
