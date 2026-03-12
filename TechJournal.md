@@ -1,3 +1,12 @@
+## 11 Mar 2026
+- Delivered my 1st Microsoft M365 Copilot Business demo to partner ([Link to LinkedIn Post](https://www.linkedin.com/posts/chongtingho_microsoft-copilotchat-m365copilotbusiness-share-7437494799504461824-wDN4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE))
+
+## 7 Mar 2026
+- Delivered 4 30-min sharing sessions at HKPC. (Link to LinkedIn Post [1](https://www.linkedin.com/posts/chongtingho_hkpc-ai-career-activity-7435626154587226112-cjm7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE), [2](https://www.linkedin.com/posts/chongtingho_career-tech-careertransition-ugcPost-7436058466189873153-_NJV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)) 
+1) 100 Days of AI Transformation: Entering the Finance and Technology Industries (Understanding AI Roles)
+2) AI Roles in Finance and Technology: Winning Strategies for Résumés, Interviews, and Negotiations
+
+
 ## 26 Feb 2026
 - Cleaned my old MacBook Pro to prepare for OpenClaw installation
 - 1st time using [Skill Scanner](https://ai.gendigital.com/skill-scanner)
