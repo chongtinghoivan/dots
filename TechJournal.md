@@ -1,3 +1,6 @@
+## 12 Mar 2026
+- Successfully tested how to remote control my old MacBook Pro using both AnyDesk and RustDesk.
+
 ## 11 Mar 2026
 - Delivered my 1st Microsoft M365 Copilot Business demo to partner ([Link to LinkedIn Post](https://www.linkedin.com/posts/chongtingho_microsoft-copilotchat-m365copilotbusiness-share-7437494799504461824-wDN4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE))
 
