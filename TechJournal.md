@@ -1,3 +1,19 @@
+## 17 Mar 2026
+- Tried using Claude models in Microsoft Copilot 365
+- Built Cloud Support Egnineer AI agents (English, Traditional Chinese, Simplified Chinese) in Microsoft Copilot Studio and published them to Microsoft 365 Copilot and Teams.
+
+## 15 Mar 2026
+- Set up different channels on Discord responsible for different tasks, covering 6 different roles:
+#strategy → Prometheus (Planning)
+#orchestration → Atlas (Orchestration)
+#deep-implementation → Hephaestus (Deep Work)
+#frontend → Frontend (UI/UX)
+#review → Momus (Verification)
+#docs → Librarian (Research)
+
+## 14 Mar 2026
+- Enabled my OpenClaw to have the self version update skill and perform a daily cron job to check for version update.
+
 ## 12 Mar 2026
 - Successfully tested how to remote control my old MacBook Pro using both AnyDesk and RustDesk.
 
