@@ -1,6 +1,7 @@
 ## 17 Mar 2026
-- Tried using Claude models in Microsoft Copilot 365
+- Tried using Claude models in Microsoft Copilot 365.
 - Built Cloud Support Egnineer AI agents (English, Traditional Chinese, Simplified Chinese) in Microsoft Copilot Studio and published them to Microsoft 365 Copilot and Teams.
+- Created email template to reduce the time needed to prepare for daily cloud stat reports.
 
 ## 15 Mar 2026
 - Set up different channels on Discord responsible for different tasks, covering 6 different roles:
