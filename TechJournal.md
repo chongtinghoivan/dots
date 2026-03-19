@@ -1,3 +1,10 @@
+## 19 Mar 2026
+- Tried multi-agent orchestration in Microsoft 365 Copilot Studio by using one AI agent to redirect to one of the six other AI agents.
+Email Language Detection Agent (English, Traditional Chinese, Simplified Chinese) -> Tech Support Agent replying in a specific language
+- Tried creating video using Microsoft 365 Copilot (Sora 2). Used the free tool [Magic Eraser](https://magiceraser.org/remove-watermark-from-video/) to remove the watermark from the video. (Dimension: 1280 x 720; Size: 5.3 MB)
+- Tested generating video using similar prompt using Google Veo 3. The video quality looked a lot better (Dimension: 1280 x 720; Size: 9 MB) 
+- Learnt why video from Google Veo 3 looks sharper via [Perplexity](https://www.perplexity.ai/search/why-the-video-quality-generate-NVgrT_5pTreh0z3GKeLAKg)
+
 ## 17 Mar 2026
 - Tried using Claude models in Microsoft Copilot 365.
 - Built Cloud Support Egnineer AI agents (English, Traditional Chinese, Simplified Chinese) in Microsoft Copilot Studio and published them to Microsoft 365 Copilot and Teams.
