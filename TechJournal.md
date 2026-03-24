@@ -1,3 +1,8 @@
+## 24 Mar 2026
+- Delivered an internal sharing session themed [“Using AI Tools to Enhance Productivity”](https://www.linkedin.com/posts/chongtingho_synnex-ai-sharing-activity-7441850469200801792-h7nA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) with SE team buddies of Synnex this afternoon.
+
+- I shared how AI agents can be created to handle solution research of tech support enquiries, how vibe-coding can help create our own tools, and how to keep up with the latest tech development and updates. 
+
 ## 19 Mar 2026
 - Tried multi-agent orchestration in Microsoft 365 Copilot Studio by using one AI agent to redirect to one of the six other AI agents.
 Email Language Detection Agent (English, Traditional Chinese, Simplified Chinese) -> Tech Support Agent replying in a specific language
