@@ -1,4 +1,7 @@
 ## 24 Mar 2026
+- Refined the Synnex Cloud Support AI Agent built using Copilot Business and shared with colleagues for business daily operational use.
+
+## 23 Mar 2026
 - Delivered an internal sharing session themed [“Using AI Tools to Enhance Productivity”](https://www.linkedin.com/posts/chongtingho_synnex-ai-sharing-activity-7441850469200801792-h7nA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) with SE team buddies of Synnex this afternoon.
 
 - I shared how AI agents can be created to handle solution research of tech support enquiries, how vibe-coding can help create our own tools, and how to keep up with the latest tech development and updates. 
