@@ -1,3 +1,6 @@
+## 25 Mar 2026
+- Installed NemoClaw to Windows 365 VM
+
 ## 24 Mar 2026
 - Refined the Synnex Cloud Support AI Agent built using Copilot Business and shared with colleagues for business daily operational use.
 
