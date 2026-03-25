@@ -1,6 +1,6 @@
 ## 25 Mar 2026
 - Installed NemoClaw to Windows 365 VM
-- Used Grok AI + Google AI Studio to build the prototype of a Hong Kong MPF investment simulation game
+- Used Grok AI + Google AI Studio + Google Antigravity to build the prototype of a Hong Kong MPF investment simulation game
 
 ## 24 Mar 2026
 - Refined the Synnex Cloud Support AI Agent built using Copilot Business and shared with colleagues for business daily operational use.
