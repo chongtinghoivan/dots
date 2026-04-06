@@ -1,3 +1,15 @@
+## 6 Apr 2026
+- Learnt about what [Harness Engineering](https://www.youtube.com/watch?v=3DlXq9nsQOE) is
+
+## 31 Mar 2026
+- Tried to make good use of the remaining premium requests of GitHub Copilot Pro to enhance the skills of OpenCode and configured several MCPs. 
+
+## 27 Mar 2026
+- Tried applied the concept of Andrej Karpathy's [autoresearch](https://github.com/karpathy/autoresearch) to PaperClip to fine-tune the AI agents created 
+
+## 26 Mar 2026
+- Installed [PaperClip](https://github.com/paperclipai/paperclip) and used OpenCode to configure the initial set-up.
+
 ## 25 Mar 2026
 - Installed NemoClaw to Windows 365 VM
 - Used Grok AI + Google AI Studio + Google Antigravity to build the prototype of a Hong Kong MPF investment simulation game
