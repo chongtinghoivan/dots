@@ -1,5 +1,6 @@
 ## 7 Apr 2026
 - Downloaded latest Obsidian version and enabled Obsidian CLI.
+- Implemented syncing Obsidian to GitHub following this [tutorial](https://www.youtube.com/watch?v=IlNOhNeWGgY&t=501s)
 
 ## 6 Apr 2026
 - Learnt about what [Harness Engineering](https://www.youtube.com/watch?v=3DlXq9nsQOE) is
