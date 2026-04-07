@@ -1,3 +1,6 @@
+## 7 Apr 2026
+- Downloaded latest Obsidian version and enabled Obsidian CLI.
+
 ## 6 Apr 2026
 - Learnt about what [Harness Engineering](https://www.youtube.com/watch?v=3DlXq9nsQOE) is
 
