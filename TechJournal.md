@@ -4,6 +4,8 @@
 - Configured Obsidian following the above video to enable MD exporting in different formats
 - Tried using free model MiniMax M2.5 in OpenCode when monthly premium requests of GitHub Copilot Pro are used up
 - Installed and tried Qwen Code (Also Gemini CLI, but limited by regional restriction)
+- Installed several Obsidian AI-relevant skills to Qwen Code using Qwen Code and Qoder Agent (lite)
+- Tried using local models to run on OpenCode but even Qwen 3 8b model is also too slow
 
 ## 6 Apr 2026
 - Learnt about what [Harness Engineering](https://www.youtube.com/watch?v=3DlXq9nsQOE) is
