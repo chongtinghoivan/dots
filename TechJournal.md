@@ -2,6 +2,8 @@
 - Downloaded latest Obsidian version and enabled Obsidian CLI.
 - Implemented syncing Obsidian to GitHub following this [tutorial](https://www.youtube.com/watch?v=IlNOhNeWGgY&t=501s)
 - Configured Obsidian following the above video to enable MD exporting in different formats
+- Tried using free model MiniMax M2.5 in OpenCode when monthly premium requests of GitHub Copilot Pro are used up
+- Installed and tried Qwen Code (Also Gemini CLI, but limited by regional restriction)
 
 ## 6 Apr 2026
 - Learnt about what [Harness Engineering](https://www.youtube.com/watch?v=3DlXq9nsQOE) is
