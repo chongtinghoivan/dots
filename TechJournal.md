@@ -1,9 +1,15 @@
+## 10 Apr 2026
+- Learnt more about how to use [GitHub Actions](https://www.perplexity.ai/search/what-is-github-action-and-how-53HFJP5lRRmoODBLpY0N.w) for Internet connectivity unstable or offline scenarios
+
 ## 9 Apr 2026
-- Watched this [YouTube video](https://www.youtube.com/watch?v=5JKk_N9L7MQ) and learnt how one might possibly sync Obsidian with OneDrive. Not yet test whether it might work together with the Obsidian to GitHub sync. 
+- Watched this [YouTube video](https://www.youtube.com/watch?v=5JKk_N9L7MQ) and learnt how one might possibly sync Obsidian with OneDrive. Not yet test whether it might work together with the Obsidian to GitHub sync.
+- Tested enabling the free (for limited time) models of Cherry Studio by charging USD 10
+- Tested using "Custom provider" in OpenCode but cannot integrate Cherry Studio into it
 
 ## 8 Apr 2026
 - Gave Qwen Code (CLI) more testing to modify a Qwen Code skill shared via [GitHub public repo](https://github.com/chongtinghoivan/follow-builders-obsidian)
-- Enabled 1 seat of GitHub Copilot Business using the Microsoft Azure Sponsorships subscription (at US19 / month)
+- Enabled 1 seat of GitHub Copilot Business using the Microsoft Azure Sponsorships subscription (at US19 / month) (HKHA)
+- Tested using OpenRouter
 
 ## 7 Apr 2026
 - Downloaded latest Obsidian version and enabled Obsidian CLI.
