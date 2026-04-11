@@ -1,3 +1,6 @@
+## 12 Apr 2026
+- Installed [QoderWork](https://qoder.com/qoderwork)
+
 ## 11 Apr 2026
 - Update [GitHub public repo](https://github.com/chongtinghoivan/follow-builders-obsidian)
 - Joined Preface NOMAD onboarding briefing by JJ
