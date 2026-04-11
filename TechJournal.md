@@ -1,5 +1,6 @@
 ## 12 Apr 2026
 - Installed [QoderWork](https://qoder.com/qoderwork)
+- Briefly studied the default skills in QoderWork created and installed some other available skills.
 
 ## 11 Apr 2026
 - Update [GitHub public repo](https://github.com/chongtinghoivan/follow-builders-obsidian)
