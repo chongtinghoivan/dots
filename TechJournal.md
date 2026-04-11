@@ -1,5 +1,11 @@
+## 11 Apr 2026
+- Update [GitHub public repo](https://github.com/chongtinghoivan/follow-builders-obsidian)
+- Joined Preface NOMAD onboarding briefing by JJ
+- Taught Susan how to create AI agents using Perplexity, Grok, Coze and Cherry Studio
+
 ## 10 Apr 2026
 - Learnt more about how to use [GitHub Actions](https://www.perplexity.ai/search/what-is-github-action-and-how-53HFJP5lRRmoODBLpY0N.w) for Internet connectivity unstable or offline scenarios
+- Delivered my 2nd Microsoft M365 Copilot Business demo to partner (in English)
 
 ## 9 Apr 2026
 - Watched this [YouTube video](https://www.youtube.com/watch?v=5JKk_N9L7MQ) and learnt how one might possibly sync Obsidian with OneDrive. Not yet test whether it might work together with the Obsidian to GitHub sync.
@@ -28,6 +34,7 @@
 
 ## 27 Mar 2026
 - Tried applied the concept of Andrej Karpathy's [autoresearch](https://github.com/karpathy/autoresearch) to PaperClip to fine-tune the AI agents created 
+- Demo teaching at Preface 
 
 ## 26 Mar 2026
 - Installed [PaperClip](https://github.com/paperclipai/paperclip) and used OpenCode to configure the initial set-up.
