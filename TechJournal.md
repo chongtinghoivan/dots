@@ -1,9 +1,10 @@
 ## 12 Apr 2026
 - Installed [QoderWork](https://qoder.com/qoderwork)
 - Briefly studied the default skills in QoderWork created and installed some other available skills.
+- Updated [GitHub public repo](https://github.com/chongtinghoivan/follow-builders-obsidian) to add both Traditional Chinese and Simplified Chinese instructions to README.md
 
 ## 11 Apr 2026
-- Update [GitHub public repo](https://github.com/chongtinghoivan/follow-builders-obsidian)
+- Updated [GitHub public repo](https://github.com/chongtinghoivan/follow-builders-obsidian) to fix consistency issues of tools naming. (Example: Qwen Code -> Claude Code; Gemini API Key -> Open AI API Key)
 - Joined Preface NOMAD onboarding briefing by JJ
 - Taught Susan how to create AI agents using Perplexity, Grok, Coze and Cherry Studio
 
