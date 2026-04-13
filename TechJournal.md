@@ -1,3 +1,6 @@
+## 13 Apr 2026
+- Tried QoderWork scheduled task but could not work without paid subscription. 
+
 ## 12 Apr 2026
 - Installed [QoderWork](https://qoder.com/qoderwork)
 - Briefly studied the default skills in QoderWork created and installed some other available skills.
