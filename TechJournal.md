@@ -1,5 +1,6 @@
 ## 13 Apr 2026
 - Tried QoderWork scheduled task but could not work without paid subscription. 
+- GitHub public repo [follow-builders-obsidian](https://github.com/chongtinghoivan/follow-builders-obsidian) is working without issues after a few days of observation 
 
 ## 12 Apr 2026
 - Installed [QoderWork](https://qoder.com/qoderwork)
