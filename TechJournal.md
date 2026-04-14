@@ -1,3 +1,6 @@
+## 14 Apr 2026
+- Tested creating "Agents" in Cherry Studio, learnt that it allows local files searching, tools usage, plugin installation. These are more powerful as compared with "Assistant". Yet the number of free AI models supported by "Agents" are relatively limited than "Assistant".
+
 ## 13 Apr 2026
 - Tried QoderWork scheduled task but could not work without paid subscription. 
 - GitHub public repo [follow-builders-obsidian](https://github.com/chongtinghoivan/follow-builders-obsidian) is working without issues after a few days of observation 
