@@ -1,3 +1,9 @@
+## 15 Apr 2026
+- No more free [Qwen Code](https://github.com/QwenLM/qwen-code), now switched to Qoder and OpenCode.
+- Experienced the daily limit of OpenRouter, message as follows:
+API Error: 429 Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+- May consider adding 10 credits to unlock the 1000 free model requests per day like what I did yesterday for Cherry Studio.
+
 ## 14 Apr 2026
 - Tested creating "Agents" in Cherry Studio, learnt that it allows local files searching, tools usage, plugin installation. These are more powerful as compared with "Assistant". Yet the number of free AI models supported by "Agents" are relatively limited than "Assistant".
 
