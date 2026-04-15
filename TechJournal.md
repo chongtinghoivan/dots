@@ -1,4 +1,6 @@
 ## 15 Apr 2026
+- Tested with Copilot excel for lead research scenario
+- Installed CrewAI again to test lead research flow
 - No more free [Qwen Code](https://github.com/QwenLM/qwen-code), now switched to Qoder and OpenCode.
 - Experienced the daily limit of OpenRouter, message as follows:
 API Error: 429 Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
