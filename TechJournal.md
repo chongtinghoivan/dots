@@ -1,3 +1,15 @@
+## 22 Apr 2026
+- Tested using PDF skill and turning PDF that contains past exam questions and answers into other format that is more easily digestable by LLM with Copilot Cowork, the info extraction is fast and correct, and a md file had been prepared.
+- Used Qwen Code and Google AI Studio to compare the results turning the md file into a learning app which hide the correct answer and explanation until the user answers it.
+
+## 21 Apr 2026
+- Prepared presentation materials for HKU BOS training on 24 Apr 2026
+- Tested Qwen Chat in replicating the UI and functionality of web app by providing reference link to the [reference web app](https://pdfsplitter.ivanchong.com/), it worked quite well and successfully built the app with 5 prompts in total.
+
+## 20 Apr 2026
+- Used Copilot Cowork to get info from 4 data sources and prepare bilingual daily AI Builder news, and made it a scheduled task, got nice result. 
+- Tested Copilot Cowork with web scraping which requires Google account authenitication (login) before info is shown, failed as that would probably require passing of the control. So far Comet can do this without issue.
+
 ## 15 Apr 2026
 - Tested with Copilot excel for lead research scenario
 - Installed CrewAI again to test lead research flow
