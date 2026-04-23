@@ -1,3 +1,8 @@
+## 23 Apr 2026
+- Practised again how to add skill to Copilot Cowork
+- Tried to fix the obsolete date problem when using Copilot Cowork to get latest AI Builders' News. Adopted a new approach to create the skill first, and tried to use the skill to accomplish the task.
+- Prepared a PPT with demo cases for a M365 Copilot training to partners featuring practical application for SMBs.
+
 ## 22 Apr 2026
 - Tested using PDF skill and turning PDF that contains past exam questions and answers into other format that is more easily digestable by LLM with Copilot Cowork, the info extraction is fast and correct, and a md file had been prepared.
 - Used Qwen Code and Google AI Studio to compare the results turning the md file into a learning app which hide the correct answer and explanation until the user answers it.
