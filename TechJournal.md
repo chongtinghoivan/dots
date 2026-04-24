@@ -1,3 +1,6 @@
+## 24 Apr 2026
+- Invited by the Jockey Club Broadening Outreach Scheme and delivered a 2.5 hr AI training workshop themed "Leveraging Al Agents to Maximize Productivity" to 20+ NPO representatives.
+
 ## 23 Apr 2026
 - Practised again how to add skill to Copilot Cowork
 - Tried to fix the obsolete date problem when using Copilot Cowork to get latest AI Builders' News. Adopted a new approach to create the skill first, and tried to use the skill to accomplish the task.
