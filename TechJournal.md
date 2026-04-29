@@ -8,6 +8,9 @@
 ## 28 Apr 2026
 - [Passed DP-700 exam](https://www.linkedin.com/posts/chongtingho_microsoft-fabric-dataengineer-share-7455035059645960192-SIwF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) and got [Microsoft Certified: Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/THCHONG/C6B115C564E7DA25?sharingId)
 
+## 25 Apr 2026
+- Started publishing bilingual (English + Traditional Chinese) "[AI Builders Digest](https://www.linkedin.com/pulse/ai-builders-digest-2026-04-25-ivan-chong-vpocc/)" via LinkedIn newsletter [Tech Tools Guru](https://www.linkedin.com/newsletters/tech-tools-guru-7000085086381510656/). 
+
 ## 24 Apr 2026
 - Invited by the Jockey Club Broadening Outreach Scheme and delivered a 2.5 hr AI training workshop themed "Leveraging Al Agents to Maximize Productivity" to 20+ NPO representatives.
 
