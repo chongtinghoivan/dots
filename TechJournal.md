@@ -1,3 +1,13 @@
+## 30 Apr 2026
+- Downloaded Gemini app for Mac.
+
+## 29 Apr 2026
+- Delivered the talk "Career Planning in the AI Era" to over 160 S4 students of 香港道教聯合會鄧顯紀念中學 on behalf of Senio Tech. 
+- Downloaded Codex app for Mac.
+
+## 28 Apr 2026
+- [Passed DP-700 exam](https://www.linkedin.com/posts/chongtingho_microsoft-fabric-dataengineer-share-7455035059645960192-SIwF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) and got [Microsoft Certified: Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/THCHONG/C6B115C564E7DA25?sharingId)
+
 ## 24 Apr 2026
 - Invited by the Jockey Club Broadening Outreach Scheme and delivered a 2.5 hr AI training workshop themed "Leveraging Al Agents to Maximize Productivity" to 20+ NPO representatives.
 
