@@ -1,5 +1,7 @@
 ## 30 Apr 2026
 - Downloaded Gemini app for Mac.
+- Built a Synnex Partner Skilling Hub using Sharepoint communication site.
+- Tested Canva's **Magic Layers** feature with image having Chinese text, and learnt that this feature is only applicable to images for now, not PDF. 
 
 ## 29 Apr 2026
 - Delivered the talk "Career Planning in the AI Era" to over 160 S4 students of 香港道教聯合會鄧顯紀念中學 on behalf of Senio Tech. 
