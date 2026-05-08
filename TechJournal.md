@@ -1,3 +1,9 @@
+## 8 May 2026
+- Learnt how to use Affinity to edit photos (removing text)
+
+## 4 May 2026
+- Delivered my first class at Preface
+
 ## 30 Apr 2026
 - Downloaded Gemini app for Mac.
 - Built a Synnex Partner Skilling Hub using Sharepoint communication site.
