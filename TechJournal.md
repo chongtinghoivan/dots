@@ -1,6 +1,9 @@
 ## 8 May 2026
 - Learnt how to use Affinity to edit photos (removing text)
 
+## 7 May 2026
+- Delivered a sharing session to 30 students at Lock Tao Secondary School on "AI Tools Generic Overview & Their Applications". Shared insights on how to develop a solopreneurial business mastering different AI tools.
+
 ## 4 May 2026
 - Delivered my first class at Preface
 
