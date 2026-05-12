@@ -1,3 +1,6 @@
+## 9 May 2026
+- Accomplished another certification - [Microsoft Certified: AI Business Professional](https://www.linkedin.com/posts/chongtingho_generativeai-aiskills-promptengineering-share-7459903767258435584-HfO0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
+
 ## 8 May 2026
 - Learnt how to use Affinity to edit photos (removing text)
 
