@@ -2,6 +2,7 @@
 - Accomplished another certification - [Microsoft Certified: AI Business Professional](https://www.linkedin.com/posts/chongtingho_generativeai-aiskills-promptengineering-share-7459903767258435584-HfO0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
 
 ## 11 May 2026
+- Delivered a lesson on setting up AI agents using Perplexity to 30 students at Lock Tao Secondary School. Also scheduled a demo on how to rebuild a web game built with [Google AI Studio](https://tidal-recall.ivanchong.com/) using [Qwen Studio](https://chat.qwen.ai/s/deploy/t_b47d79a5-e211-4012-934b-639bfd8f5682) (Unpolished version). 
 - Accomplished my 2nd group class at Preface
 
 ## 8 May 2026
