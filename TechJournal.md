@@ -1,11 +1,17 @@
-## 9 May 2026
+## 12 May 2026
 - Accomplished another certification - [Microsoft Certified: AI Business Professional](https://www.linkedin.com/posts/chongtingho_generativeai-aiskills-promptengineering-share-7459903767258435584-HfO0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
+
+## 11 May 2026
+- Accomplished my 2nd group class at Preface
 
 ## 8 May 2026
 - Learnt how to use Affinity to edit photos (removing text)
 
 ## 7 May 2026
 - Delivered a sharing session to 30 students at Lock Tao Secondary School on "AI Tools Generic Overview & Their Applications". Shared insights on how to develop a solopreneurial business mastering different AI tools.
+
+## 6 May 2026
+- Acted as Teaching Assistant at Preface's OpenClaw short course, presented by Sherman
 
 ## 4 May 2026
 - Delivered my first class at Preface
