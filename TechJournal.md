@@ -1,3 +1,13 @@
+## 15 May 2026
+- Had a demo of Copilot Cowork at Expert Systems' partner event (Synnex).
+- Taught the HTML CSS class at Preface for Susan and Freda.
+
+## 14 May 2026
+- Delivered a hands-on walkthrough session to 30 students at Lock Tao Secondary School on "How to build AI Agents using Perplexity". Walked through 3 scenarios from Content Research, Powerpoint Preparation to Cantonese Script Writing.
+
+## 13 May 2026
+- Attended a pre-consultation session of Zubin Foundation with the HKJC Broadening Outreach Scheme team (Hannah and Samson) and Anatasia.
+
 ## 12 May 2026
 - Accomplished another certification - [Microsoft Certified: AI Business Professional](https://www.linkedin.com/posts/chongtingho_generativeai-aiskills-promptengineering-share-7459903767258435584-HfO0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE)
 
