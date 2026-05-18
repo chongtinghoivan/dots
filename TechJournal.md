@@ -1,3 +1,12 @@
+## 18 May 2026
+- Delivered my third class at Preface to colleagues of Academic Asia (AI 103A)
+
+## 17 May 2026
+- Delivered the 1st 1-on-1 private class (AI101A) to Savi at Preface.
+
+## 16 May 2026
+- Delivered a full day AI Workshop at S.T.F.A. Lee Shau Kee College 順德聯誼總會李兆基中學 to around 20 students.
+
 ## 15 May 2026
 - Had a demo of Copilot Cowork at Expert Systems' partner event (Synnex).
 - Taught the HTML CSS class at Preface for Susan and Freda.
@@ -13,7 +22,7 @@
 
 ## 11 May 2026
 - Delivered a lesson on setting up AI agents using Perplexity to 30 students at Lock Tao Secondary School. Also scheduled a demo on how to rebuild a web game built with [Google AI Studio](https://tidal-recall.ivanchong.com/) using [Qwen Studio](https://chat.qwen.ai/s/deploy/t_b47d79a5-e211-4012-934b-639bfd8f5682) (Unpolished version). 
-- Accomplished my 2nd group class at Preface
+- Accomplished my 2nd group class at Preface to colleagues of Academic Asia (AI 101B)
 
 ## 8 May 2026
 - Learnt how to use Affinity to edit photos (removing text)
@@ -25,7 +34,7 @@
 - Acted as Teaching Assistant at Preface's OpenClaw short course, presented by Sherman
 
 ## 4 May 2026
-- Delivered my first class at Preface
+- Delivered my first class at Preface to colleagues of Academic Asia (AI 101A)
 
 ## 30 Apr 2026
 - Downloaded Gemini app for Mac.
