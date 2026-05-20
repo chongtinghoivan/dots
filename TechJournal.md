@@ -1,3 +1,6 @@
+## 19 May 2026
+- Delivered a hands-on walkthrough session to 30 students at Lock Tao Secondary School on "How to build AI Agents relevant to the theme Smart City". Walked through how to collect data from https://data.gov.hk/tc/, and showed how to potentially enhance the data visualization using existing data sets.
+
 ## 18 May 2026
 - Delivered my third class at Preface to colleagues of Academic Asia (AI 103A)
 
