@@ -1,3 +1,6 @@
+## 20 May 2026
+- Invited by the Jockey Club Broadening Outreach Scheme and delivered a 2 hr AI consultation workshop with core leaders of The Zubin Foundation.
+
 ## 19 May 2026
 - Delivered a hands-on walkthrough session to 30 students at Lock Tao Secondary School on "How to build AI Agents relevant to the theme Smart City". Walked through how to collect data from https://data.gov.hk/tc/, and showed how to potentially enhance the data visualization using existing data sets.
 
