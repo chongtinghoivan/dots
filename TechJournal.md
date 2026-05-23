@@ -2,6 +2,8 @@
 - Completed ["Google AI for Writing and Communicating"](https://coursera.org/share/7798c6570c304de73b30d681253b6183) by Google on Coursera
 - Completed ["Google AI for Content Creation"](https://www.credly.com/badges/7c6f7c76-0596-4192-896f-7cf1b991e827/linked_in_profile) by Google on Coursera
 - Completed ["Google AI for Data Analysis"](https://www.credly.com/badges/294329ed-28d2-4f98-bc95-f6b58547b34a/public_url) by Google on Coursera
+- Completed ["Google AI for App Building"](https://www.credly.com/badges/99490da4-4c31-4ce2-ba8f-2b4eae039ce3/public_url) by Google on Coursera
+- Completed ["Google AI Professional Certificate"](https://www.credly.com/badges/c3bc675e-c5bc-4169-aaf6-74c00a9c61fe/public_url) by Google on Coursera
 
 ## 23 May 2026
 - Completed ["AI Fundamentals"](https://www.coursera.org/account/accomplishments/verify/NX6ELV7V3WZH) by Google on Coursera
