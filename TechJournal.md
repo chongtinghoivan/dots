@@ -1,3 +1,10 @@
+## 23 May 2026
+- Completed ["AI Fundamentals"](https://www.coursera.org/account/accomplishments/verify/NX6ELV7V3WZH) by Google on Coursera
+
+## 22 May 2026
+- Completed ["Next-Gen Productivity: Copilot + Agents for the Modern Enterprise - Proficient"](https://www.linkedin.com/posts/chongtingho_next-gen-productivity-copilot-agents-for-share-7463723795493707776-d7PI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) by Microsoft.
+- Completed ["Build enterprise-ready agents with Copilot Studio - Proficient"](https://www.linkedin.com/posts/chongtingho_build-enterprise-ready-agents-with-copilot-share-7463722233455153153-C2oy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) by Microsoft.
+
 ## 20 May 2026
 - Invited by the Jockey Club Broadening Outreach Scheme and delivered a 2 hr AI consultation workshop with core leaders of The Zubin Foundation.
 
