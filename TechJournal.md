@@ -1,8 +1,11 @@
+## 24 May 2026
+- Completed ["Google AI for Writing and Communicating"](https://coursera.org/share/7798c6570c304de73b30d681253b6183) by Google on Coursera
+- Completed ["Google AI for Content Creation"](https://www.credly.com/badges/7c6f7c76-0596-4192-896f-7cf1b991e827/linked_in_profile) by Google on Coursera
+
 ## 23 May 2026
 - Completed ["AI Fundamentals"](https://www.coursera.org/account/accomplishments/verify/NX6ELV7V3WZH) by Google on Coursera
 - Completed ["AI for Brainstorming and Planning"](https://coursera.org/share/d1628f6cc7d320a812d3473b813c957b) by Google on Coursera
 - Completed ["AI for Research and Insights"](https://coursera.org/share/beccd27194d1b977a47f4a82298f266c) by Google on Coursera
-- Completed ["Google AI for Writing and Communicating"](https://coursera.org/share/7798c6570c304de73b30d681253b6183) by Google on Coursera
 
 ## 22 May 2026
 - Completed ["Next-Gen Productivity: Copilot + Agents for the Modern Enterprise - Proficient"](https://www.linkedin.com/posts/chongtingho_next-gen-productivity-copilot-agents-for-share-7463723795493707776-d7PI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) by Microsoft.
