@@ -1,3 +1,7 @@
+## 27 May 2026
+- Tested 元宝 AI in WeChat for its video summarizing feature
+- Signed up for [通义听悟](https://tingwu.aliyun.com/doc/transcripts/kvjonybxwobpqlx3) to test its voice to text feature
+
 ## 26 May 2026
 - Delivered a hands-on walkthrough session to 30 students at Lock Tao Secondary School, guiding them how to use the workflow leveraging different AI Agents to accomplish the smart city group project. 
 - Had a sync-up meeting with Grace and Billy from the Generation Hong Kong team for an upcoming workshop in June at Newman College.
