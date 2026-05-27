@@ -1,6 +1,8 @@
 ## 27 May 2026
-- Tested 元宝 AI in WeChat for its video summarizing feature
-- Signed up for [通义听悟](https://tingwu.aliyun.com/doc/transcripts/kvjonybxwobpqlx3) to test its voice to text feature
+- Tested 元宝 AI in WeChat for its video summarizing feature.
+- Signed up for [通义听悟](https://tingwu.aliyun.com/doc/transcripts/kvjonybxwobpqlx3) to test its voice to text feature.
+- Passed Microsoft's AB-100 Agentic AI Business Solutions Architect exam and earned the Microsoft Certified: Agentic AI Business Solutions Architect certification.
+- Delivered the 3rd 1-on-1 private class (AI102A) to Savi.
 
 ## 26 May 2026
 - Delivered a hands-on walkthrough session to 30 students at Lock Tao Secondary School, guiding them how to use the workflow leveraging different AI Agents to accomplish the smart city group project. 
