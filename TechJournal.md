@@ -1,3 +1,7 @@
+## 28 May 2026
+- Delivered another hands-on walkthrough session to 30 students at Lock Tao Secondary School, guiding them how to use the workflow leveraging different AI Agents to accomplish the smart city group project. This time, the focus is on creating the powerpoint presentation using Gemini / Qwen. Also showcased how to create AI videos using Gemini, Qwen and Arena.ai
+- Delivered n8n group class (AI111A) at Preface PST Olympian City.
+
 ## 27 May 2026
 - Tested 元宝 AI in WeChat for its video summarizing feature.
 - Signed up for [通义听悟](https://tingwu.aliyun.com/doc/transcripts/kvjonybxwobpqlx3) to test its voice to text feature.
