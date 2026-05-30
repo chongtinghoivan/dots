@@ -1,3 +1,7 @@
+## 29 May 2026
+- Accomplished a 2-hour M365 Copilot demo training to reseller partners at Synnex, with a focus on hands-on AI agent building using M365 Copilot and Copilot Studio. 
+- Delivered the 1st 1-on-1 private class (AI101A+B) to Hongyu at Preface HQ.
+
 ## 28 May 2026
 - Delivered another hands-on walkthrough session to 30 students at Lock Tao Secondary School, guiding them how to use the workflow leveraging different AI Agents to accomplish the smart city group project. This time, the focus is on creating the powerpoint presentation using Gemini / Qwen. Also showcased how to create AI videos using Gemini, Qwen and Arena.ai
 - Delivered n8n group class (AI111A) at Preface PST Olympian City.
