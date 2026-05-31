@@ -1,5 +1,6 @@
 ## 31 May 2026
 - Delivered the 1st 1-on-1 private class to Marco at Preface HQ.
+- Downloaded Hermes Agent to my Zo Computer container.
 
 ## 29 May 2026
 - Accomplished a 2-hour M365 Copilot demo training to reseller partners at Synnex, with a focus on hands-on AI agent building using M365 Copilot and Copilot Studio. 
