@@ -1,3 +1,14 @@
+## 4 Jun 2026
+- Prepared for AZ-500 exam
+
+## 3 Jun 2026
+- Delivered the 4th 1-on-1 private class (AI102B) to Savi at Preface HQ.
+- Delivered a group class (AI101B) with 9 students at Preface HQ.
+
+## 2 Jun 2026
+- Delivered the last class to 30 students at Lock Tao Secondary School, which was group presentations by the 6 student groups on the theme "Smart City". 
+- Demonstrated the MPF simulation game to teachers. 
+
 ## 31 May 2026
 - Delivered the 1st 1-on-1 private class to Marco at Preface HQ.
 - Downloaded Hermes Agent to my Zo Computer container.
