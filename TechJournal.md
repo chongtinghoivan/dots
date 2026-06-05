@@ -1,3 +1,6 @@
+## 5 Jun 2026
+- Passed AZ-500 exam and got Microsoft Certified: Azure Security Engineer Associate.
+
 ## 4 Jun 2026
 - Prepared for AZ-500 exam
 
