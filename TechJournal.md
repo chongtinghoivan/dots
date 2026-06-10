@@ -1,8 +1,12 @@
+## 10 Jun 2026
+- Delivered the 1st 1-on-1 private class to Mei Yu at Preface HQ.
+- Delivered the 5th 1-on-1 private class to Savi at Preface HQ.
+- Delivered a group class (AI102B) with 6 students at Preface HQ.
+
 ## 8 Jun 2026
 - Learnt how to add disk storage (both OS and Data disks) for client's production VMs implementation in Azure.
 - Learnt how to connect an AI agent built in Microsoft Copilot Studio to Facebook Messenger.
 - Tested running Marvis, and built a skill with it.
-
 
 ## 5 Jun 2026
 - Passed AZ-500 exam and got [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/THCHONG/FBCBFBFAC347598B?sharingId=DA5CF3D7151D4CD1).
