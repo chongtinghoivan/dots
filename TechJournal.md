@@ -1,3 +1,9 @@
+## 11 Jun 2026
+- Participated in Microsoft's GCR SME&C GCPS AI Agentic Frontier Hackathon and submitted 3 AI Agents on behalf of Synnex.
+- Created a motion-graphics-remotion skill at Microsoft Copilot Cowork (Frontier) for video preparations introducing the 3 AI Agents.
+- Used DaVinci Resolve Studio's AI feature to change the voiceover voice from female to male.
+- The 3 AI Agents created are "[LinkedIn New Connection Expert](https://drive.google.com/file/d/16xUKZ_NfIDcTmBZHMZE3Y5KaDqz1ykLe/view?usp=drive_link)", "[Trim Spaces and Line Breaks Expert](https://drive.google.com/file/d/1UI7g7B6N7D-yT5SIpLx1tem8UWdjXt6c/view?usp=drive_link)" and "[Synnex Cloud Support Agent](https://drive.google.com/file/d/1uLo1vOrr9eGqGqLVYSLUc-Nx9veRn2ac/view?usp=drive_link)".
+
 ## 10 Jun 2026
 - Delivered the 1st 1-on-1 private class to Mei Yu at Preface HQ.
 - Delivered the 5th 1-on-1 private class to Savi at Preface HQ.
