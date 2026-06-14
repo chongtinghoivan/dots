@@ -1,3 +1,7 @@
+## 14 Jun 2026
+- Installed Hermes Agent Desktop version. 
+- Delivered the 2nd 1-on-1 private class to Marco at Preface HQ.
+
 ## 11 Jun 2026
 - Participated in Microsoft's GCR SME&C GCPS AI Agentic Frontier Hackathon and submitted 3 AI Agents on behalf of Synnex.
 - Created a motion-graphics-remotion skill at Microsoft Copilot Cowork (Frontier) for video preparations introducing the 3 AI Agents.
