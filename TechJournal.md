@@ -1,3 +1,9 @@
+## 16 Jun 2026
+- Production VM implementation at 1:30am for client - Expansion of OS disk and data disk.
+
+## 15 Jun 2026
+- Configured Cherry Studio on old MacBook Pro such that the LLM on it can be used via API. Tested with Agnes AI models.
+
 ## 14 Jun 2026
 - Installed Hermes Agent Desktop version. 
 - Delivered the 2nd 1-on-1 private class to Marco at Preface HQ.
