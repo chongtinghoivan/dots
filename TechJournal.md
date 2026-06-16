@@ -2,7 +2,8 @@
 - Production VM implementation at 1:30am for client - Expansion of OS disk and data disk.
 
 ## 15 Jun 2026
-- Configured Cherry Studio on old MacBook Pro such that the LLM on it can be used via API. Tested with Agnes AI models.
+- Configured Cherry Studio on old MacBook Pro such that the LLM on it can be used via API by using Cloudflare tunnel. Tested working with Agnes AI chat model. It implies that if one has powerful hardware, he or she can use similar method to connect to the local LLMs.
+- Compared this solution with LM Studio's LM Link on data security. The latter should be better according to Perplexity. To be tested later.
 
 ## 14 Jun 2026
 - Installed Hermes Agent Desktop version. 
