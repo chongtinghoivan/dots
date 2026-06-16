@@ -1,6 +1,9 @@
 ## 16 Jun 2026
 - Production VM implementation at 1:30am for client - Expansion of OS disk and data disk.
 - Created a skill using Marvis to generate image using Agnes AI's image model.
+- Refined the skill such that it can generate image using the agnes image model inside the Marvis platform without the "Marvis AI 生成" watermark.
+- Tested the skill for text-to-image generation as well as image-to-image generation.
+- Also tested whether the Agnes AI image model can support generating brand and cartoon figures.
 
 ## 15 Jun 2026
 - Configured Cherry Studio on old MacBook Pro such that the LLM on it can be used via API by using Cloudflare tunnel. Tested working with Agnes AI chat model. It implies that if one has powerful hardware, he or she can use similar method to connect to the local LLMs.
