@@ -4,6 +4,7 @@
 - Refined the skill such that it can generate image using the agnes image model inside the Marvis platform without the "Marvis AI 生成" watermark.
 - Tested the skill for text-to-image generation as well as image-to-image generation.
 - Also tested whether the Agnes AI image model can support generating brand and cartoon figures.
+- Tested the video creation (Frontier) feature in M365 Copilot Chat. It's good that the text of the voiceover can be changed, and user can select among some male and female voices for voiceover generations. Tested that it supports English and Mandarin, but not Cantonese. Also tested changing the text of the scripts for the voiceover, but the regenerated audio still cannot be 100% accurate, with some missing text not pronounced.
 
 ## 15 Jun 2026
 - Configured Cherry Studio on old MacBook Pro such that the LLM on it can be used via API by using Cloudflare tunnel. Tested working with Agnes AI chat model. It implies that if one has powerful hardware, he or she can use similar method to connect to the local LLMs.
