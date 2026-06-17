@@ -1,3 +1,6 @@
+## 18 Jun 2026
+- Learnt more about [content credentials](https://www.linkedin.com/help/linkedin/answer/a6282984) after an AI generated photo using Google's instant-ramen was labelled by LinkedIn with a ["cr" mark](https://www.linkedin.com/feed/update/urn:li:activity:7473020142738751490/).
+
 ## 17 Jun 2026
 - Had a meeting with Grace from Generation Hong Kong to finalize the contents of the upcoming AI workshop to be delivered to a secondary school.
 - Delivered a 2-hour IT & AI Consulting session with Catherine, CEO of PathFinders, and Billy, Senior Finance Manager, under the HKJC Broadening Outreach Scheme with team colleague Samson. Demonstrated how AI agents and AI tools might possibly help enhancing their productivity and saving colleagues' time.
