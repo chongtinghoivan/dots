@@ -1,6 +1,7 @@
 ## 17 Jun 2026
+- Had a meeting with Grace from Generation Hong Kong to finalize the contents of the upcoming AI workshop to be delivered to a secondary school.
 - Delivered a 2-hour IT & AI Consulting session with Catherine, CEO of PathFinders, and Billy, Senior Finance Manager, under the HKJC Broadening Outreach Scheme with team colleague Samson. Demonstrated how AI agents and AI tools might possibly help enhancing their productivity and saving colleagues' time.
-- Delivered a group class (AI103B) with 9 students at Preface HQ on [AI video generation](https://www.linkedin.com/posts/chongtingho_ai-aivideogeneration-aivideo-ugcPost-7473020063898435584-UtKe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE).
+- Delivered a 2-hr group class (AI103B) with 9 students at Preface HQ on [AI video generation](https://www.linkedin.com/posts/chongtingho_ai-aivideogeneration-aivideo-ugcPost-7473020063898435584-UtKe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE).
 
 ## 16 Jun 2026
 - Production VM implementation at 1:30am for client - Expansion of OS disk and data disk.
