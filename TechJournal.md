@@ -1,5 +1,6 @@
 ## 18 Jun 2026
 - Learnt more about [content credentials](https://www.linkedin.com/help/linkedin/answer/a6282984) after an AI generated photo using Google's instant-ramen was labelled by LinkedIn with a ["cr" mark](https://www.linkedin.com/feed/update/urn:li:activity:7473020142738751490/).
+- Got the ["AI Skills Fest 2026" badge](https://www.linkedin.com/posts/chongtingho_ai-skills-fest-2026-was-issued-by-microsoft-share-7473129170231816192-bM1u/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) issued by Microsoft.
 
 ## 17 Jun 2026
 - Had a meeting with Grace from Generation Hong Kong to finalize the contents of the upcoming AI workshop to be delivered to a secondary school.
