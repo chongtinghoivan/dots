@@ -1,3 +1,8 @@
+## 20 Jun 2026
+- Successfully built a n8n workflow for image generation using Agnes AI "agnes-image-2.1-flash" model.
+- First time tried using VPN to connect the network back to Mainland China using [quickfox](https://www.quick-fox.com/en-US/).
+- Used 当贝投屏 to mirror screen from old MacBook Air to home andriod TV.
+
 ## 19 Jun 2026
 - Successfully connected custom AI model to n8n. (Cherry Studio)
 - Successfully connected another custom AI model to n8n. (Agnes AI)
