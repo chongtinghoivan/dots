@@ -1,6 +1,7 @@
 ## 19 Jun 2026
 - Successfully connected custom AI model to n8n. (Cherry Studio)
 - Successfully connected another custom AI model to n8n. (Agnes AI)
+- Learnt more about [CC switch](https://www.youtube.com/watch?v=u66kGcoi_v0)
 
 ## 18 Jun 2026
 - Learnt more about [content credentials](https://www.linkedin.com/help/linkedin/answer/a6282984) after an AI generated photo using Google's instant-ramen was labelled by LinkedIn with a ["cr" mark](https://www.linkedin.com/feed/update/urn:li:activity:7473020142738751490/).
