@@ -2,6 +2,8 @@
 - Successfully built a n8n workflow for image generation using Agnes AI "agnes-image-2.1-flash" model. (Both Text to Image & Image to Image)
 - Used [ImgBB](https://imgbb.com/) to convert Google file link to image link with file type
 - Created an AI Agent (Gems) in Gemini to enhance n8n workflow development, and another to provide security advice.
+- Found a free platform [Pavo](https://app.pavo-ai.work/) which is under the same mother company of Agnes AI, with free daily credits for image and video generation.
+- Tested AI video generation of Agnes AI "agnes-video-v2.0" model. It cannot yet achieve stable text generation in video for the time being.
 
 ## 20 Jun 2026
 - Successfully built a n8n workflow for image generation using Agnes AI "agnes-image-2.1-flash" model. (Text to image)
