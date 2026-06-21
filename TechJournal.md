@@ -1,6 +1,7 @@
 ## 21 Jun 2026
 - Successfully built a n8n workflow for image generation using Agnes AI "agnes-image-2.1-flash" model. (Both Text to Image & Image to Image)
 - Used [ImgBB](https://imgbb.com/) to convert Google file link to image link with file type
+- Created an AI Agent (Gems) in Gemini to enhance n8n workflow development, and another to provide security advice.
 
 ## 20 Jun 2026
 - Successfully built a n8n workflow for image generation using Agnes AI "agnes-image-2.1-flash" model. (Text to image)
