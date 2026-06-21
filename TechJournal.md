@@ -3,6 +3,8 @@
 - First time tried using VPN to connect the network back to Mainland China using [quickfox](https://www.quick-fox.com/en-US/).
 - Used 当贝投屏 to mirror screen from old MacBook Air to home andriod TV.
 - Debugged the chat response of the Agnes AI Image Generation app. 
+- Learnt more about Cloudflare Turnstile and how it may help to serve as a seamless way to verify web visitors and block bots without impacting user experience.
+- Built another version of the image generation app with Cloudflare Turnstile node added.
 
 ## 19 Jun 2026
 - Successfully connected custom AI model to n8n. (Cherry Studio)
