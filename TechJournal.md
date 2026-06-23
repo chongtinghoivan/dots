@@ -1,6 +1,7 @@
 ## 23 Jun 2026
 - Troubleshooted why the sync of Obsidian failed, revisited the [YouTube tutorial](https://www.youtube.com/watch?v=IlNOhNeWGgY) and used Perplexity to research the answer and solve the issue.
 - Tested adding custom model to GitHub Copilot.
+- Passed GH-300 and completed the [GitHub Copilot Certification](https://www.linkedin.com/posts/chongtingho_githubcopilot-generativeai-softwareengineering-activity-7475146036706172928-obmg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE).
 
 ## 22 Jun 2026
 - Prepared for GH-300 exam
