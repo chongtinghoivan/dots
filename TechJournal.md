@@ -1,3 +1,9 @@
+## 23 Jun 2026
+- Troubleshooted why the sync of Obsidian failed, revisited the [YouTube tutorial](https://www.youtube.com/watch?v=IlNOhNeWGgY) and used Perplexity to research the answer and solve the issue.
+
+## 22 Jun 2026
+- Prepared for GH-300 exam
+
 ## 21 Jun 2026
 - Successfully built a n8n workflow for image generation using Agnes AI "agnes-image-2.1-flash" model. (Both Text to Image & Image to Image)
 - Used [ImgBB](https://imgbb.com/) to convert Google file link to image link with file type
