@@ -1,5 +1,6 @@
 ## 23 Jun 2026
 - Troubleshooted why the sync of Obsidian failed, revisited the [YouTube tutorial](https://www.youtube.com/watch?v=IlNOhNeWGgY) and used Perplexity to research the answer and solve the issue.
+- Tested adding custom model to GitHub Copilot.
 
 ## 22 Jun 2026
 - Prepared for GH-300 exam
