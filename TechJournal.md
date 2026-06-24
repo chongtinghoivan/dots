@@ -1,5 +1,5 @@
 ## 24 Jun 2026
-- Invited as workshop speaker for Generation Hong Kong at JC YUP! Hackathon@Newman College, teaching students how to use different AI tools in image generation, social media campaign enhancement, music generation, video generation, vibe-coding. A hands-on session has been held to teach the students how to brainstorm ideas with reference to the presentation topics, and how to create AI agents using Google Gemini Gem and Perplexity Spaces. Demonstrated how to create a film director AI agent for facilitate generation of prompt text of AI video scenes.
+- Invited as workshop speaker for Generation Hong Kong at JC YUP! Hackathon organized for F4 students of Newman College, teaching students how to use different powerful free AI tools in image generation, social media campaign enhancement, music generation, video generation, vibe-coding. A hands-on session has been held to teach the students how to brainstorm ideas with reference to the presentation topics, and how to create AI agents using Google Gemini Gem and Perplexity Spaces. Demonstrated how to create a film director AI agent for facilitate generation of prompt text of AI video scenes.
 
 ## 23 Jun 2026
 - Troubleshooted why the sync of Obsidian failed, revisited the [YouTube tutorial](https://www.youtube.com/watch?v=IlNOhNeWGgY) and used Perplexity to research the answer and solve the issue.
