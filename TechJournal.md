@@ -1,6 +1,10 @@
+## 25 Jun 2026
+- Downloaded BrowserOS, would like to test its skill building capability and whether its custom AI model integration would work well.
+- Downloaded QQBrowser, and found a couple of documents handling and format conversion tools worth testing. 
+
 ## 24 Jun 2026
 - Invited as workshop speaker for Generation Hong Kong at JC YUP! Hackathon organized for F4 students of Newman College, teaching students how to use different powerful free AI tools in image generation, social media campaign enhancement, music generation, video generation, vibe-coding. A hands-on session has been held to teach the students how to brainstorm ideas with reference to the presentation topics, and how to create AI agents using Google Gemini Gem and Perplexity Spaces. Demonstrated how to create a film director AI agent for facilitate generation of prompt text of AI video scenes. Received positive feedbacks from students, teachers and colleagues from Generation Hong Kong.
-- Delivered another n8n lesson to Coco (AI112B) at Preface HQ, received positive comments "Enjoyed my two classes with you a lot!"
+- Delivered another n8n lesson to Coco (AI112B) at Preface HQ, happy to receive the positive comments from her: "Enjoyed my two classes with you a lot!"
 
 ## 23 Jun 2026
 - Troubleshooted why the sync of Obsidian failed, revisited the [YouTube tutorial](https://www.youtube.com/watch?v=IlNOhNeWGgY) and used Perplexity to research the answer and solve the issue.
