@@ -1,5 +1,7 @@
 ## 26 Jun 2026
 - Tested how to add skills to Gemini such that it can be called easily when "Ask Gemini" is pressed. Very convenient!
+- The BrowserOS's Assistant function is very powerful, making the use of AI agents a seamless experience.
+- Tested that the quality of output from different Gemini models (3.1 Flash-Lite vs 3.5 Flash) in answering technical questions differed a lot. Would definitely pick the 3.5 Flash one for similar scenarios in the future when answer quality and accuracy are important factors to consider.
 
 ## 25 Jun 2026
 - Downloaded BrowserOS, would like to test its skill building capability and whether its custom AI model integration would work well.
