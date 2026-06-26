@@ -1,3 +1,6 @@
+## 26 Jun 2026
+- Tested how to add skills to Gemini such that it can be called easily when "Ask Gemini" is pressed. Very convenient!
+
 ## 25 Jun 2026
 - Downloaded BrowserOS, would like to test its skill building capability and whether its custom AI model integration would work well.
 - Downloaded QQBrowser, and found a couple of documents handling and format conversion tools worth testing. 
