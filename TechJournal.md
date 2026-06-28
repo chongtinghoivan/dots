@@ -1,5 +1,5 @@
 ## 28 Jun 2026
-- Delivered a 4-hr n8n lesson to Silvia Chen (AI107A+B, AI108A) at Preface HQ.
+- Delivered a 4-hr n8n lesson to Silvia (AI107A+B, AI108A) at Preface HQ.
 
 ## 27 Jun 2026
 - Delivered a full day AI Workshop at Lock Tao Secondary School 樂道中學 to around 25 students.
