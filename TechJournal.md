@@ -1,3 +1,9 @@
+## 28 Jun 2026
+- Delivered a 4-hr n8n lesson to Silvia Chen (AI107A+B, AI108A) at Preface HQ.
+
+## 27 Jun 2026
+- Delivered a full day AI Workshop at Lock Tao Secondary School 樂道中學 to around 25 students.
+
 ## 26 Jun 2026
 - Tested how to add skills to Gemini such that it can be called easily when "Ask Gemini" is pressed. Very convenient!
 - The BrowserOS's Assistant function is very powerful, making the use of AI agents a seamless experience.
