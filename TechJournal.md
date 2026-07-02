@@ -1,3 +1,6 @@
+## 2 Jul 2026
+- Downloaded and tried GitHub Copilot app on Mac
+
 ## 1 Jul 2026
 - Delivered the 6th 1-on-1 private class (AI103A) to Savi at Preface HQ.
 
