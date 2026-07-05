@@ -1,5 +1,5 @@
 ## 5 Jul 2026
-- Delivered a 4-hr n8n lesson to Silvia (AI108B) at Preface HQ, also helped her configure a self-hosted n8n using Huggingface and Supabase. 
+- Delivered a 4-hr n8n lesson to Silvia (AI108B) at Preface HQ, also helped her configure a self-hosted n8n using Hugging Face and Supabase. 
 
 ## 3 Jul 2026
 - Delivered a 1-hr online consultation session to Robert (via Preface).
