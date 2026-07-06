@@ -1,3 +1,6 @@
+## 6 Jul 2026
+- Downloaded CC-Switch and configured Agnes AI with Codex following this tutorial on [YouTube](https://www.youtube.com/watch?v=v3fDWFRzS7E). 
+
 ## 5 Jul 2026
 - Delivered a 4-hr n8n lesson to Silvia (AI108B) at Preface HQ, also helped her configure a self-hosted n8n using Hugging Face and Supabase. 
 
