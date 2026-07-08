@@ -1,6 +1,7 @@
 ## 8 Jul 2026
 - Completed a 1-hr pro bono digital consulting call via Time Auction with Lily and her two colleagues from [Methodist Epworth Village Community Centre, Social Welfare](https://www.mevcc.org.hk/en/), guiding them how to make good use of the article feature of the organization's LinkedIn Page for sending newsletters to followers. Also introduced them tools like Brevo and Testimonial.to for mass-mailing and testimonial management. 
 - Completed a 1-hr pro bono digital consulting call via Time Auction with Joyce from [The Salvation Army](https://salvationarmy.org.hk/), introduced her Systeme.io, a platform which may fit her need and scenario of hosting multiple courses for 1800+ colleagues of her organization. Moreover, I shared with her how she may integrate the use of AI agents and different AI tools like NotebookLM and Clipchamp for courseware and quizz creation, as well as for text to speech supporting Cantonese.
+- Delivered a group class (AI101B) to 6 students at Preface HQ.
 
 ## 6 Jul 2026
 - Downloaded CC-Switch and configured Agnes AI with Codex following this tutorial on [YouTube](https://www.youtube.com/watch?v=v3fDWFRzS7E). 
