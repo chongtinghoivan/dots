@@ -1,3 +1,7 @@
+## 8 Jul 2026
+- Scheduled a 1-hr pro bono digital consulting call with Lily and her two colleagues (Maggie and IT colleague) from [MEVCC](https://www.mevcc.org.hk/en/), guiding them how to make good use of the article feature of the organization's LinkedIn Page for sending newsletters to followers. Also walked them through how to use tools like Brevo and Testimonial.to.
+- Scheduled a 1-hr pro bono digital consulting call with Joyce from The Salvation Army, introduced her Systeme.io, a platform which may fit her need and scenario of hosting multiple courses for 1800+ colleagues of her organization. Moreover, I shared with her how she may integrate the use of AI agents and different AI tools like NotebookLM and Clipchamp for courseware and quizz creation, as well as for text to speech supporting Cantonese.
+
 ## 6 Jul 2026
 - Downloaded CC-Switch and configured Agnes AI with Codex following this tutorial on [YouTube](https://www.youtube.com/watch?v=v3fDWFRzS7E). 
 
