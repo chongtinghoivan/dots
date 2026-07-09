@@ -1,3 +1,6 @@
+## 9 Jul 2026
+- Delivered a 1-hr workshop "Career Planning in the AI Era" (AI 世代的職涯規劃) to all Secondary 4 students of Kiangsu-Chekiang College (Shatin) 沙田蘇浙公學 on behalf of the Future Finance Academy.
+
 ## 8 Jul 2026
 - Completed a 1-hr pro bono digital consulting call via Time Auction with Lily and her two colleagues from [Methodist Epworth Village Community Centre, Social Welfare](https://www.mevcc.org.hk/en/), guiding them how to make good use of the article feature of the organization's LinkedIn Page for sending newsletters to followers. Also introduced them tools like Brevo and Testimonial.to for mass-mailing and testimonial management. 
 - Completed a 1-hr pro bono digital consulting call via Time Auction with Joyce from [The Salvation Army](https://salvationarmy.org.hk/), introduced her Systeme.io, a platform which may fit her need and scenario of hosting multiple courses for 1800+ colleagues of her organization. Moreover, I shared with her how she may integrate the use of AI agents and different AI tools like NotebookLM and Clipchamp for courseware and quizz creation, as well as for text to speech supporting Cantonese.
