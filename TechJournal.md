@@ -1,3 +1,8 @@
+## 10 Jul 2026
+- Started preparation for SC-401 exam
+- Learnt more about the latest features of [Microsoft Copilot Studio](https://www.youtube.com/watch?v=ujPX1GzcSg0)
+- Learnt more about how to better draft the [SKILL file](https://www.youtube.com/watch?v=WiDZMchEN0I)
+
 ## 9 Jul 2026
 - Delivered a 1-hr workshop "Career Planning in the AI Era" (AI 世代的職涯規劃) to all Secondary 4 students of Kiangsu-Chekiang College (Shatin) 沙田蘇浙公學 on behalf of the Future Finance Academy.
 
