@@ -1,3 +1,9 @@
+## 12 Jul 2026
+- Tested the [free e-namecard function](https://ecard.e-print.com.hk/index-ecard) of e-print. I like the feature of one-clicking adding the contact info to the contact list.
+
+## 11 Jul 2026
+- Learnt how to embed a WhatsApp link to my Linktree profile for better connection building.
+
 ## 10 Jul 2026
 - Started preparation for SC-401 exam
 - Learnt more about the latest features of [Microsoft Copilot Studio](https://www.youtube.com/watch?v=ujPX1GzcSg0)
