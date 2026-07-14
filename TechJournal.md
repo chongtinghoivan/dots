@@ -1,3 +1,7 @@
+## 14 Jul 2026
+- Tried how to build agent with the new UI of Copilot Studio. Built a Grant Writing agent using one of the [agency-agents](https://github.com/msitarzewski/agency-agents) skill [grant-writer](https://github.com/msitarzewski/agency-agents/blob/main/specialized/grant-writer.md).
+- Tried how to build workflow with the new UI of Copilot Studio. Not yet successful using self-built agent to call the "Researcher" agent during chat.
+
 ## 12 Jul 2026
 - Tested the [free e-namecard function](https://ecard.e-print.com.hk/index-ecard) of e-print. I like the feature of one-clicking adding the contact info to the contact list.
 
