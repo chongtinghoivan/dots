@@ -1,3 +1,8 @@
+## 15 Jul 2026
+- Delivered a 2-hr group AI class (AI102B) to 4 students at Preface HQ.
+- Acted as teaching-assistant at the 1.5-hr corporate AI class delivered by Joey Chan for Wheelock Properties. 
+- Used GitHub Copilot MacOS app to debug one of my GitHub Action workflow for AI Builders Daily Digest preparation.
+
 ## 14 Jul 2026
 - Tried how to build agent with the new UI of Copilot Studio. Built a Grant Writing agent using one of the [agency-agents](https://github.com/msitarzewski/agency-agents) skill [grant-writer](https://github.com/msitarzewski/agency-agents/blob/main/specialized/grant-writer.md).
 - Tried how to build workflow with the new UI of Copilot Studio. Not yet successful using self-built agent to call the "Researcher" agent during chat.
