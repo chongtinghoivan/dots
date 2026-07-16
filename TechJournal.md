@@ -1,3 +1,8 @@
+## 16 Jul 2026
+- Installed [Agnes Code](https://agnes-ai.com/agnescode), successfully connected it with custom models.
+- Started preparing for AI-300 exam of Microsoft.
+- Created more skills in Google Chrome browser via the "Ask Gemini" interface. Found it very useful and convenient.
+
 ## 15 Jul 2026
 - Delivered a 2-hr group AI class (AI102B) to 4 students at Preface HQ.
 - Acted as teaching-assistant at the 1.5-hr corporate AI class delivered by Joey Chan for Wheelock Properties. 
