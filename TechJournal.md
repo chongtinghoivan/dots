@@ -1,3 +1,8 @@
+## 19 Jul 2026
+- Started preparing for SC-200 exam.
+- Delivered a 2-hr AI lesson to Savi (AI104A) online.
+- Be one of the early 200 users having the access of Agnes 2.5 flash model.
+
 ## 16 Jul 2026
 - Installed [Agnes Code](https://agnes-ai.com/agnescode), successfully connected it with custom models.
 - Started preparing for AI-300 exam of Microsoft.
