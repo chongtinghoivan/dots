@@ -1,3 +1,6 @@
+## 20 Jul 2026
+- Passed the SC-200 exam and gained the [Microsoft Certified: Security Operations Analyst Associate credential](https://www.linkedin.com/posts/chongtingho_cybersecurity-securityoperations-microsoftcertified-share-7484961631781724160-0e7Z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE). 
+
 ## 19 Jul 2026
 - Started preparing for SC-200 exam.
 - Delivered a 2-hr AI lesson to Savi (AI104A) online.
