@@ -1,3 +1,6 @@
+## 22 Jul 2026
+- Earned the [Frontier Transformation Engineer](https://www.linkedin.com/posts/chongtingho_frontier-transformation-engineer-was-issued-share-7485373268024131584-_eA2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) badge from Microsoft.
+
 ## 21 Jul 2026
 - Prepared materials for a 1-hr M365 Copilot training (word, excel, powerpoint, outlook, AI agents).
 
