@@ -1,3 +1,8 @@
+## 23 Jul 2026
+- Delivered a full day (6-hr) AI workshop themed "AI Financial Analysis Workshop" (AI 金融分析助手設計工作坊) at S.T.F.A. Lee Shau Kee College 順德聯誼總會李兆基中學 to 26 elite students from Secondary One to Four.
+- Delivered a 2-hr AI video generation lesson to Savi (AI103B) at Preface HQ. 
+- Delivered a 2-hr AI video generation lesson to a group of 4 students (AI103B) at Preface HQ. 
+
 ## 22 Jul 2026
 - Earned the [Frontier Transformation Engineer](https://www.linkedin.com/posts/chongtingho_frontier-transformation-engineer-was-issued-share-7485373268024131584-_eA2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) badge from Microsoft.
 
