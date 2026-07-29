@@ -1,3 +1,6 @@
+## 29 Jul 2026
+- Tested building a Web App for scheduling google form opening using VS Code and Agnes AI 2.5 flash model.
+
 ## 23 Jul 2026
 - Downloaded ego lite
 - Prepared a pre-training guide for participants of an upcoming GitHub Copilot training.
