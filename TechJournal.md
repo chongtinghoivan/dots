@@ -2,6 +2,7 @@
 - Created a skill ["visualize-this-slide-editable"](https://www.linkedin.com/posts/chongtingho_powerpoint-aiproductivity-customskills-activity-7488492347610243072--Lwh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) that can turn a slide into editable object.
 - Learnt that Microsoft Powerpoint supports live [subtitles translation](https://youtu.be/nwQ4hgEA1uo?si=XvOFqzuHk-QtX7so).
 - Learnt that Microsoft Powerpoint supports [translation of slide deck into another language](https://www.youtube.com/watch?v=0qL82vf17hU) using Copilot.
+- Vibe-coded a web app using Agnes AI 2.5 flash to solve the issue of scheduling the opening of a Google form at a desired date and time.
 
 ## 29 Jul 2026
 - Tested building a Web App for scheduling google form opening using VS Code and Agnes AI 2.5 flash model.
