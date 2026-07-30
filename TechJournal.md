@@ -8,7 +8,7 @@
 - Tested building a Web App for scheduling google form opening using VS Code and Agnes AI 2.5 flash model.
 
 ## 24-28 Jul 2026
-- Took a break from tech. Invited as Jury and Performing Guest in the 15th Asia Pacific Harmonica Festival
+- Took a break from tech. Invited as Jury, Workshop Speaker and Performing Guest in the [15th Asia Pacific Harmonica Festival](https://www.linkedin.com/posts/chongtingho_hwzlae-hxciwyhwzlaellm-nfbiam-activity-7488100152302501888-hzgv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE).
 
 ## 23 Jul 2026
 - Downloaded ego lite
