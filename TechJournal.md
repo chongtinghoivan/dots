@@ -1,3 +1,7 @@
+## 31 Jul 2026
+- Delivered a M365 Copilot Training to around 30 colleagues of Bossini Enterprises Limited.
+- Tested creating video and portrait mode photos (GPT-Image-2) using M365 Copilot.
+
 ## 30 Jul 2026
 - Created a skill ["visualize-this-slide-editable"](https://www.linkedin.com/posts/chongtingho_powerpoint-aiproductivity-customskills-activity-7488492347610243072--Lwh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) that can turn a slide into editable object.
 - Learnt that Microsoft Powerpoint supports live [subtitles translation](https://youtu.be/nwQ4hgEA1uo?si=XvOFqzuHk-QtX7so).
