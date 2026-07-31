@@ -1,3 +1,6 @@
+## 1 Aug 2026
+- Created a GEM in gemini for translating my English social media post into Chinese, while keeping my tone. Result is impressive and it can save me quite a lot of time.
+
 ## 31 Jul 2026
 - Delivered a M365 Copilot Training to around 30 colleagues of Bossini Enterprises Limited.
 - Tested creating video and portrait mode photos (GPT-Image-2) using M365 Copilot.
