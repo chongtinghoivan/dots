@@ -1,5 +1,6 @@
 ## 1 Aug 2026
 - Created a GEM in gemini for translating my English social media post into Chinese, while keeping my tone. Result is impressive and it can save me quite a lot of time.
+- Published the [Google Form Open Scheduler](https://www.linkedin.com/posts/chongtingho_googleappsscript-productivity-opensource-ugcPost-7489311572230766592-FUIc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARotb8BSGh1yaKDeCZzswRdzN9ZmI3QxyE) as a [Public Repo on GitHub](https://github.com/chongtinghoivan/Google-Form-Open-Scheduler).
 
 ## 31 Jul 2026
 - Delivered a M365 Copilot Training to around 30 colleagues of Bossini Enterprises Limited.
