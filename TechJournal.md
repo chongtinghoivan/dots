@@ -3,6 +3,7 @@
 - Downloaded [buzz](https://buzz.xyz/)
 - Learnt more about [The GitHub Stars Program](https://stars.github.com/program)
 - Learnt more about [The Builder Fellowship](https://block.xyz/builder-fellowship)
+- Learnt more about [MCP Apps](https://mcpui.dev/)
 
 ## 1 Aug 2026
 - Created a GEM in gemini for translating my English social media post into Chinese, while keeping my tone. Result is impressive and it can save me quite a lot of time.
