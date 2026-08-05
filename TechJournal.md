@@ -1,3 +1,12 @@
+## 5 Aug 2026
+- Delivered a 2-hr AI lesson to Savi (AI103B) at Preface HQ, focusing on GitHub, GitHub Copilot and skills. 
+
+## 4 Aug 2026
+- Discovered a potential security risk of the testimonial collection chrome extension, tried using GitHub Copilot and Agnes AI 2.5 flash model to harden the extension.
+
+## 3 Aug 2026
+- Developed a revised version of testimonial collection chrome extension which works well across different social media channels
+
 ## 2 Aug 2026
 - Downloaded [goose](https://goose-docs.ai/)
 - Downloaded [buzz](https://buzz.xyz/)
