@@ -1,3 +1,6 @@
+## 7 Aug 2026
+- Delivered a 1.5-hr AI lesson to Sandra (AI101A) at Preface HQ. 
+
 ## 5 Aug 2026
 - Delivered a 2-hr AI lesson to Savi (AI103B) at Preface HQ, focusing on GitHub, GitHub Copilot and skills. 
 
