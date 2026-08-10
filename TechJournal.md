@@ -1,3 +1,8 @@
+## 10 Aug 2026
+- Delivered a 1.5-hr M365 Copilot training to Synnex sales team colleagues.
+- Delivered a 1 hr M365 Copilot training to reseller partners of Synnex.
+- Downloaded CodeBuddy CN. 
+
 ## 7 Aug 2026
 - Delivered a 1.5-hr AI lesson to Sandra (AI101A) at Preface HQ. 
 
