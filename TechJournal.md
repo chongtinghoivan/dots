@@ -1,6 +1,13 @@
+## 12 Aug 2026
+- Learnt more about using CodeBuddy and [creating npc using CNB](https://www.youtube.com/watch?v=-mKSwcrb4sk&t=85s)
+
+## 11 Aug 2026
+- Prepared for Microsoft SC-401 Information Security Administrator Associate exam
+- Learnt more about [FDE](https://openfde.net/zh)
+
 ## 10 Aug 2026
 - Delivered a 1.5-hr M365 Copilot training to Synnex sales team colleagues.
-- Delivered a 1 hr M365 Copilot training to reseller partners of Synnex.
+- Delivered a 1 hr M365 Copilot online training to around 100 reseller partners of Synnex.
 - Downloaded CodeBuddy CN. 
 
 ## 7 Aug 2026
