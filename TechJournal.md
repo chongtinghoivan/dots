@@ -1,3 +1,6 @@
+## 13 Aug 2026
+- Delivered a 2-hr AI lesson to Grace (AI104A) at Preface HQ, focusing on vibe-coding using Qwen AI Studio, and illustrated tools including Marvis and WorkBuddy. 
+
 ## 12 Aug 2026
 - Learnt more about using CodeBuddy and [creating npc using CNB](https://www.youtube.com/watch?v=-mKSwcrb4sk&t=85s)
 
@@ -14,7 +17,7 @@
 - Delivered a 1.5-hr AI lesson to Sandra (AI101A) at Preface HQ. 
 
 ## 5 Aug 2026
-- Delivered a 2-hr AI lesson to Savi (AI103B) at Preface HQ, focusing on GitHub, GitHub Copilot and skills. 
+- Delivered a 2-hr AI lesson to Savi at Preface HQ, focusing on GitHub, GitHub Copilot and skills. 
 
 ## 4 Aug 2026
 - Discovered a potential security risk of the testimonial collection chrome extension, tried using GitHub Copilot and Agnes AI 2.5 flash model to harden the extension.
