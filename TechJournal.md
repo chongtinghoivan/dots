@@ -1,8 +1,9 @@
 ## 13 Aug 2026
-- Delivered a 2-hr AI lesson to Grace (AI104A) at Preface HQ, focusing on vibe-coding using Qwen AI Studio, and illustrated tools including Marvis and WorkBuddy. 
+- Took SC-401 exam
 
 ## 12 Aug 2026
 - Learnt more about using CodeBuddy and [creating npc using CNB](https://www.youtube.com/watch?v=-mKSwcrb4sk&t=85s)
+- Delivered a 2-hr AI lesson to Grace (AI104A) at Preface HQ, focusing on vibe-coding using Qwen AI Studio, and illustrated tools including Marvis and WorkBuddy. 
 
 ## 11 Aug 2026
 - Prepared for Microsoft SC-401 Information Security Administrator Associate exam
