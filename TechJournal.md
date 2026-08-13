@@ -1,5 +1,5 @@
 ## 13 Aug 2026
-- Took SC-401 exam
+- Passed the SC-401 exam and got certified as [Microsoft Certified: Information Security Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/CHONGTINGHO-8000/B6CCAF8DAB0C4462?sharingId=540AA299083AF3D6)
 
 ## 12 Aug 2026
 - Learnt more about using CodeBuddy and [creating npc using CNB](https://www.youtube.com/watch?v=-mKSwcrb4sk&t=85s)
