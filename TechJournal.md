@@ -1,3 +1,6 @@
+## 14 Aug 2026
+- Delivered a 1.5 hr AI training session to operational leaders of Grand Hyatt Hong Kong (via Preface).
+
 ## 13 Aug 2026
 - [Passed the SC-401 exam](https://lnkd.in/p/g2su5j4j) and got certified as [Microsoft Certified: Information Security Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/CHONGTINGHO-8000/B6CCAF8DAB0C4462?sharingId=540AA299083AF3D6)
 
