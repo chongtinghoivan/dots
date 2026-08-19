@@ -1,3 +1,11 @@
+## 19 Aug 2026
+- Delivered a 1.5 hr AI training session to colleagues of Helen of Troy (via Preface).
+- Delivered a 1 hr AI training session to Raven at Preface HQ.
+- Delivered a 2 hr AI training session to Savi (AI 107) at Preface HQ.
+
+## 18 Aug 2026
+- Prepared for DP-600 exam
+
 ## 14 Aug 2026
 - Delivered a 1.5 hr AI training session to operational leaders of Grand Hyatt Hong Kong (via Preface).
 
