@@ -1,3 +1,7 @@
+## 20 Aug 2026
+- Passed the DP-600 exam and got certified as Microsoft Certified: Fabric Analytics Engineer Associate.  
+- Delivered a 1.5 hr AI training session to operational leaders of Grand Hyatt Hong Kong (via Preface).
+
 ## 19 Aug 2026
 - Delivered a 1.5 hr AI training session to colleagues of Helen of Troy (via Preface).
 - Delivered a 1 hr AI training session to Raven at Preface HQ.
