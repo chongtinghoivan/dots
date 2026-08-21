@@ -1,11 +1,14 @@
+## 21 Aug 2026
+- Delivered a 2-hr AI lesson to Grace at Preface HQ, focusing on AI agents building using GEMs with Gemini.
+
 ## 20 Aug 2026
-- Passed the DP-600 exam and got certified as Microsoft Certified: Fabric Analytics Engineer Associate.  
+- Passed the DP-600 exam and got [certified](https://learn.microsoft.com/api/credentials/share/en-us/CHONGTINGHO-8000/BCD211724B220F40?sharingId=540AA299083AF3D6) as [Microsoft Certified: Fabric Analytics Engineer Associate](https://lnkd.in/p/gybFr-QM).  
 - Delivered a 1.5 hr AI training session to operational leaders of Grand Hyatt Hong Kong (via Preface).
 
 ## 19 Aug 2026
 - Delivered a 1.5 hr AI training session to colleagues of Helen of Troy (via Preface).
-- Delivered a 1 hr AI training session to Raven at Preface HQ.
-- Delivered a 2 hr AI training session to Savi (AI 107) at Preface HQ.
+- Delivered a 1 hr AI training session to Raven at Preface HQ, sharing experiences on how to integrate different tools to build a automated system.
+- Delivered a 2 hr AI training session to Savi (AI 107) at Preface HQ, focusing on fundamentals of n8n.
 
 ## 18 Aug 2026
 - Prepared for DP-600 exam
