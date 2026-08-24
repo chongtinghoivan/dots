@@ -1,3 +1,7 @@
+## 24 Aug 2026
+- Watched video ["Microsoft Power Apps 2026: Everything You Need to Know"](https://www.youtube.com/watch?v=dJ-70dNWDxI)
+- Watched video ["GitHub Copilot Just Changed Power Platform Development Forever"](https://www.youtube.com/watch?v=9OuspfHemcA)
+
 ## 21 Aug 2026
 - Delivered a 2-hr AI lesson to Grace at Preface HQ, focusing on AI agents building using GEMs with Gemini.
 
