@@ -1,3 +1,9 @@
+## 26 Aug 2026
+- Delivered a 1 hr AI training session to Raven at Preface HQ, continuing on building a n8n automation workflow.
+
+## 25 Aug 2026
+- Prepared a training deck of M365 Copilot Studio for Synnex training.
+
 ## 24 Aug 2026
 - Watched video ["Microsoft Power Apps 2026: Everything You Need to Know"](https://www.youtube.com/watch?v=dJ-70dNWDxI)
 - Watched video ["GitHub Copilot Just Changed Power Platform Development Forever"](https://www.youtube.com/watch?v=9OuspfHemcA)
