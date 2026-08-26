@@ -3,6 +3,7 @@
 
 ## 25 Aug 2026
 - Prepared a training deck of M365 Copilot Studio for Synnex training.
+- Learnt how to export and import AI agents in Microsoft Copilot Studio.
 
 ## 24 Aug 2026
 - Watched video ["Microsoft Power Apps 2026: Everything You Need to Know"](https://www.youtube.com/watch?v=dJ-70dNWDxI)
