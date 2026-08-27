@@ -1,5 +1,6 @@
 ## 27 Aug 2026
-- Learnt more about WebMCP and how it may affect the future framework or best practice for website development. 
+- Learnt more about WebMCP and how it may affect the future framework or best practice for website development.
+- Learnt more about DeepSeek harness.
 
 ## 26 Aug 2026
 - Delivered a 1 hr AI training session to Raven at Preface HQ, continuing on building a n8n automation workflow.
