@@ -1,3 +1,6 @@
+## 27 Aug 2026
+- Learnt more about WebMCP and how it may affect the future framework or best practice for website development. 
+
 ## 26 Aug 2026
 - Delivered a 1 hr AI training session to Raven at Preface HQ, continuing on building a n8n automation workflow.
 - Delivered a 2 hr AI training session to Grace at Preface HQ, focusing on expert and skill creation using WorkBuddy.
