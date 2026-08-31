@@ -1,3 +1,6 @@
+## 31 Aug 2026
+- Passed [Exam AB-620](https://lnkd.in/p/gKN3FTFS) "Designing and Building Integrated AI Agent Solutions in Copilot Studio" and got certified as ["Microsoft Certified: AI Agent Builder Associate"](https://learn.microsoft.com/api/credentials/share/en-us/CHONGTINGHO-8000/49DEBC84E80830FB?sharingId=540AA299083AF3D6)
+
 ## 27 Aug 2026
 - Learnt more about WebMCP and how it may affect the future framework or best practice for website development.
 - Learnt more about DeepSeek harness. 
