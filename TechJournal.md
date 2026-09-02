@@ -1,3 +1,8 @@
+## 2 Sep 2026
+- Delivered a 2 hr AI training session (AI-103B) to Andreas at Preface HQ on AI video generations and how to use Gemini Notebook.
+- Delivered a 1.5 hr AI training session to Sandra at Preface HQ, sharing experiences of how to use M365 Copilot (Premium) licence.
+- Delivered a 2 hr AI training session to Grace at Preface HQ on AI agent creation using Perplexity and vibe-coding using Qwen AI Studio.
+
 ## 1 Sep 2026
 - Downloaded LM Studio Bionic and gave Locally app a try to let iPhone use the Qwen3.8-27B model downloaded in my MacBook Pro.
 
