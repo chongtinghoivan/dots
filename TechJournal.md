@@ -1,3 +1,11 @@
+## 5 Sep 2026
+- Delivered a 4 hr AI training session (AI-110) to 7 students at Preface HQ on n8n workflow creation.
+- Compared the AI music generation capability between Suno, Google Gemini and Udio using the same prompt text, and which one can be a better solution for teaching local students in classroom settings if they learn with iPads (and use of VPN may not be encouraged at school settings)
+
+## 4 Sep 2026
+- Used Gemini Enterprise to develop an AI agent for creating AI colleague.
+- Created two skills, one called "music-exam-questions" and one called "esr-report"
+
 ## 2 Sep 2026
 - Delivered a 2 hr AI training session (AI-103B) to Andreas at Preface HQ on AI video generations and how to use Gemini Notebook.
 - Delivered a 1.5 hr AI training session to Sandra at Preface HQ, sharing experiences of how to use M365 Copilot (Premium) licence.
