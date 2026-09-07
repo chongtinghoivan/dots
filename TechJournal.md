@@ -1,3 +1,6 @@
+## 7 Sep 2026
+- Delivered a 1 hr Microsoft Copilot session to around 50 Synnex resellers on how to use AI agents and create custom AI agents.
+
 ## 5 Sep 2026
 - Delivered a 4 hr AI training session (AI-110) to 7 students at Preface HQ on n8n workflow creation.
 - Compared the AI music generation capability between Suno, Google Gemini and Udio using the same prompt text, and which one can be a better solution for teaching local students in classroom settings if they learn with iPads (and use of VPN may not be encouraged at school settings)
