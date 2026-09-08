@@ -1,6 +1,7 @@
 ## 7 Sep 2026
 - Delivered a 1 hr Microsoft Copilot session to around 50 Synnex resellers on how to use AI agents and create custom AI agents.
 - Delivered a 2 hr AI training session (AI-107A) to Cathy at Preface HQ, also covered Microsoft Copilot's agents and relevant demo cases.
+- Successfully tested connecting Canva to Gemini Spark for a presentation slide editing task, converting from English to Simplified Chinese.
 
 ## 5 Sep 2026
 - Delivered a 4 hr AI training session (AI-110) to 7 students at Preface HQ on n8n workflow creation.
