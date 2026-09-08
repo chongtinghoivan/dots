@@ -1,5 +1,7 @@
 ## 8 Sep 2026
 - Delivered a 1 hr Microsoft Copilot online training session in Mandarin to an end user (Synnex).
+- Prepared the training materials for GitHub Copilot.
+- Preparing for PL-400 and AB-410 exams.
 
 ## 7 Sep 2026
 - Delivered a 1 hr Microsoft Copilot session to around 50 Synnex resellers on how to use AI agents and create custom AI agents.
