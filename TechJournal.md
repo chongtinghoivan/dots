@@ -1,3 +1,8 @@
+## 9 Sep 2026
+- Delivered 3 AI workshops (1-hr each) themed "High-Impact Visuals for Airport Communications" to colleagues of Airport Authority Hong Kong (via Preface).
+- Managed an AI experience booth (2 hr) on custom boarding pass image generation at AAHK Tech Fun Day.
+- Delivered a 2 hr AI training session (AI-107B) to Cathy and Queenie at Preface HQ, also covered agent team creation and Gemini Enterprise.
+
 ## 8 Sep 2026
 - Delivered a 1 hr Microsoft Copilot online training session in Mandarin to an end user (Synnex).
 - Prepared the training materials for GitHub Copilot.
