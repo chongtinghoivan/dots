@@ -1,3 +1,9 @@
+## 12 Sep 2026
+- Delivered 4-hr of AI training on n8n workflow building (AI111) to 8 students at Preface HQ.
+
+## 11 Sep 2026
+- Delivered a 1-hr GitHub Copilot hands-on training to end users of CloudRiches, reseller of Synnex, at eCloudvalley's office.
+
 ## 9 Sep 2026
 - Delivered 3 AI workshops (1-hr each) themed "High-Impact Visuals for Airport Communications" to colleagues of Airport Authority Hong Kong (via Preface).
 - Managed an AI experience booth (2 hr) on custom boarding pass image generation at AAHK Tech Fun Day.
