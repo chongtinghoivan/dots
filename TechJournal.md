@@ -1,3 +1,15 @@
+## 15 Sep 2026
+- Took the PL-400 exam and the AB-410 exam but failed.
+- Prepared for the AB-250 exam.
+- Learnt more about the latest Google Agentic AI tools.
+
+## 14 Sep 2026
+- Delivered 2-hr of AI training to Synnex's reseller partners on Microsoft Copilot.
+- Delivered a 2-hr AI training session (AI-108A) to Queenie at Preface HQ.
+
+## 13 Sep 2026
+- Prepared for the PL-400 exam.
+
 ## 12 Sep 2026
 - Delivered 4-hr of AI training on n8n workflow building (AI111) to 8 students at Preface HQ.
 
@@ -7,7 +19,7 @@
 ## 9 Sep 2026
 - Delivered 3 AI workshops (1-hr each) themed "High-Impact Visuals for Airport Communications" to colleagues of Airport Authority Hong Kong (via Preface).
 - Managed an AI experience booth (2 hr) on custom boarding pass image generation at AAHK Tech Fun Day.
-- Delivered a 2 hr AI training session (AI-107B) to Cathy and Queenie at Preface HQ, also covered agent team creation and Gemini Enterprise.
+- Delivered a 2-hr AI training session (AI-107B) to Cathy and Queenie at Preface HQ, also covered agent team creation and Gemini Enterprise.
 
 ## 8 Sep 2026
 - Delivered a 1 hr Microsoft Copilot online training session in Mandarin to an end user (Synnex).
