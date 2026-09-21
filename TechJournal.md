@@ -1,3 +1,25 @@
+## 21 Sep 2026
+- Explored how Copilot can be applied to law firms' daily operations and the respective advanced features under the Business Premium with Copilot license.
+- Delivered a 1.5-hr Microsoft Copilot training to 12-person team for Synnex's end user, Hui Private Office, on behalf of reseller. 
+
+## 20 Sep 2026
+- Updated self-hosted Dify to latest version.
+- Successfully configured Claude desktop app via the Gateway model powered by Agnes AI model using LiteLLM.
+- Tested Qoder with the limited time Qwen 3.8 Flash model to build websites for Microsoft examination preparation. Impressed by the result. (Questions scrapping using Marvis, Answer key preparation using Gemini Spark) 
+
+## 19 Sep 2026
+- Delivered a 4-hr AI training session (AI-112) to a group of students at Preface HQ, which I helped them build their own workflows and guided them building their self-hosted n8n.
+- Tested how to build a self-hosted n8n with AI Assistant features powered by Agnes AI model.
+
+## 18 Sep 2026
+- Delivered a 1.5-hr AI training session to Raven at Preface HQ, introducing the features of Marvis, teaching him how to build skills, and how to build parent and child AI agents using Gemini Enterprise.
+
+## 17 Sep 2026
+- Delivered a 2-hr AI training session to Grace at Preface HQ, teaching how to use AI from content research to powerpoint slides preparation. Also introduced how to use Canva to get template ideas.
+
+## 16 Sep 2026
+- Delivered a 2-hr AI training session (AI-108B) to Queenie at Preface HQ.
+
 ## 15 Sep 2026
 - Took the PL-400 exam and the AB-410 exam but failed.
 - Prepared for the AB-250 exam.
