@@ -1,6 +1,11 @@
+## 22 Sep 2026
+- Passed MB-210 and got certified as "Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate".
+
 ## 21 Sep 2026
 - Explored how Copilot can be applied to law firms' daily operations and the respective advanced features under the Business Premium with Copilot license.
-- Delivered a 1.5-hr Microsoft Copilot training to 12-person team for Synnex's end user, Hui Private Office, on behalf of reseller. 
+- Delivered a 1.5-hr Microsoft Copilot training to 12-person team for Synnex's end user, Hui Private Office, on behalf of reseller.
+- Delivered a 2-hr AI training session (AI-109A) on n8n workflow building to Cathy at Preface HQ.
+- Prepared for MB-210 exam.
 
 ## 20 Sep 2026
 - Updated self-hosted Dify to latest version.
