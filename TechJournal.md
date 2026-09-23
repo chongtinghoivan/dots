@@ -1,5 +1,6 @@
 ## 22 Sep 2026
 - Passed MB-210 and got certified as "Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate".
+- Used Qoder to build several exam preparation websites for Microsoft and VMware exams.
 
 ## 21 Sep 2026
 - Explored how Copilot can be applied to law firms' daily operations and the respective advanced features under the Business Premium with Copilot license.
