@@ -1,3 +1,6 @@
+## 23 Sep 2026
+- Delivered a 2-hr AI training session (AI-109B) on n8n workflow building to Cathy at Preface HQ.
+
 ## 22 Sep 2026
 - Passed MB-210 and got certified as "Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate".
 - Used Qoder to build several exam preparation websites for Microsoft and VMware exams.
