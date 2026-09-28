@@ -1,3 +1,11 @@
+## 28 Sep 2026
+- Passed the GH-200 exam "GitHub Actions". 
+- Used the Qoder app and [data](https://data.gov.hk/) from Data.gov.hk to create an app to check instant traffic condition in Hong Kong.
+- Delivered a 2-hr AI training session to Grace at Preface HQ.
+
+## 27 Sep 2026
+- Prepared for the GH-200 exam.
+
 ## 23 Sep 2026
 - Delivered a 2-hr AI training session (AI-109B) on n8n workflow building to Cathy at Preface HQ.
 
