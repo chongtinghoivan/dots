@@ -1,7 +1,12 @@
+## 29 Sep 2026
+- Delivered a 1.5 hr AI training to colleagues of HUI PRIVATE OFFICE, focusing on AI Agents.
+- Published another version of the app [Traffic Alert](https://hk-traffic.ivanchong.com/), adding "MTR Next Train", "Bus ETA" and "Road Alerts" features. Tech Stack used covered in [LinkedIn post](https://lnkd.in/p/drNHUEuq)
+
 ## 28 Sep 2026
 - Passed the GH-200 exam "GitHub Actions". 
 - Used the Qoder app and [data](https://data.gov.hk/) from Data.gov.hk to create an app to check instant traffic condition in Hong Kong.
 - Delivered a 2-hr AI training session to Grace at Preface HQ.
+- Published the app [Traffic Alert](https://traffic-hk.ivanchong.com/). Tech Stack used covered in [LinkedIn post](https://lnkd.in/p/dDBnRcxy)
 
 ## 27 Sep 2026
 - Prepared for the GH-200 exam.
