@@ -1,3 +1,15 @@
+## 1 Oct 2026
+- Tested creating [video](https://lnkd.in/p/gya-ua4y) with Manus Studio, totally mind-blowing!
+- Tested using Cue to add events to my Google Calendar.
+
+## 30 Sep 2026
+- Downloaded Muse by Meta
+- Downloaded Manus Studio 
+- Expiry of my Google AI Pro account
+- Built enhanced website for The Audio Description Association (Hong Kong) using Qoder (Qwen 3.8 flash) model.
+- Delegated a task to Qoder to help with utilizing the Google Ads Grant of Hong Kong Harmonica Association by setting ad campaigns. 
+- Joined the "Meet Manus 2.0: Founder Briefing" Zoom meeting hosted by the Manus AI team
+
 ## 29 Sep 2026
 - Delivered a 1.5 hr AI training to colleagues of HUI PRIVATE OFFICE, focusing on AI Agents.
 - Published another version of the app [Traffic Alert](https://hk-traffic.ivanchong.com/), adding "MTR Next Train", "Bus ETA" and "Road Alerts" features. Tech Stack used covered in [LinkedIn post](https://lnkd.in/p/drNHUEuq)
