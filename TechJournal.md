@@ -1,6 +1,6 @@
 ## 3 Oct 2026
 - Built 6 more directory websites using Meta Muse and consumed all the weekly tokens. A total of 10 directory websites are built in 2 days. 
-- Used Manus' Cue to build a workflow to manage my Zazzle print-on-demand store [MyVerse Gallery](https://www.zazzle.com/store/myversegallery).
+- Used Manus' Cue to build a workflow to manage my Zazzle print-on-demand store [MyVerse Gallery](https://www.zazzle.com/store/myversegallery). 14 products published using 80% of the weekly credits.
 
 ## 2 Oct 2026
 - Tested creating two more videos using Manus Studio, respectively telling the [KC 100th Anniversary story](https://lnkd.in/p/ghrBMbgk) and my [AI tech training story](https://lnkd.in/p/gVku9X_F).
