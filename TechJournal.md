@@ -1,3 +1,11 @@
+## 6 Oct 2026
+- Delivered a 2-hr AI training session to IT team colleagues of [WWPKG](https://wwpkg.com.hk/) on Microsoft Copilot and AI Agents.
+- Delivered a 2-hr AI training session to Grace at Preface HQ.
+
+## 5 Oct 2026
+- Configured Tailscale to connect my two MacBook Pro computers. Tried applying loop-engineering in Claude Code for app building. 
+- Delivered a 1-hr online webinar themed "Advanced AI Agents" to resellers of Synnex and teach them how to build skills and child agents.
+
 ## 3 Oct 2026
 - Built 6 more directory websites using Meta Muse and consumed all the weekly tokens. A total of 10 directory websites are built in 2 days. 
 - Used Manus' Cue to build a workflow to manage my Zazzle print-on-demand store [MyVerse Gallery](https://www.zazzle.com/store/myversegallery). 14 products published using 80% of the weekly credits.
