@@ -1,3 +1,10 @@
+## 9 Oct 2026
+- Delivered a 20 min [AI sharing session](https://lnkd.in/p/gbZTd32s) themed "零成本請個 AI 打工仔，你信唔信？" at KC Lunch gathering.
+- Delivered a 1.5-hr AI training session to Sandra at Preface HQ.
+
+## 8 Oct 2026
+- Tested the product publishing workflow for Zazzle store and got it running and published 30+ products per day.
+
 ## 6 Oct 2026
 - Delivered a 2-hr AI training session to IT team colleagues of [WWPKG](https://wwpkg.com.hk/) on Microsoft Copilot and AI Agents.
 - Delivered a 2-hr AI training session to Grace at Preface HQ.
