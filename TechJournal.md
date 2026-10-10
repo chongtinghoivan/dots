@@ -1,3 +1,7 @@
+## 10 Oct 2026
+- Delivered a 1-hr AI training session to Samuel at Preface HQ.
+- Tested how to animate photo to video using Microsoft Powerpoint.
+
 ## 9 Oct 2026
 - Delivered a 20 min [AI sharing session](https://lnkd.in/p/gbZTd32s) themed "零成本請個 AI 打工仔，你信唔信？" at KC Lunch gathering.
 - Delivered a 1.5-hr AI training session to Sandra at Preface HQ.
