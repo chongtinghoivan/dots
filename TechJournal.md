@@ -1,9 +1,10 @@
-## 13 Oct 2026
+## 12 Oct 2026
 - Delivered a 2-hr AI training session to Grace at Preface HQ.
 - Delivered a 2-hr Microsoft Copilot online training session to colleagues of New Yaohan.
 - Successfully tested creating a skill that allows Marvis to control the Claude Opus 5.5 model in PowerPoint app to generate video.
+- First time created an interactive slide showing a habit logging application using Microsoft Powerpoint.
 
-## 12 Oct 2026
+## 11 Oct 2026
 - Delivered a 4-hr AI training session to Queenie at Preface HQ.
 
 ## 10 Oct 2026
