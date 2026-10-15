@@ -1,3 +1,16 @@
+## 15 Oct 2026
+- Passed AI-103 exam and got the credential of "Microsoft Certified: Azure AI Apps and Agents Developer Associate" 
+- Used up the 2nd week of the free weekly tokens of Meta's Muse to build and enhance directory websites
+
+## 14 Oct 2026
+- Delivered a 1-hr online AI training session to around 300 colleagues of tms (the marketing store) via The Curioust.  
+- Prepared for AI-103 exam.
+- Polished the Zazzle store using Marvis and Muse.
+
+## 13 Oct 2026
+- Downloaded Orca.
+- Tested how to build an AI video-creation skill using WorkBuddy.
+
 ## 12 Oct 2026
 - Delivered a 2-hr AI training session to Grace at Preface HQ.
 - Delivered a 2-hr Microsoft Copilot online training session to colleagues of New Yaohan.
