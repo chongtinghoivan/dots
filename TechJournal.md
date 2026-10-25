@@ -1,3 +1,21 @@
+## 25 Oct 2026
+- Tested how to create animated video from Chinese painting style photo using Arena AI.
+
+## 24 Oct 2026
+- Delivered a 2-hr AI training session to Grace at Preface HQ.
+
+## 23 Oct 2026
+- Explored and tested how to do AI video generation using HyperFrames with Codex.
+- Explored and tested how to do AI video editing using DaVinci Resolve Studio with Claude Code desktop app.
+
+## 22 Oct 2026
+- Vibe-coded a local video creation tool with over 90 design templates provided as reference. It can produce video with subtitles using provided voiceover audio from user. [Sample video](https://lnkd.in/p/g_HwEtmU) posted to LinkedIn 
+- Learnt how to build voice clone using VoiceBox. 
+
+## 20 Oct 2026
+- Found alternative solutions / tools for DouBao's minutes-taking function. Tested that [tldv](https://tldv.io/) and [anarlog](https://anarlog.so/
+) work quite well. 
+
 ## 15 Oct 2026
 - Passed AI-103 exam and got the credential of "Microsoft Certified: Azure AI Apps and Agents Developer Associate" 
 - Used up the 2nd week of the free weekly tokens of Meta's Muse to build and enhance directory websites
