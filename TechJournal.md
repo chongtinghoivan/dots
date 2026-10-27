@@ -1,3 +1,10 @@
+## 27 Oct 2026
+- Finished editing the 1st video with topic ["What is Skill?"](https://youtu.be/2pHcxlV4HnQ) and published to YouTube.
+- Started preparing for the production of 2nd and 3rd video with topics "What is Agent 365?" and "What is Foundry IQ?". 
+
+## 26 Oct 2026
+- Continued to test and fix the AI Video Studio locally deployed tool vibe-coded for producing Cantonese tech videos.
+
 ## 25 Oct 2026
 - Tested how to create animated video from Chinese painting style photo using Arena AI.
 
