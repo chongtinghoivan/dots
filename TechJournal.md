@@ -1,3 +1,13 @@
+## 30 Oct 2026
+- Prepared training materials for the 3-hr AI-training session themed "Leveraging AI Tools to Maximize Productivity" under the Hong Kong Jockey Club Broadening Outreach Scheme (JCBOS).
+
+## 29 Oct 2026
+- Delivered a 1-hr AI training on Microsoft Copilot to senior management of CHEVALIER (NETWORK SOLUTIONS) LTD at Synnex office.
+- Prepared training materials for HKPC's 1-hr AI sharing session themed "香港就业趋势与 AI 时代职业发展".
+
+## 28 Oct 2026
+- Learnt more about how to create videos using HyperFrames and connecting it with AI tool like Codex.
+
 ## 27 Oct 2026
 - Finished editing the 1st video with topic ["What is Skill?"](https://youtu.be/2pHcxlV4HnQ) and published to YouTube.
 - Started preparing for the production of 2nd and 3rd video with topics "What is Agent 365?" and "What is Foundry IQ?". 
