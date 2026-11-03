@@ -1,3 +1,10 @@
+## 3 Nov 2026
+- Deployed a [Drawing Guessing App](https://drawing-app.ivanchong.com/) integrating AI models set up, supporting custom model.
+- Delivered a 2-hr AI training session to Grace at Preface HQ.
+
+## 31 Oct 2026
+- Delivered a 1-hr AI sharing session themed "香港就业趋势与 AI 时代职业发展" to around 40 students from Nanchang University (南昌大學) at Hong Kong Productivity Council.
+
 ## 30 Oct 2026
 - Prepared training materials for the 3-hr AI-training session themed "Leveraging AI Tools to Maximize Productivity" under the Hong Kong Jockey Club Broadening Outreach Scheme (JCBOS).
 
