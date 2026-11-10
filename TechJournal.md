@@ -1,3 +1,6 @@
+## 10 Nov 2026
+- Built a [name card scanning app](https://namecard.ivanchong.com/) and shared with connections on [LinkedIn](https://lnkd.in/p/g7WMz2xM). Support users connecting their AI model providers to use the app.
+
 ## 6 Nov 2026
 - Delivered the 3-hr AI-training session themed "Leveraging AI Tools to Maximize Productivity" under the Hong Kong Jockey Club Broadening Outreach Scheme (JCBOS) to 40+ participants who are local NPO leaders.
 
