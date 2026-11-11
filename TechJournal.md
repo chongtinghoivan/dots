@@ -1,5 +1,6 @@
 ## 11 Nov 2026
 - Built a music generation prompt guide web app with Qoder and shared the details on [Linkedin](https://lnkd.in/p/gaSEqFfx)
+- Delivered a 1-hr AI training workshop themed "AI 世代的職涯規劃 Career Planning in the AI Era" to 60 S4 students at Aberdeen Technical School
 
 ## 10 Nov 2026
 - Built a [name card scanning app](https://namecard.ivanchong.com/) and shared with connections on [LinkedIn](https://lnkd.in/p/g7WMz2xM). Support users connecting their AI model providers to use the app.
