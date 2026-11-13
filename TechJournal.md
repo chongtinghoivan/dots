@@ -1,3 +1,9 @@
+## 13 Nov 2026
+- Learnt more about n8n's [Nod](https://www.youtube.com/watch?v=NXG0FohJ-qs).
+
+## 12 Nov 2026
+- Published an [eNameCard web app](https://enamecard-app.pages.dev/) as public GitHub repo.
+
 ## 11 Nov 2026
 - Built a music generation prompt guide web app with Qoder and shared the details on [Linkedin](https://lnkd.in/p/gaSEqFfx)
 - Delivered a 1-hr AI training workshop themed "AI 世代的職涯規劃 Career Planning in the AI Era" to 60 S4 students at Aberdeen Technical School
