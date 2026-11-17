@@ -1,3 +1,8 @@
+## 16 Nov 2026
+- Delivered a 1-hr webinar to resellers introducing Microsoft Cowork at Synnex.
+- Facilitated the preparation of Agent 365 materials and Purview materials for a reseller. 
+- Registered for the "$100K HACKATHON" by Higgsfield, Marc Lou & Jack Friks. 
+
 ## 13 Nov 2026
 - Learnt more about n8n's [Nod](https://www.youtube.com/watch?v=NXG0FohJ-qs).
 
