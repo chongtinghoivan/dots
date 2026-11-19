@@ -1,3 +1,11 @@
+## 19 Nov 2026
+- Delivered a 2-hr AI training session to Grace at Preface HQ.
+- Passed the AI-500 exam and gained the credential as [Microsoft Certified: Multi-Agent AI Solutions Expert](https://learn.microsoft.com/api/credentials/share/en-gb/CHONGTINGHO-8000/85E5BBBB40FCABF0?sharingId=540AA299083AF3D6)
+
+## 18 Nov 2026
+- Delivered a 2-hr AI training session to Savi at Preface HQ.
+- Prepared for the [Exam AI-500: Designing and Implementing Multi-Agent AI Solutions](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-500/)
+
 ## 16 Nov 2026
 - Delivered a 1-hr webinar to resellers introducing Microsoft Cowork at Synnex.
 - Facilitated the preparation of Agent 365 materials and Purview materials for a reseller. 
