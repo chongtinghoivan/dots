@@ -5,6 +5,7 @@
 ## 18 Nov 2026
 - Delivered a 2-hr AI training session to Savi at Preface HQ.
 - Prepared for the [Exam AI-500: Designing and Implementing Multi-Agent AI Solutions](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-500/)
+- Tested AI video creation with Manus' Cue, the result is quite impressive and it can generate videos of duration over 20s.
 
 ## 16 Nov 2026
 - Delivered a 1-hr webinar to resellers introducing Microsoft Cowork at Synnex.
