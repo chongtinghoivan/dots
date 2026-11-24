@@ -1,3 +1,6 @@
+## 23 Nov 2026
+- Delivered a 2-hr AI training session on Microsoft Copilot to colleagues of Delta Pyramax on behalf of Synnex, covering Copilot features in Microsoft office apps as well as AI agents building with Agent Builder.
+
 ## 19 Nov 2026
 - Delivered a 2-hr AI training session to Grace at Preface HQ.
 - Passed the AI-500 exam and gained the credential as [Microsoft Certified: Multi-Agent AI Solutions Expert](https://learn.microsoft.com/api/credentials/share/en-gb/CHONGTINGHO-8000/85E5BBBB40FCABF0?sharingId=540AA299083AF3D6)
