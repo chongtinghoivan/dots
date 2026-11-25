@@ -1,3 +1,6 @@
+## 25 Nov 2026
+- Delivered a 2-hr AI training session to Savi at Preface HQ.
+
 ## 23 Nov 2026
 - Delivered a 2-hr AI training session on Microsoft Copilot to colleagues of Delta Pyramax on behalf of Synnex, covering Copilot features in Microsoft office apps as well as AI agents building with Agent Builder.
 
