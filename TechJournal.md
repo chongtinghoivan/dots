@@ -1,3 +1,9 @@
+## 27 Nov 2026
+- Passed AI-300 exam and got the credential of [Microsoft Certified: Machine Learning Operations Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/CHONGTINGHO-8000/5EA9C10B0E575B8A?sharingId=540AA299083AF3D6)
+
+## 26 Nov 2026
+- Prepared for AI-300 (Operationalizing Machine Learning and Generative AI Solutions) exam.
+
 ## 25 Nov 2026
 - Delivered a 2-hr AI training session to Savi at Preface HQ.
 
